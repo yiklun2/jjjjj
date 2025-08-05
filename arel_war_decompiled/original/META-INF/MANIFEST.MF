@@ -1,0 +1,3591 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/raw/s000.ogg
+SHA1-Digest: C1rNvXXxHuzFWsXGs/ITT4jNZ1I=
+
+Name: assets/script_eng/0402.zt1
+SHA1-Digest: EjbWWpp8Qi03qudQeoM9EqAiZYI=
+
+Name: assets/script_eng/0641.zt1
+SHA1-Digest: G2SrgT2RcFN7ooXp+EN9LsNQtf8=
+
+Name: assets/script_eng/0211.zt1
+SHA1-Digest: 1iN2dt9OnYFKMEvB1xPBTZhu+VE=
+
+Name: assets/img/198.pzx
+SHA1-Digest: STFcKmvwHxujUM7kubZ3LMbE3z8=
+
+Name: assets/script_eng/1101.zt1
+SHA1-Digest: qS21aWjENWj0JpwIXscq186wxvk=
+
+Name: assets/script_kor/1080.zt1
+SHA1-Digest: eGvx4BNrCBBes5NFy5WEofk1/VI=
+
+Name: res/drawable/btn_tapjoy.png
+SHA1-Digest: df4eQpNLQjdP73l1ifr/ihRrNnA=
+
+Name: assets/img/170.pzx
+SHA1-Digest: r9oIQNOozXnmcJ84hCIZaPfn3TA=
+
+Name: assets/img/161.pzx
+SHA1-Digest: /IeXwQZHBo9MPzIQdcM43ClAa2g=
+
+Name: assets/script_eng/0251.zt1
+SHA1-Digest: ueA7/iu1lhgN1bLb8r+/cc4ApJc=
+
+Name: assets/script_kor/0480.zt1
+SHA1-Digest: aCaUvRqA1ii5GPi4SLF9MASnlVU=
+
+Name: assets/script_eng/0222.zt1
+SHA1-Digest: Lsm4iP3xbyhgt/bKaMbOv7zhrdM=
+
+Name: assets/script_eng/0752.zt1
+SHA1-Digest: Wz6k62gb9SkzY1iOEmgHKz/LbNc=
+
+Name: assets/data_eng/XlsSound.zt1
+SHA1-Digest: 268wAeZiKfk5UTGv1y4BwY9ofGQ=
+
+Name: assets/img/201.pzx
+SHA1-Digest: 32mLEJA+IaW+ENJCByapUqDO8d8=
+
+Name: assets/script_eng/1050.zt1
+SHA1-Digest: XvfNN+SgNm+SaSbD0yoDc35BSUk=
+
+Name: assets/img/158.pzx
+SHA1-Digest: hwxdqmbxAQ6rwxgG+JJnnGsIdZ8=
+
+Name: assets/script_eng/0170.zt1
+SHA1-Digest: DQO9ZKx20WhZQPjRg6HP8LY6EZA=
+
+Name: assets/script_eng/1002.zt1
+SHA1-Digest: zAdfhurUmn7ry68LEsZxoeh4YQU=
+
+Name: assets/script_eng/1072.zt1
+SHA1-Digest: Q41Pg9Rwaajxz0teUbdKjq7AvN8=
+
+Name: assets/ptc/030.ptc
+SHA1-Digest: VWCGEn0nBfcflXpdUZ7eZ218uGw=
+
+Name: assets/script_kor/0120.zt1
+SHA1-Digest: QYA5V0wfsvdvH30quKoCJejOpMY=
+
+Name: assets/data_eng/XlsMap.zt1
+SHA1-Digest: OwtNIKp5glW3ydnzNWzwrUfhRig=
+
+Name: assets/script_eng/0041.zt1
+SHA1-Digest: wdHiy1CGWVpFn1ELgA4vPL7F2v8=
+
+Name: res/drawable/bar.png
+SHA1-Digest: +YG/9y6bOWoA3hZdVyQH7bHPAwU=
+
+Name: assets/img/085.pzx
+SHA1-Digest: VG827ZIqEoey29KbG4g3SGPdPR8=
+
+Name: assets/script_eng/0553.zt1
+SHA1-Digest: 8VaNQ0BPTyTipT5vAVa70oYuwJ4=
+
+Name: assets/script_kor/0761.zt1
+SHA1-Digest: t+CHZEl8Am1O5XuUcMTyhyfbONs=
+
+Name: assets/script_eng/0250.zt1
+SHA1-Digest: xXmigJpOhvdk8ygS8PvBcTyDZrE=
+
+Name: assets/script_eng/0133.zt1
+SHA1-Digest: 1dEwMpkHmeDI7KkAUdG6EIQpIXE=
+
+Name: assets/script_kor/0683.zt1
+SHA1-Digest: WJ1E/1NPZ4K33i2tDxuFniR+Odg=
+
+Name: res/drawable-mdpi/icon_normal.png
+SHA1-Digest: 4hemjCkbyNPJm8/WUg84FO/vg8U=
+
+Name: assets/script_eng/1160.zt1
+SHA1-Digest: /d2U1Hyljxa7rlS3tpxQiCsdgGg=
+
+Name: assets/script_kor/1030.zt1
+SHA1-Digest: taPWyYIwU15Z/W7Xh/avM/c5bFI=
+
+Name: assets/script_eng/0061.zt1
+SHA1-Digest: ZspA9qy/u6+pM9gz6olfZpHxxdU=
+
+Name: assets/script_kor/0870.zt1
+SHA1-Digest: PkU0WO9ZaeCsOo48LDvBIedW33o=
+
+Name: res/drawable/home_clicked.png
+SHA1-Digest: cL2ksy76xqIBcnnxe7s5H4Sc0cQ=
+
+Name: assets/script_kor/0510.zt1
+SHA1-Digest: P6cKyLSXrGFfkrhFtumH98NsmkE=
+
+Name: assets/img/208.mpl
+SHA1-Digest: rRJhj8EAp61FS3h2fwm0fENxC7o=
+
+Name: assets/TouchOemIME.pzx
+SHA1-Digest: KQh8XpujSAwolL6VHT6gGzWrZAQ=
+
+Name: assets/img/045.pzx
+SHA1-Digest: OJB3wakFxhnyzo8kEg5+4iJCilo=
+
+Name: assets/script_kor/0523.zt1
+SHA1-Digest: 9H/1gdMof5QGfgm+srHSNHyE/zo=
+
+Name: assets/script_eng/0501.zt1
+SHA1-Digest: FsPx9eN2AmZvgiMPoOQuIoZw4Zg=
+
+Name: assets/ptc/027.ptc
+SHA1-Digest: JMZHp9e6CZJsdfRIl2ExkZ+5yx0=
+
+Name: assets/script_eng/0023.zt1
+SHA1-Digest: sX1ncWUC2jUvRNgiDLcJwMICotk=
+
+Name: assets/script_eng/0213.zt1
+SHA1-Digest: id04AjJzzZryFUp7Brxw0+P6a+A=
+
+Name: res/drawable-hdpi/icon_normal.png
+SHA1-Digest: 01YYgfwppPPNsejUrFLTAOM/lIk=
+
+Name: assets/script_kor/1002.zt1
+SHA1-Digest: XEtR2nj7QpPF0jcsnI+kxsP0xIA=
+
+Name: assets/img/011.pzx
+SHA1-Digest: vGnMt1RbKcPnUj+ngd1LHKpnpiA=
+
+Name: assets/img/168.pzx
+SHA1-Digest: gxKWfoV/fppRx74GCklOSe6idnM=
+
+Name: assets/script_kor/1013.zt1
+SHA1-Digest: Ndg0lpYyCNaEoxPla8xTYQm9Cl8=
+
+Name: assets/script_kor/0403.zt1
+SHA1-Digest: JjuXznmx8dShNQUCy8HjDCWE9i0=
+
+Name: assets/script_eng/0173.zt1
+SHA1-Digest: HNzk8f61V/bc9oFwpyT+LgZR7kg=
+
+Name: assets/script_kor/0580.zt1
+SHA1-Digest: XfHd0j5NW+/wHOhbvfBp/K2phDk=
+
+Name: assets/script_eng/0843.zt1
+SHA1-Digest: ooH1qTw5DFyhZ0/pO5KrDFEWk3Q=
+
+Name: assets/data_kor/XlsSynastry_mine.zt1
+SHA1-Digest: ja1rqfBnvj1rXthLQouqvOAnidI=
+
+Name: assets/script_kor/0061.zt1
+SHA1-Digest: TxTvydusTx5NTgFiecCJmBj91tg=
+
+Name: assets/script_eng/0183.zt1
+SHA1-Digest: KCconspgPZn+WvTLqYKOgixYvN4=
+
+Name: assets/script_kor/0173.zt1
+SHA1-Digest: Jc974BsXJFENnlREza9jzPjZxek=
+
+Name: assets/script_kor/0201.zt1
+SHA1-Digest: vYSmfgksbzi9cmJ1X+FcrOLAN8s=
+
+Name: assets/map/008.zt1
+SHA1-Digest: NNfGbWJqai1aNv2OFmDIx9Z/UjA=
+
+Name: assets/img/038.pzx
+SHA1-Digest: HE6J7O5CfG6MVYYAXA9aDOUmu48=
+
+Name: assets/script_kor/1011.zt1
+SHA1-Digest: sMwuxSiMVUtI/Q4asN4OVSJDYu8=
+
+Name: assets/script_eng/0910.zt1
+SHA1-Digest: XGjwzaMblf6FtqpMFj/gEyim+IM=
+
+Name: assets/script_kor/0293.zt1
+SHA1-Digest: fw0YOEdw0kx2eGzaDyVhAcYPTMo=
+
+Name: assets/script_kor/0033.zt1
+SHA1-Digest: b7rw4a9JI8RMwhmMJnxzmdROAqs=
+
+Name: res/raw/s022.ogg
+SHA1-Digest: WxQ0sdeViapIJIOvL9Rw2IMR0Ro=
+
+Name: assets/script_kor/0443.zt1
+SHA1-Digest: rJUPY0LvuSN34H4VwvZEkmU/os8=
+
+Name: assets/script_eng/0283.zt1
+SHA1-Digest: M/aDX8ttGY1s+vYIET1llc5hY3Y=
+
+Name: assets/script_kor/0710.zt1
+SHA1-Digest: VwJiFKCD+Tdw1u6y1deeWAbMN8A=
+
+Name: assets/script_eng/0550.zt1
+SHA1-Digest: Chcsmmdu1wZbDe6aET6+5a55r3g=
+
+Name: assets/script_eng/0822.zt1
+SHA1-Digest: lxV1PRp+9vg/BkDmrimammHdAy4=
+
+Name: assets/script_eng/0413.zt1
+SHA1-Digest: MZjJCU78QDyPdQbG5qtihtslowQ=
+
+Name: res/raw/s003.ogg
+SHA1-Digest: GJ9rbikqoUmAkB6xFb6p//nZsng=
+
+Name: assets/img/193.pzx
+SHA1-Digest: nuENvCF6mdryhvWRmBu3DBCU5IY=
+
+Name: assets/img/200.mpl
+SHA1-Digest: 7yLFlSS6pvX2DiLOo3f7DxJGoeM=
+
+Name: assets/img/106.pzx
+SHA1-Digest: B7LCL920sM/urMWsKUX0sXgvW/c=
+
+Name: assets/img/100.pzx
+SHA1-Digest: ddEXTWStkQEeDdKltmWbhQPUZ9M=
+
+Name: res/raw/s075.ogg
+SHA1-Digest: RibGbykIzyYzvysAs0kvRqBFn8w=
+
+Name: assets/script_kor/0363.zt1
+SHA1-Digest: c42iP2mZuOJyziIFVy7Isw1ZkOA=
+
+Name: assets/img/209.pzx
+SHA1-Digest: 432zAI5DWf9/Ozmnwj7NWv/50nM=
+
+Name: assets/script_eng/0231.zt1
+SHA1-Digest: eMV8NGnIjeyeYfb7eLTajCumi2o=
+
+Name: assets/img/034_k.pzx
+SHA1-Digest: VpTLGKV95r43nKXTQLXIBxzsPnI=
+
+Name: assets/script_eng/0650.zt1
+SHA1-Digest: QMxYsPx/GT5hcA/AZMhooj+mT94=
+
+Name: assets/img/240.mpl
+SHA1-Digest: +yJJmHSeJiaa5bFy9ZFwrXgI5mo=
+
+Name: assets/script_eng/0703.zt1
+SHA1-Digest: wOQky2idF3SmFDr8B2PxagVAVl8=
+
+Name: assets/script_eng/0814.zt1
+SHA1-Digest: EyRl5Cd0s5qJchZABVgCsZeWs50=
+
+Name: assets/script_kor/0703.zt1
+SHA1-Digest: YTdYT/irGM5GndhFTeug28buugU=
+
+Name: assets/script_kor/0340.zt1
+SHA1-Digest: 8rtcM/fKEoe11YSuuT7q/A7I7r8=
+
+Name: assets/script_eng/0230.zt1
+SHA1-Digest: Lnqbhr+g1vC4N9lIGINQtdvffZE=
+
+Name: res/raw/s084.ogg
+SHA1-Digest: wNYJ0KhRyHCTffQclpYwTArxuMg=
+
+Name: assets/ptc/017.ptc
+SHA1-Digest: NN2bizuoMIBK4B2zzAukjtBwyKc=
+
+Name: assets/ptc/020.ptc
+SHA1-Digest: YD6A7w/VPGWEiR5sFw/dKbS21wE=
+
+Name: assets/script_eng/0233.zt1
+SHA1-Digest: p8P6ofHhqVna+CCf7XGZJAR36c0=
+
+Name: assets/script_eng/0333.zt1
+SHA1-Digest: N2XPqN/ZA25+cbmoU6eLsHKj+vQ=
+
+Name: assets/script_eng/0401.zt1
+SHA1-Digest: Z99uhWsgsTcU9ZM4+Iv7ze6pOYg=
+
+Name: assets/script_kor/0090.zt1
+SHA1-Digest: w4JmflRF8So8bcT5ftpb/UKxkFQ=
+
+Name: assets/script_kor/0953.zt1
+SHA1-Digest: d3JSLrSD5jD4/RYNkd9T7/lM9zU=
+
+Name: assets/img/112.pzx
+SHA1-Digest: 3GY+OlIFGFESi9WMqipThWesYdA=
+
+Name: assets/script_eng/0414.zt1
+SHA1-Digest: yH+OkE+/HtrfcoyjJBN3NFmo21k=
+
+Name: assets/script_kor/0573.zt1
+SHA1-Digest: zcaSJC9FzeOZtU9xtxmHABy1+b0=
+
+Name: assets/script_eng/0440.zt1
+SHA1-Digest: YwOw05aCMQdQ4k49BFuq4QPImCo=
+
+Name: assets/img/228.mpl
+SHA1-Digest: q+PKixMxHzgucX0AS6Fq6X9afOY=
+
+Name: assets/script_eng/0270.zt1
+SHA1-Digest: 1/GMOczdB/bu6ytay0CEGlmszl4=
+
+Name: assets/script_kor/0211.zt1
+SHA1-Digest: 3vLiDcwJlds0QG/ynA6giTU0Ugg=
+
+Name: res/raw/s133.ogg
+SHA1-Digest: kv+QieCjnLvRR2bNoooZjATqTf0=
+
+Name: assets/ptc/001.ptc
+SHA1-Digest: aqHZQ6Sw6IOfWuxYj3d1n5DTaYI=
+
+Name: res/drawable-hdpi/icon_72.png
+SHA1-Digest: YL9IavPSOAqQBMAjI75WiTHLwsY=
+
+Name: assets/img/219.pzx
+SHA1-Digest: RXuYLmv9k+J03/G/v+hEM00wKwk=
+
+Name: assets/data_kor/XlsLevelDesign.zt1
+SHA1-Digest: mX2rlOCycmey/QcffjF++meZcbY=
+
+Name: assets/script_kor/0333.zt1
+SHA1-Digest: Cvl966X8BLhA4FTHm3N0jtVansw=
+
+Name: assets/img/195.mpl
+SHA1-Digest: NC64wlxns/9WnLitxT0U9BZ6R8Y=
+
+Name: assets/data_eng/XlsDef_Weight.zt1
+SHA1-Digest: GyMwE5PzJIRZBn4gh0OG+ERSRp0=
+
+Name: assets/ptc/007.ptc
+SHA1-Digest: 23VkzMuhowMMhMmxAfI8zRc6aD0=
+
+Name: assets/script_kor/0430.zt1
+SHA1-Digest: cOkf/nhiN10aHrOgN/woCFoLcSU=
+
+Name: assets/script_kor/0620.zt1
+SHA1-Digest: /IxGHrTvSMiqTMOIcXb1xbx/LL0=
+
+Name: assets/script_eng/1180.zt1
+SHA1-Digest: DzGCcl+iaFc1eNir0pVBRwYESB4=
+
+Name: assets/img/116.pzx
+SHA1-Digest: c35JASo2T45leOTb9GT0YOIjVZQ=
+
+Name: assets/script_eng/0640.zt1
+SHA1-Digest: TUsGHhpdCBz06lvUrXZ0XxOVlOo=
+
+Name: assets/img/235.mpl
+SHA1-Digest: oHIYSOJg7ieK+S3LOeynFf/xGVI=
+
+Name: assets/img/230.pzx
+SHA1-Digest: ezKX4wwn/1jHOYwa4mH9pp1FbGs=
+
+Name: assets/img/130.pzx
+SHA1-Digest: 74/JZ12VKZ8CLMLCyTie896lFEU=
+
+Name: res/raw/s118.ogg
+SHA1-Digest: zw0jL3jDtKc3mZdu7kV0cQppVs8=
+
+Name: assets/img/039.pzx
+SHA1-Digest: 3X595AXB+2tPXz9HsiQ58ZZhRnE=
+
+Name: assets/script_kor/1023.zt1
+SHA1-Digest: Tst5wzAiBTX9fw02pD48boZd5Ok=
+
+Name: res/raw/s004.ogg
+SHA1-Digest: fTteyaobpH+YwbLsiAVYvPUM3to=
+
+Name: assets/script_eng/0420.zt1
+SHA1-Digest: KVWVm+OPBGIVYAvH/fB/f6vpXqU=
+
+Name: assets/script_eng/1151.zt1
+SHA1-Digest: SCrYC3Dh1RBsV1hgd43n6MaAu24=
+
+Name: assets/script_kor/0960.zt1
+SHA1-Digest: qRepFwALwduP0v5PMi9E/RKBXCE=
+
+Name: assets/img/017.pzx
+SHA1-Digest: cnvKzMNPHh4i1RpSVaiwFEzXSMQ=
+
+Name: assets/script_eng/0873.zt1
+SHA1-Digest: TApuorCWUt13hOD2gR/jgfR3J60=
+
+Name: assets/img/063.pzx
+SHA1-Digest: KofnpSbD7Jjl2xo3ildvLzZIM/A=
+
+Name: assets/script_eng/1103.zt1
+SHA1-Digest: rdsAHWGe/0DoTb7iYAxg3SZ41rc=
+
+Name: res/raw/s130.ogg
+SHA1-Digest: iLk/fMOO2aXScBctSqir9qMoQnk=
+
+Name: assets/img/236.mpl
+SHA1-Digest: WRKLhND0AASBXY87nWAOvnTh8kk=
+
+Name: assets/script_eng/0903.zt1
+SHA1-Digest: 8yAnlKPF6USOYyfyUxUoG+jUaJs=
+
+Name: assets/img/079.pzx
+SHA1-Digest: wYoRlmPTfOl7gPqEJ9WCNJfLxwA=
+
+Name: assets/script_kor/0880.zt1
+SHA1-Digest: Onx5lTCuy9mWHCDVl1nzVghVcaM=
+
+Name: assets/img/060.pzx
+SHA1-Digest: uHFzwXcGnIyLPcO9xLtpmz34YLs=
+
+Name: res/drawable/back_b.png
+SHA1-Digest: 5F48q8p8s2ASjvnYtLx/fDKtv8E=
+
+Name: assets/script_kor/0952.zt1
+SHA1-Digest: LY1/UXh0MVi6LKTbZ8h6Ht9TdrU=
+
+Name: res/raw/s116.ogg
+SHA1-Digest: +6A6xWOPS3SMahAmREXWR3wJ/Xk=
+
+Name: assets/script_eng/0060.zt1
+SHA1-Digest: tUt5r/HqqMJSSeu8+r+TYQJaceI=
+
+Name: assets/script_kor/0871.zt1
+SHA1-Digest: 0e3170J7Em6S7j+kXsFppyU+r1g=
+
+Name: assets/script_eng/0860.zt1
+SHA1-Digest: dK4lBZdobAImusn35xeGANDpB6g=
+
+Name: assets/script_kor/0923.zt1
+SHA1-Digest: CGyvs0jO7QpLKexF831STtvIgFg=
+
+Name: assets/img/189.pzx
+SHA1-Digest: XjaTbkp4dvJJ5VeCThT6bNWHlac=
+
+Name: assets/img/186.mpl
+SHA1-Digest: vNSCEgvyUDfu9yHDnD6IhshYQuE=
+
+Name: assets/script_kor/0463.zt1
+SHA1-Digest: 6gHECwk2n61doASbHf8XbzKAENA=
+
+Name: assets/script_kor/1101.zt1
+SHA1-Digest: FGCrns2F7JeC9WtV58tcYzw0fiM=
+
+Name: assets/script_eng/0541.zt1
+SHA1-Digest: vz1+z8EFUFb0nVb9tBKScgMIl0g=
+
+Name: assets/img/122.pzx
+SHA1-Digest: uUGo/SZR2a3JuFfiNKcR5Z1PSmw=
+
+Name: assets/script_eng/1093.zt1
+SHA1-Digest: Wuq+iseK6NuEu0moxc74gDWbYro=
+
+Name: assets/script_eng/0923.zt1
+SHA1-Digest: cru/bCutfEyv6P3BeKM+UQ60ozI=
+
+Name: res/drawable/home_b.png
+SHA1-Digest: oKJ5Gly2eu2UwMMq+N0YxgYz+vE=
+
+Name: assets/img/218.mpl
+SHA1-Digest: eiG74GxymJ9WbV3/XFoDrBo5iIc=
+
+Name: res/drawable/btt_touch.png
+SHA1-Digest: 9QZnR6lEwikjO41uzp1KQa7+Pj0=
+
+Name: assets/script_kor/0551.zt1
+SHA1-Digest: JsxNZrQj9RoTZ6gzjtj5ZfF/EFg=
+
+Name: assets/img/043.pzx
+SHA1-Digest: rFd2CXV6pQVThtQItz5jwFvPCCs=
+
+Name: assets/script_eng/0460.zt1
+SHA1-Digest: dds56kyZgvtZNg1dO/JVYs4ZehY=
+
+Name: assets/script_kor/1033.zt1
+SHA1-Digest: x3wOhYlHLwdt9JOo8R4pASDWI0Q=
+
+Name: assets/script_kor/0040.zt1
+SHA1-Digest: S6rZtlrdxbcFlgWCLxxlAekpOj8=
+
+Name: assets/img/162.pzx
+SHA1-Digest: 3zY7BxWCP5p+d1pi1iT/yaG4nm8=
+
+Name: assets/script_kor/0251.zt1
+SHA1-Digest: 8cP2vE/FDK+apoFGsLB9tOI3mps=
+
+Name: assets/img/157.pzx
+SHA1-Digest: gEt1margaolwiHSweOhkUIzAF18=
+
+Name: assets/script_eng/0011.zt1
+SHA1-Digest: QRTBC9zSaCvOHCDokD3/3gOMPT8=
+
+Name: assets/script_kor/0163.zt1
+SHA1-Digest: owRJoi+FG++WHz8NOWxpGqS4lEY=
+
+Name: assets/map/014.zt1
+SHA1-Digest: iQ6750cbHPZGnl2X1PVLwouvXek=
+
+Name: assets/script_eng/0110.zt1
+SHA1-Digest: XUvLqoFjphqcRDCeaZAX7o3F8dg=
+
+Name: assets/script_kor/0840.zt1
+SHA1-Digest: ENa0ZaORoKqLJW0dARHdjhJSEVk=
+
+Name: assets/script_kor/0581.zt1
+SHA1-Digest: uXvPPFObhrM5+NrqhCR4PXEBDzE=
+
+Name: assets/ptc/038.ptc
+SHA1-Digest: lotAXKoAjip+xsI7FAYtQKoUwKE=
+
+Name: assets/img/126.pzx
+SHA1-Digest: zBy0DPkNlA/BwXZjMRlHnHPdCo0=
+
+Name: assets/img/025.pzx
+SHA1-Digest: WlhDLnsNVxqOqwSW47Z+0Nn/8nw=
+
+Name: assets/script_kor/0493.zt1
+SHA1-Digest: J0a7e18cP4HTArUonFh1xQ4nJxg=
+
+Name: assets/script_eng/0630.zt1
+SHA1-Digest: hMm0N5pFuu8AFNjt+0K+sm9899U=
+
+Name: assets/script_kor/0110.zt1
+SHA1-Digest: Pu5QB1dt0Ui5jD+9f4G8lHsq+kw=
+
+Name: assets/img/101.pzx
+SHA1-Digest: Gw4DOJ4Xqq+opmYAYIMQixFxIrM=
+
+Name: assets/script_kor/1063.zt1
+SHA1-Digest: yB8L/LSNkCUEBWHkh0RyRfgKZZI=
+
+Name: assets/script_kor/0780.zt1
+SHA1-Digest: u4Mkh8fZjUpiCd1Q77qSUDLuKBI=
+
+Name: assets/script_eng/0823.zt1
+SHA1-Digest: YDwJrP/uJl3RVBBewaJ01b6GMyg=
+
+Name: assets/script_kor/0113.zt1
+SHA1-Digest: dc/mzJ2jsxP5mhL5PK+Arb0Oo/Y=
+
+Name: assets/script_eng/0171.zt1
+SHA1-Digest: 7kuRd7BzPoRnPGeunzqMR8dsLZo=
+
+Name: assets/img/204.pzx
+SHA1-Digest: SxQX0lzatUiAKg2s0xVQ62YRr/M=
+
+Name: assets/img/239.mpl
+SHA1-Digest: rcOQfpmX5Kg46MXE5aneSVrJwBU=
+
+Name: assets/script_kor/0283.zt1
+SHA1-Digest: kil3of9AmS6VxCMUl9DttJDo9rA=
+
+Name: assets/script_kor/0560.zt1
+SHA1-Digest: k2doqW7j5aIUkntkZ5s3IQ0XleM=
+
+Name: assets/img/075.pzx
+SHA1-Digest: M3znh8i3bIK0xXxU3o9VGqeTSqc=
+
+Name: assets/script_kor/0263.zt1
+SHA1-Digest: ycZ+yCeez/rLWzMPZcl/kSh6w5U=
+
+Name: assets/script_kor/0043.zt1
+SHA1-Digest: QSbf2XKr+8UqtbC/ngw1uuq/nM0=
+
+Name: assets/script_kor/0872.zt1
+SHA1-Digest: 02OBCMRyxmSflzxSU+SQf85fEmY=
+
+Name: assets/script_kor/0950.zt1
+SHA1-Digest: LjSn+3QT0HqFyGGJsDiY2gDKYQ0=
+
+Name: assets/script_kor/0023.zt1
+SHA1-Digest: I1pE04p/FXECZAu+ihCUsZG6opY=
+
+Name: assets/ptc/037.ptc
+SHA1-Digest: NAkNCGgaRkdFxRrJHa5mqksostI=
+
+Name: assets/script_eng/1080.zt1
+SHA1-Digest: qvaJENtG8NbVet4+VycFCBOHyV0=
+
+Name: assets/img/211.pzx
+SHA1-Digest: LC7YI3qVjOy6Vw3S0P23KIQj23U=
+
+Name: assets/script_kor/0133.zt1
+SHA1-Digest: x08WDe9o05q7dZ7toWkc2l3WSkI=
+
+Name: assets/script_kor/0513.zt1
+SHA1-Digest: d4Un7fP42TkfaxpbdjcYt/5ZP9s=
+
+Name: assets/script_eng/0601.zt1
+SHA1-Digest: s7KzFCr3XZvTZbLt3U9V4YPZa/Y=
+
+Name: assets/script_kor/0170.zt1
+SHA1-Digest: vIRVOCDj9KekBaCrYCU1g43uyQk=
+
+Name: assets/data_kor/XlsMap.zt1
+SHA1-Digest: OwtNIKp5glW3ydnzNWzwrUfhRig=
+
+Name: assets/script_eng/0073.zt1
+SHA1-Digest: 6N2ceenVOmtqsq54IKeuizxJaYc=
+
+Name: assets/script_eng/0952.zt1
+SHA1-Digest: q+D+NPhV1qfbdxrx7vrDpUHSSf4=
+
+Name: assets/img/109.pzx
+SHA1-Digest: 2iGkrfGGpjM2/kemCNkSyL18mvY=
+
+Name: assets/script_eng/0090.zt1
+SHA1-Digest: iBumdmzeZkGmo8QYzUXGfclN5WA=
+
+Name: assets/data_kor/StrString_Hero.zt1
+SHA1-Digest: hWGKcJrNXZcM6EewCGHmUemnSF8=
+
+Name: assets/script_eng/0960.zt1
+SHA1-Digest: 37jzItpv/N0IzB0fxUVQNH1KwNM=
+
+Name: assets/script_kor/0830.zt1
+SHA1-Digest: vbwKcX93yX7mDDPphAIW+xszwWM=
+
+Name: assets/script_eng/0120.zt1
+SHA1-Digest: XnkBGVeCigPffOLd4UYCflGc4aw=
+
+Name: assets/script_eng/0801.zt1
+SHA1-Digest: OnwEyly7HxqMc91BHOv6J25ANis=
+
+Name: assets/img/245.pzx
+SHA1-Digest: PUw+jBISliwdaSV18Hlh0laR21A=
+
+Name: assets/script_eng/0710.zt1
+SHA1-Digest: Xl32cF56xXED2zjDzXR6AH+CIYY=
+
+Name: assets/script_eng/0871.zt1
+SHA1-Digest: XTMTHgs62Plq9pC+pnt/eRpurHM=
+
+Name: assets/script_kor/0310.zt1
+SHA1-Digest: WQe7//vi5M0ncn+IQ7hMYXvecUw=
+
+Name: assets/script_eng/0070.zt1
+SHA1-Digest: uQOaAMR8ks8JPyZ208r890pDx4Y=
+
+Name: assets/script_kor/0210.zt1
+SHA1-Digest: l0a8CkIgaxuBxRKpVyhua+ugYwY=
+
+Name: assets/script_kor/0910.zt1
+SHA1-Digest: zPFnpi20aKtM5k5dZnWgteKbNNw=
+
+Name: assets/script_eng/0700.zt1
+SHA1-Digest: zZFEScVov9oBKLy5cINuV0XoqSA=
+
+Name: assets/img/225.mpl
+SHA1-Digest: JZVxWMQUbb2AL1TRq3/a3iXG41Y=
+
+Name: assets/img/207.pzx
+SHA1-Digest: V9gSN7CewILksYStnHrW4yH4nfw=
+
+Name: assets/script_kor/0640.zt1
+SHA1-Digest: iZlCm5OXyCRad3exsiC1Wfv+6sE=
+
+Name: assets/script_kor/0802.zt1
+SHA1-Digest: MyxzlciMeiLZB806WD8znJvy7mg=
+
+Name: assets/script_kor/0230.zt1
+SHA1-Digest: ezPDWYEB8onWejm4+NrwT5GuBhk=
+
+Name: assets/img/014.pzx
+SHA1-Digest: aLoK7S8cvu4RFCKwWKb0hs2C1is=
+
+Name: assets/script_kor/0633.zt1
+SHA1-Digest: YYrVsXG/aQTg4kcNrl2xLy7IoTg=
+
+Name: assets/script_kor/0921.zt1
+SHA1-Digest: CuiEeB/Sb4ci445LUcEmzIIL3os=
+
+Name: assets/script_kor/0473.zt1
+SHA1-Digest: X4/rTlnASRmMR4vPTE+EX85g2NQ=
+
+Name: res/anim/slide_down.xml
+SHA1-Digest: gTVq7PDJL0W0hF9hiHBhyTSsKFA=
+
+Name: assets/script_eng/0561.zt1
+SHA1-Digest: RwhAcSvfcjlxlMw9u70EOpuYu1o=
+
+Name: assets/script_eng/0680.zt1
+SHA1-Digest: EAi+MCaC7zIhtEjSVGUIvAy2CLc=
+
+Name: assets/script_eng/1060.zt1
+SHA1-Digest: bM3e5pE1eDi9hatNagMGFF750cU=
+
+Name: assets/data_eng/XlsBalance.zt1
+SHA1-Digest: mAVhFICrndJdE00uvKKY6JYfHKY=
+
+Name: assets/img/145.mpl
+SHA1-Digest: IOecE776nSW26G3COByEuPXN/Ro=
+
+Name: assets/script_eng/0441.zt1
+SHA1-Digest: KwUE5odKiactvAe9KDONl0RTbYU=
+
+Name: assets/script_eng/0961.zt1
+SHA1-Digest: Y+rYaqC7rsR8J1nfjmoCeCqGBJ8=
+
+Name: assets/script_kor/0191.zt1
+SHA1-Digest: evrOo8HYBtIY2QHN5/OWJQ4B1dI=
+
+Name: assets/script_kor/0221.zt1
+SHA1-Digest: WC5A01yGhBAMw/KQ15mUNBf6fO4=
+
+Name: assets/script_eng/0450.zt1
+SHA1-Digest: BNzcnZ10cIpfpXJPo0xcbCBfrTo=
+
+Name: assets/script_kor/0520.zt1
+SHA1-Digest: v9mPfZxVA4hQUr9J0doywV07zIY=
+
+Name: assets/img/093.pzx
+SHA1-Digest: th6/eQfs4AUSWDmr+cozRhiC0n0=
+
+Name: assets/data_eng/StrString_Hero.zt1
+SHA1-Digest: OyzPGYWBf4h3YFGMQs8OTqPhEZg=
+
+Name: res/raw/s093.ogg
+SHA1-Digest: TRORh2HpYcIKXeUTqMm/DqZciOQ=
+
+Name: assets/img/080.pzx
+SHA1-Digest: Wg2cx1x4DD4fDvsxnDurF4aZEP4=
+
+Name: assets/script_eng/0953.zt1
+SHA1-Digest: Tsc2ba9zQl99ga1xag1ESOc17Kc=
+
+Name: assets/img/185.pzx
+SHA1-Digest: BFBQ9QBHULOK8EAbrEmvPL/Bvf4=
+
+Name: assets/img/046.pzx
+SHA1-Digest: jDVvlAjOoaLe0GMiSzwmdou+Shw=
+
+Name: assets/script_eng/0404.zt1
+SHA1-Digest: DAlA0UgVAserJ3eydydvBCIk/uo=
+
+Name: assets/img/107.pzx
+SHA1-Digest: N24wso44Upn28cYoy1UyepzYAM4=
+
+Name: assets/script_eng/0852.zt1
+SHA1-Digest: 3l02Rx8VCJ6nS5eI0syATB9AMDk=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: 4F+687aX1ge8FS/8uz+xoR9hGBk=
+
+Name: assets/img/088.pzx
+SHA1-Digest: M/0B3uPBMpHxV19eUOZWANPFrck=
+
+Name: res/raw/s023.ogg
+SHA1-Digest: pqm3wBrnp9SKO3tllePAFT+0onc=
+
+Name: res/anim/alpha.xml
+SHA1-Digest: 2TrUlp9Hzm4w3eyPFKzyXIHRb1w=
+
+Name: assets/script_kor/0060.zt1
+SHA1-Digest: t45pgOebnCv1Ey/NfoN4aUWQBCE=
+
+Name: assets/img/082.pzx
+SHA1-Digest: 48dr9gr0iqw1fnFAFc8ZK2vcaPQ=
+
+Name: assets/script_eng/0393.zt1
+SHA1-Digest: /xt71umyqDnRkPLpP3FA+XuyxUc=
+
+Name: assets/script_kor/0261.zt1
+SHA1-Digest: Kn4Gy14OVjSCr9mFlpOESo/sKMU=
+
+Name: assets/img/022.pzx
+SHA1-Digest: 2Vf5H2+1B2jSzV5r9Vt2l8OG2pc=
+
+Name: assets/img/105.pzx
+SHA1-Digest: T6+oNGXupkSpsR2coJGwIxS6PAo=
+
+Name: res/raw/s121.ogg
+SHA1-Digest: jEVUFv6zq99N/+eN27cZP+g9p1A=
+
+Name: assets/img/096.pzx
+SHA1-Digest: 3MZocIg3hxKJjzeHlhUIsrvphKo=
+
+Name: assets/script_kor/0940.zt1
+SHA1-Digest: oCskptkoM062f/etz7F6KJLzMGU=
+
+Name: assets/img/071.pzx
+SHA1-Digest: 2ZXdCJuRdeAEuElYNavuV6la+4g=
+
+Name: assets/script_kor/1043.zt1
+SHA1-Digest: 1BY7EroCuhLhZw2RYr0xbK0x6og=
+
+Name: assets/img/133.pzx
+SHA1-Digest: ZnCo/Il8o2TO7Meo2E8cVomA5yw=
+
+Name: assets/ptc/028.ptc
+SHA1-Digest: TWFzJ6P888o/tBCiaAvjDvoFv48=
+
+Name: assets/script_eng/0082.zt1
+SHA1-Digest: 1EVPnMyAJ923DGkYFMu/xXTZRnw=
+
+Name: assets/script_kor/0240.zt1
+SHA1-Digest: 3bf7v0a4TshWTYLOMc0SQHix5YM=
+
+Name: assets/script_eng/0212.zt1
+SHA1-Digest: sWDOqNotnu1p8QB15PrhtjN93rU=
+
+Name: assets/script_kor/0101.zt1
+SHA1-Digest: +AnOjlw+pWtBe/UtAEUJb9I1WhY=
+
+Name: assets/script_kor/1003.zt1
+SHA1-Digest: dyOrMPc1yNfqCZKssn/WhGTZi3A=
+
+Name: res/raw/s013.ogg
+SHA1-Digest: 8+Ij2mYcYAMILxTOxpsGSmQ6IXw=
+
+Name: assets/script_kor/0014.zt1
+SHA1-Digest: Ax97Nm665FdqJXfUehZeizS8asw=
+
+Name: assets/img/135.pzx
+SHA1-Digest: s9S2v9MkQuaXZQ5w+dMuoK7pWQE=
+
+Name: assets/script_kor/0350.zt1
+SHA1-Digest: l0SaEu8gVa6Dcb5zyub4slFHNDo=
+
+Name: assets/img/140.pzx
+SHA1-Digest: SBGCVktGxpVa/yvbugtv2jUeECU=
+
+Name: assets/data_eng/XlsBuff.zt1
+SHA1-Digest: VXJZ+OWsIo3uGudAnxLyTFYYQHE=
+
+Name: res/raw/s043.ogg
+SHA1-Digest: /C8xIKK/OEa/l6MOVlU9LeZw008=
+
+Name: assets/img/056.pzx
+SHA1-Digest: eOWqjvOPQ/Zzz+3FRuIN55GCR78=
+
+Name: assets/script_eng/0451.zt1
+SHA1-Digest: tCbnjz2XtsuQrhn/QQNYE/dAdME=
+
+Name: assets/script_kor/0360.zt1
+SHA1-Digest: bTSwK3J67FdUBzYVsMhP+5jkW3Y=
+
+Name: res/raw/s049.ogg
+SHA1-Digest: fcK9LwUbVUzVg6G+1aoJqQb7SL0=
+
+Name: res/raw/s037.ogg
+SHA1-Digest: llNhPvxhNqvMsIzgF0688zftjaI=
+
+Name: assets/img/057.pzx
+SHA1-Digest: IkeK2YpiWXMfSbNcz2yLFS58xOI=
+
+Name: assets/script_kor/0470.zt1
+SHA1-Digest: elWDbF+QpHLOmFSlpqZaUgafUAw=
+
+Name: assets/data_eng/XlsCorrespondence.zt1
+SHA1-Digest: tupQPaz1qdj05oNFTTlBpqdn+28=
+
+Name: assets/data_kor/XlsParticle.zt1
+SHA1-Digest: LK/xLkGXfp2sivb6uDkV5M4YSSU=
+
+Name: assets/script_kor/0140.zt1
+SHA1-Digest: dXNYwUJLZxicdXY6oFJASq/X7jM=
+
+Name: assets/data_kor/XlsUnit.zt1
+SHA1-Digest: cCY1Ob4SPBmErl8eNI+mES9APBY=
+
+Name: assets/script_eng/0293.zt1
+SHA1-Digest: +L58DqU/3i8GZcAnO2/Pdo2+ufI=
+
+Name: assets/ptc/049.ptc
+SHA1-Digest: qQkZijE4M2qI0iskgAdDxyEx/fU=
+
+Name: assets/script_kor/0452.zt1
+SHA1-Digest: IhF3uru7VFsn2di/17aN2r82x/k=
+
+Name: assets/script_eng/0122.zt1
+SHA1-Digest: BwK0Fc0tL60UsSaYEXJreTK64m0=
+
+Name: assets/script_kor/1073.zt1
+SHA1-Digest: +STGNSsppV6WpnoDVyJsG+0PPfU=
+
+Name: assets/ptc/011.ptc
+SHA1-Digest: W6c6qC1Zjed53u84rGwRri7Op14=
+
+Name: assets/script_kor/0500.zt1
+SHA1-Digest: XM0jMGK73rE15S/d7vXAwFwUwDA=
+
+Name: assets/img/181.pzx
+SHA1-Digest: Tl+UpEFB2C6CrzJ94Xu9YY5noc8=
+
+Name: assets/img/169.pzx
+SHA1-Digest: 0pI+VpVA2oz5/bn1ZIQFIcPmXKA=
+
+Name: assets/script_eng/0221.zt1
+SHA1-Digest: lhv23RdraWbzevm2hdIJaxHzpXY=
+
+Name: assets/img/030.pzx
+SHA1-Digest: jLCFT4XfCsoDJJ5MyUmC/xdel1E=
+
+Name: res/raw/s104.ogg
+SHA1-Digest: wGeAK7UvcJfFbF4GM7dMV5biUJk=
+
+Name: assets/ptc/047.ptc
+SHA1-Digest: ZD4f75lh5ka0XdQWRGQHcq4siyU=
+
+Name: assets/script_kor/0922.zt1
+SHA1-Digest: ZVjeAYDqeYzHjpI5QQmdoLDsDVU=
+
+Name: assets/script_kor/0883.zt1
+SHA1-Digest: yw8bh5l67S6TByyXKsf/tNi+MIk=
+
+Name: assets/img/227.pzx
+SHA1-Digest: mSyGmy3GYFOgPKHkbOH/2VEBUbg=
+
+Name: assets/img/150.pzx
+SHA1-Digest: 3rQvp13O8xwhbTVnfCYsKRbiT2M=
+
+Name: assets/script_eng/0263.zt1
+SHA1-Digest: SfY6UP9nli8DT3/iXrK+pggddOQ=
+
+Name: assets/img/224.mpl
+SHA1-Digest: AALTLdJCgC1htvDsA7/EzMTlzzM=
+
+Name: assets/script_eng/0003.zt1
+SHA1-Digest: bBZIiXV8IBbOdaTxcgCyilfYmCM=
+
+Name: res/raw/s052.ogg
+SHA1-Digest: HeJikH+rhNROiVLZL+ssFopSGNU=
+
+Name: assets/img/032.pzx
+SHA1-Digest: zkghbeBaE1kB5j9+yV6arPlV+4Y=
+
+Name: assets/script_eng/0423.zt1
+SHA1-Digest: bAYK8gEp8rR8rIbxGXNAIwt9HCU=
+
+Name: res/drawable/auth_bg.png
+SHA1-Digest: piImdXJbMCubmqhv3PIgr66zu1o=
+
+Name: assets/script_kor/0612.zt1
+SHA1-Digest: CUXm2+ljBykaE/LoCz2ZsfDGYXo=
+
+Name: assets/script_eng/1053.zt1
+SHA1-Digest: c4nns22Mf9ZIOuSroKiuGrdDXrc=
+
+Name: assets/script_kor/0242.zt1
+SHA1-Digest: 8bRz3LQTpvgU6BVmgzksRnI+30M=
+
+Name: assets/script_eng/1010.zt1
+SHA1-Digest: 3jVeYkms18qPRSoMKTRaYsQE120=
+
+Name: assets/script_kor/0380.zt1
+SHA1-Digest: KuBN8J2+6za+/E7b2E80g1/2a/w=
+
+Name: assets/img/030_k.pzx
+SHA1-Digest: DZf5WlP9yyWJybt4NaiguMi96L4=
+
+Name: assets/script_eng/0350.zt1
+SHA1-Digest: qWzoTYULGPMFpRHFq+riq3SSRuc=
+
+Name: assets/script_kor/1190.zt1
+SHA1-Digest: SuH78RAMliK6Wee/7VxNPq45Ovw=
+
+Name: assets/script_kor/0212.zt1
+SHA1-Digest: uEY5Oq1hPwpULaWH0ZUSKhAgYoc=
+
+Name: assets/script_eng/0982.zt1
+SHA1-Digest: Nt4W1qVgjDQhD6KRRdL6+PIZJSk=
+
+Name: assets/script_eng/0191.zt1
+SHA1-Digest: qBW/MvH99AGcAeyKGSAH/D1phLo=
+
+Name: res/raw/s123.ogg
+SHA1-Digest: /tVxoQ1rA3Mv1wQXXZKDrx7C1K4=
+
+Name: assets/img/068.pzx
+SHA1-Digest: jmmffEBDtUEL93TEybr4+fk0SC8=
+
+Name: assets/img/234.pzx
+SHA1-Digest: WrSQE7MUrGbRT5zgKKwLDR49rHo=
+
+Name: assets/script_kor/0591.zt1
+SHA1-Digest: Fri48J/VyPPFQpXl+btEl2r/rGE=
+
+Name: assets/script_eng/0031.zt1
+SHA1-Digest: /5eOFrex6h26hFqRGtVOUWLHY0o=
+
+Name: assets/ptc/012.ptc
+SHA1-Digest: 9MYP3P3KnNNfeYMR1Z55bnhZVRY=
+
+Name: assets/script_kor/0483.zt1
+SHA1-Digest: 2smWKctepqxpm7ILLruve0PVU8c=
+
+Name: res/drawable/news.png
+SHA1-Digest: pVrKFrVik1TfVa9m7Na5/AxeL/g=
+
+Name: assets/img/094.pzx
+SHA1-Digest: ofxfgkqPMrzgqAdm6LVc/nZyf54=
+
+Name: assets/script_eng/0623.zt1
+SHA1-Digest: 7cNJCYln2c7N/+pzR8WcSCZAAw8=
+
+Name: assets/script_eng/0520.zt1
+SHA1-Digest: 5wG6csXBSNgRcM/ihOx0hLZv33Y=
+
+Name: assets/script_kor/0652.zt1
+SHA1-Digest: 3yBx0seunOVlibPqYXvg1KmC7Jo=
+
+Name: assets/img/019_k.pzx
+SHA1-Digest: IqwiQJUol6KFwqBoHs22mt+t3xE=
+
+Name: assets/script_eng/1071.zt1
+SHA1-Digest: XB+V1ogKxuk/uV7CLhQBXhQWKQc=
+
+Name: assets/ptc/032.ptc
+SHA1-Digest: K/ingDxL3hpFpl4QQZe9DUBnS54=
+
+Name: assets/script_eng/0603.zt1
+SHA1-Digest: npz56eqovOm9Q9G6eodEsZo1O3k=
+
+Name: res/drawable/gamevil_live.png
+SHA1-Digest: EUNj8CYhPoz4dB35/Tb5s+yKAEE=
+
+Name: assets/script_eng/0150.zt1
+SHA1-Digest: 81ASYqdJEeMFdMuj6uOhYT7JHgw=
+
+Name: assets/script_kor/0222.zt1
+SHA1-Digest: EUVpMcmld1BCtpaLmrEvyBASWwE=
+
+Name: assets/data_eng/XlsHeroSkill.zt1
+SHA1-Digest: LeGrZaFQnBqKWgG2/M3w4yMvBYw=
+
+Name: res/raw/s061.ogg
+SHA1-Digest: iHUh63jjYjnahnvqHXpukc4rs1w=
+
+Name: assets/script_kor/0004.zt1
+SHA1-Digest: J1iiN7oqPIPOu/hnAFizkwiEsrU=
+
+Name: assets/data_kor/XlsSkill_Ai.zt1
+SHA1-Digest: r4CbOkkTuG7xqjU8tJf/v+HaeX0=
+
+Name: assets/ptc/003.ptc
+SHA1-Digest: KcmSDmTlnx8VrY9RLIxLzZIXkUU=
+
+Name: res/raw/s106.ogg
+SHA1-Digest: 9kM3O53OfmMRDi6jwSa1rc6AIxI=
+
+Name: assets/script_eng/1040.zt1
+SHA1-Digest: BrnsHmFbA9cYft5vwXGcpzL/6nw=
+
+Name: assets/script_kor/0290.zt1
+SHA1-Digest: stE6zS8RLcBJVjkymAKDuB2gBY4=
+
+Name: assets/data_eng/XlsSkill_Ai.zt1
+SHA1-Digest: r4CbOkkTuG7xqjU8tJf/v+HaeX0=
+
+Name: assets/script_eng/0833.zt1
+SHA1-Digest: eEwoLRL2o0wiraqHKEFXatjw4hI=
+
+Name: assets/img/146.pzx
+SHA1-Digest: xWax9H+y6R8QCqqMCoA0380spsk=
+
+Name: assets/img/066.pzx
+SHA1-Digest: BP6JLKFCXQsjt+fxyZUizjbs8Vk=
+
+Name: res/raw/s007.ogg
+SHA1-Digest: TPr7kyCeq/w/38nzG+r5Sg93C+Q=
+
+Name: assets/img/210.mpl
+SHA1-Digest: GXNYPslaBY6LdT8UW8EqaBUk+Ec=
+
+Name: res/drawable/help_page_bg.png
+SHA1-Digest: B6vdC57Y8JJfNxFR879RgMz5Bnc=
+
+Name: assets/script_eng/0973.zt1
+SHA1-Digest: nqWwO5NhTdL7dZ9RclJKvM8kCH4=
+
+Name: assets/img/054.pzx
+SHA1-Digest: yCdsRFDLPx9nTsaZ8Nx9NByPXNQ=
+
+Name: assets/ptc/046.ptc
+SHA1-Digest: 0gvbtrXgF+OUv3R0Vplolptiw1o=
+
+Name: assets/script_eng/0100.zt1
+SHA1-Digest: DM2Rkn/yRUTMAZoKF7FRxJ3v9Ko=
+
+Name: assets/script_kor/0610.zt1
+SHA1-Digest: Jqf8wnjbfUzmRFYAcnuECZcEleE=
+
+Name: assets/img/184.mpl
+SHA1-Digest: /QpqwKG1wMPo975h65BQTbyB3To=
+
+Name: assets/img/231.pzx
+SHA1-Digest: bS9g5omi3cQ+7fP+qFHBesIxVzE=
+
+Name: assets/script_kor/0130.zt1
+SHA1-Digest: zIYj0FXV5JpTdGg3SSlL5smiQrQ=
+
+Name: assets/img/213.pzx
+SHA1-Digest: R21HiYu7PF84jE1qszMyy1JMj54=
+
+Name: assets/script_eng/0453.zt1
+SHA1-Digest: kYW1pDKsVaTh45Ck+oZ9CBqBV+4=
+
+Name: assets/script_kor/0461.zt1
+SHA1-Digest: XnL20cmFL/80ibUFzVMe66DPtK8=
+
+Name: assets/ptc/018.ptc
+SHA1-Digest: ejmfjMiW1Q4VrmA00fiSyRejNNY=
+
+Name: assets/img/180.pzx
+SHA1-Digest: DNVu4SPIWM2KGDx1PMHdAgQX/xo=
+
+Name: assets/script_kor/0890.zt1
+SHA1-Digest: r+Alr6nkbd3NP/3wIJWsOVgCC2o=
+
+Name: assets/script_eng/0931.zt1
+SHA1-Digest: IoqbbjCunX1po3zxNibEakzRhDo=
+
+Name: assets/script_kor/0970.zt1
+SHA1-Digest: ri90F70xNPw2Or7NpBwG+crei5Y=
+
+Name: assets/script_kor/0521.zt1
+SHA1-Digest: 7iFQDMH3mbhDYAXeWH8v8PPMU3E=
+
+Name: assets/img/089.pzx
+SHA1-Digest: A0Ug0FCmBCFNYNVtwyw45y4PTyQ=
+
+Name: assets/img/038_k.pzx
+SHA1-Digest: 2iTEQPVRdhfwBnur27lGKe0XlDE=
+
+Name: assets/img/179.mpl
+SHA1-Digest: +FJLZeSAjB+qV1ukEdPrhrFwXLI=
+
+Name: assets/script_eng/1190.zt1
+SHA1-Digest: 4su288g4WmA34JFOIhFeBoa82aQ=
+
+Name: assets/script_kor/0613.zt1
+SHA1-Digest: T7nGOKC2DNmqkErYuxQOiuvXEbY=
+
+Name: assets/script_kor/0190.zt1
+SHA1-Digest: 6DiVMbtL6ZCb+dLqyNkNJUN4OcU=
+
+Name: assets/data_eng/XlsProjectile.zt1
+SHA1-Digest: rANnngDWEXwUbbtrMWLApJ6mG7c=
+
+Name: assets/script_eng/0033.zt1
+SHA1-Digest: S0VNOXwkLbpPxfEI5JwBoybBnqM=
+
+Name: assets/ptc/040.ptc
+SHA1-Digest: h3xCmLdVEKVhOReIFZbzMLK5XbY=
+
+Name: assets/script_eng/0530.zt1
+SHA1-Digest: MlJVy/fegokOCkbtckcggmaPWRU=
+
+Name: assets/script_eng/0810.zt1
+SHA1-Digest: bTjBvFDWFlg7FoTUZyA7DquVxsk=
+
+Name: assets/script_eng/0310.zt1
+SHA1-Digest: 5AleQNErGJUxbZO/BjYruaBRo7U=
+
+Name: assets/script_eng/0922.zt1
+SHA1-Digest: Q52y5W6vKXn1B1Mbil0+DYtxtM4=
+
+Name: assets/script_eng/1041.zt1
+SHA1-Digest: U1JcMYGZ2IabANYVIUm+42OB6Og=
+
+Name: assets/script_eng/0303.zt1
+SHA1-Digest: 4y7IYYyh6HUa52xULn/h/cQkG2E=
+
+Name: assets/script_eng/0760.zt1
+SHA1-Digest: eMFkMlPl9StffB6wKUvaT9WW3g4=
+
+Name: assets/script_kor/0980.zt1
+SHA1-Digest: trnocAb77UcRDRRIsrwCplgmrPo=
+
+Name: assets/img/023.pzx
+SHA1-Digest: rXXLfjsxQs7doHY3vJg2FS8IVTo=
+
+Name: assets/ptc/016.ptc
+SHA1-Digest: PMyKpD+MK9DWZ7jdped2R6Q30fo=
+
+Name: assets/img/114.pzx
+SHA1-Digest: X82cuiKlVZC2h5n2wCfqzAevL4g=
+
+Name: res/raw/s050.ogg
+SHA1-Digest: dnfCcuhRZemeSPwR3Nm34gQEado=
+
+Name: assets/script_eng/0761.zt1
+SHA1-Digest: Z7/CRjU3eVMPQ2y/OsntyAde5Mg=
+
+Name: assets/script_eng/1090.zt1
+SHA1-Digest: Kz0y9TEs03G5AREae7+i/fQAOzk=
+
+Name: assets/script_kor/0353.zt1
+SHA1-Digest: tL3+ZgSGqFKm6dmWsQAJbNsqApA=
+
+Name: assets/img/194.mpl
+SHA1-Digest: hv1Qpi5U5ftgsjYGaksVouyw8Vk=
+
+Name: assets/img/044.pzx
+SHA1-Digest: m+vlgFyN7rzyfrxDb2AfocYuNYs=
+
+Name: assets/script_eng/0613.zt1
+SHA1-Digest: pqnhgUS4NHy6ACyl8SvXvR48iq8=
+
+Name: assets/script_kor/0011.zt1
+SHA1-Digest: 4nkEdQUbwt0nLaUkI9ftgJHdFsc=
+
+Name: assets/script_kor/0281.zt1
+SHA1-Digest: b1/ROEOSO3F+0Zjfc8IAP07yzN4=
+
+Name: assets/script_eng/0753.zt1
+SHA1-Digest: iJTOJZK/+ORxXYpvfX0BeMDQzeQ=
+
+Name: res/raw/s086.ogg
+SHA1-Digest: 1TCjT9bhpO1d7k7EcdPCl7ePS3M=
+
+Name: assets/script_kor/0401.zt1
+SHA1-Digest: srSuHlS9jtNYG5WlU7GGzVc9lpk=
+
+Name: assets/script_eng/0811.zt1
+SHA1-Digest: Cv9W3StOiJupYkdqIizAAWtsGxs=
+
+Name: assets/img/226.pzx
+SHA1-Digest: A+RDjCBerDWQL2JkwENyGV+fzw0=
+
+Name: assets/img/033.pzx
+SHA1-Digest: zGD+u1JNQ5/jEo9eFWfhMqnj1jQ=
+
+Name: assets/img/220.mpl
+SHA1-Digest: 9KANniUG0xaOheXJZFaUiJJw8sY=
+
+Name: assets/img/110.pzx
+SHA1-Digest: 3LByAzOg9XWENqhMC3hrrvGVMmQ=
+
+Name: assets/script_eng/0543.zt1
+SHA1-Digest: zu2yCx8GAiURL9+FI9WtMx2OIMo=
+
+Name: assets/script_kor/0413.zt1
+SHA1-Digest: HDx0h1oh6YAS1tJbMCXP3teJiss=
+
+Name: assets/script_kor/0602.zt1
+SHA1-Digest: m2HETcpdzQVdgc42ZH5bFLfIEZ4=
+
+Name: res/drawable/achievement_btn_back1.png
+SHA1-Digest: hvRcHz51es8TJlkA6Zz7ii6heWc=
+
+Name: res/raw/s010.ogg
+SHA1-Digest: I0xBeTk0JBTsB5hzMcMFj/RuKdw=
+
+Name: assets/img/224.pzx
+SHA1-Digest: qC2bdMlPW2U+ePAqW44k65xVX2Q=
+
+Name: assets/img/167.pzx
+SHA1-Digest: izOeUELpm063YKQnFhEGDiEPeh4=
+
+Name: assets/data_kor/XlsHeroActiveSkill.zt1
+SHA1-Digest: g7m4Yaf2anKDnkWrmIF28Cjbcg8=
+
+Name: assets/data_kor/XlsAi.zt1
+SHA1-Digest: amnnOj0Y+B7dKBgZ4HhVER0VIo8=
+
+Name: assets/script_eng/0863.zt1
+SHA1-Digest: 23vfnj25FwPk+06eZwyUU99vpqg=
+
+Name: assets/script_kor/1161.zt1
+SHA1-Digest: EmkrY6j8HqP3axlAaBkMcINOybI=
+
+Name: assets/img/016.pzx
+SHA1-Digest: 90ROlPeeS1cF3glAPi+UKoFCBco=
+
+Name: assets/img/222.pzx
+SHA1-Digest: R5WMBEqMAzFja520zSZBvm8lt8U=
+
+Name: assets/script_kor/0822.zt1
+SHA1-Digest: 64yieYMvpMWrplH2ZnYZun/ObFc=
+
+Name: assets/img/238.mpl
+SHA1-Digest: cjSybHrPCttarSY6NEjoUijDADM=
+
+Name: assets/script_eng/0473.zt1
+SHA1-Digest: bfN3Ui/FkkcsnyLUfvl/YZzNhuE=
+
+Name: assets/script_kor/0301.zt1
+SHA1-Digest: E/MYrHC3IqlKPskw94z+SmFSxsE=
+
+Name: assets/img/043_k.pzx
+SHA1-Digest: j796fUXbkB6nGJ9XUdpchiXmhEg=
+
+Name: assets/img/127.pzx
+SHA1-Digest: 3yM9OSoGHxazZgxyz1D+8LKIcD4=
+
+Name: assets/script_eng/0583.zt1
+SHA1-Digest: vIPnoD0hwGe07g7nRBx861g9Y3I=
+
+Name: assets/script_kor/0343.zt1
+SHA1-Digest: o2XloEHM7Yb4SI5mWvlRNd2QTpA=
+
+Name: assets/ptc/033.ptc
+SHA1-Digest: j9bTUUPH/Zpscb8HKXDRPtR0FbA=
+
+Name: assets/data_kor/XlsHero_Ai.zt1
+SHA1-Digest: zGLu0qbpWUSUzUzN199AcJsGpwI=
+
+Name: assets/script_kor/0022.zt1
+SHA1-Digest: sKPvA5cXZ9b8FliHex9kuRpegaE=
+
+Name: assets/ptc/039.ptc
+SHA1-Digest: PNL544tZzYPDJmcJ5z3smytDcJU=
+
+Name: res/drawable/back_clicked.png
+SHA1-Digest: lVkYfq7f8mFCtIepY/J3fYgEsJQ=
+
+Name: assets/script_kor/0082.zt1
+SHA1-Digest: Oqf2OGlveSjoV0+BKSRMV4YajMA=
+
+Name: assets/script_kor/0930.zt1
+SHA1-Digest: 1mzrbPzYovfyiR7vj9Alf7XLAkY=
+
+Name: assets/script_kor/1090.zt1
+SHA1-Digest: tO2uKCrZWOT1cacYlUJemP0jv4Y=
+
+Name: assets/img/119.pzx
+SHA1-Digest: y61KFn5vGVKT5EMNgCT/zgSkK/E=
+
+Name: assets/script_kor/0702.zt1
+SHA1-Digest: 9zdOWq4T6kUm819OtG3Ppe98PDo=
+
+Name: assets/img/243.pzx
+SHA1-Digest: wfM0K0W27p3vyg0D14pp34h+tVo=
+
+Name: assets/ptc/019.ptc
+SHA1-Digest: XLcANsApSJsFdyHuNZEXXpIKu5Y=
+
+Name: res/raw/s002.ogg
+SHA1-Digest: EPKIfzhpGOI0Su4H5L8yag16H7w=
+
+Name: assets/script_eng/0052.zt1
+SHA1-Digest: KVp+KHNmM0IewZpz7J2VxH8nNSI=
+
+Name: assets/script_eng/0020.zt1
+SHA1-Digest: XfJFO8G4j/buHAWuAh3onq8h5vI=
+
+Name: assets/script_eng/0051.zt1
+SHA1-Digest: sqWVvoeZwbOGrFE6GQH7uDPeHeY=
+
+Name: assets/script_eng/1123.zt1
+SHA1-Digest: vDS3z3xzI1PdOq5B7//yBBeNmGw=
+
+Name: assets/script_kor/0982.zt1
+SHA1-Digest: BiX1t79jLIuS8+4H247APEsmCUI=
+
+Name: assets/img/136.pzx
+SHA1-Digest: i4pMzpDDy+aQZaVHj5zJDEIxMDs=
+
+Name: assets/script_kor/0141.zt1
+SHA1-Digest: yQQPmmlpHivAn+50FxGEL2/gphc=
+
+Name: assets/data_eng/XlsAi.zt1
+SHA1-Digest: jfVP0v2/VRKgBMoh6v4CLXjqPYA=
+
+Name: assets/data_kor/XlsBalance.zt1
+SHA1-Digest: mAVhFICrndJdE00uvKKY6JYfHKY=
+
+Name: assets/script_kor/0621.zt1
+SHA1-Digest: VR+JONIdVIkJ5xxGZUc4Q0VEJNY=
+
+Name: assets/script_kor/0553.zt1
+SHA1-Digest: tcqrh/4hCTwQUgZwoKSvSNWrne4=
+
+Name: assets/script_kor/0490.zt1
+SHA1-Digest: uKabGM+ZTzdT9Ueg+4CF4UWnpzA=
+
+Name: res/raw/s059.ogg
+SHA1-Digest: 3EHOGzkyWhCCkzcQ0WQHwJMJAeo=
+
+Name: assets/img/242.pzx
+SHA1-Digest: h9yc2r4MPGbwwxF4RE7wKuhMOUE=
+
+Name: assets/map/012.zt1
+SHA1-Digest: ETmTqeGQ813TWxMJ6yL8NEIIo40=
+
+Name: assets/img/166.pzx
+SHA1-Digest: mPoARcmerDbKgU6ASGl11dgkHNs=
+
+Name: assets/script_kor/0991.zt1
+SHA1-Digest: g9ahM0/wd/3huhnTPRiHYx2HGqg=
+
+Name: assets/script_kor/0603.zt1
+SHA1-Digest: RMyqyHhHPVKKE0O+sxn97pjEPFE=
+
+Name: assets/img/196.pzx
+SHA1-Digest: GaHjoPmAY86ZOan9yrDGecd20tQ=
+
+Name: assets/script_eng/0243.zt1
+SHA1-Digest: ehUEMbF4hgBbbBzyWXS7TpZ2Qic=
+
+Name: assets/img/202.mpl
+SHA1-Digest: JX3OrNcst79rHQA/PaPG669XG/g=
+
+Name: assets/script_eng/0790.zt1
+SHA1-Digest: DQsPo2ApA7OtsSeUyPqQbj3LYb8=
+
+Name: assets/img/223.pzx
+SHA1-Digest: KSx5WWBiDMRFG2hRt5t92Bb700Q=
+
+Name: assets/script_kor/0423.zt1
+SHA1-Digest: y3Cl195Qb++xHj8AkzoNOoaJ7E8=
+
+Name: assets/script_eng/0580.zt1
+SHA1-Digest: wm6TeJoT4TZobDadpaBxYb9ydIY=
+
+Name: assets/img/190.pzx
+SHA1-Digest: 1vJ21RfW7cVr+KZTzTAKqfQDrQo=
+
+Name: assets/img/036.pzx
+SHA1-Digest: nGFeCc5v3EcwDtkV7v6KXBh4Qnw=
+
+Name: assets/script_kor/0041.zt1
+SHA1-Digest: nXiNOyqvRGTMTnJY4OZ/ZCXxBxU=
+
+Name: assets/script_kor/0601.zt1
+SHA1-Digest: 9UWb8DuDASRfO8KrqfZAnkpQZDI=
+
+Name: res/raw/s999.ogg
+SHA1-Digest: Y9AfnbxJ4QaGb9JxRJ+N6qSLK7M=
+
+Name: assets/script_kor/0411.zt1
+SHA1-Digest: hl4KkNOQJWOpHNrcPA8CvBeiZ7E=
+
+Name: res/drawable/title.png
+SHA1-Digest: wmGt5xtWsL0WDlThqDX6Umyfr7M=
+
+Name: res/drawable-ldpi/icon_plus.png
+SHA1-Digest: b4dy+07HsC2gU3iqQaRdhHJf6DU=
+
+Name: assets/script_kor/0181.zt1
+SHA1-Digest: CYiCNy+QINNVBN1D+fHdm9marJA=
+
+Name: res/layout/test.xml
+SHA1-Digest: 6Zd6h8MviZJc7mtJKTvNvpsQREM=
+
+Name: assets/script_kor/0213.zt1
+SHA1-Digest: oPYxLaGpbAwM/c5TdJuEGDoE5Z8=
+
+Name: assets/img/148.pzx
+SHA1-Digest: w+clUQiYsG4DHVjvTCj+834NkyU=
+
+Name: assets/script_eng/0900.zt1
+SHA1-Digest: 3zh379S50t1FC0cXcRgRfLhRmkA=
+
+Name: assets/script_kor/0003.zt1
+SHA1-Digest: Sz+JBM6wZ8OwRDQ2M01CZXhdHSc=
+
+Name: assets/img/139.pzx
+SHA1-Digest: I3MRPm1LDgwR3uPdErO5u9b9AQY=
+
+Name: assets/img/018.pzx
+SHA1-Digest: lMvKGtJ8wfwzmYbGsUeZf6XA0UQ=
+
+Name: assets/script_eng/0963.zt1
+SHA1-Digest: od12rMm4VYEod3ptwIe7x3sUF+k=
+
+Name: assets/img/216.pzx
+SHA1-Digest: 2phGQgoOBaGfA+S63Vz9BSrlAG0=
+
+Name: assets/img/047.pzx
+SHA1-Digest: nX2HKtQfljCvAFcv+ZCBO0o/Dgw=
+
+Name: assets/img/239.pzx
+SHA1-Digest: btxGMyJExijEb4Fkbi6TekDZMO8=
+
+Name: assets/img/151.pzx
+SHA1-Digest: X1Nz3MvFFwf1zSn0O5XfSE5wggw=
+
+Name: assets/script_eng/0702.zt1
+SHA1-Digest: CKYuhPlqWNYhk8LhPXw5ekm9K0I=
+
+Name: res/raw/s132.ogg
+SHA1-Digest: bS8YQLSm1pV/5EbBIUl7D/ck7RE=
+
+Name: res/drawable-mdpi/icon_plus.png
+SHA1-Digest: ZCF82l5UBmXfsENTmjAJmWBWw7M=
+
+Name: assets/img/097.pzx
+SHA1-Digest: +sNwAs7Dp6YBbE7tnnfNSVavrwA=
+
+Name: assets/img/049.pzx
+SHA1-Digest: GRblDmaZpRsiWWsj71ds3kYUKq8=
+
+Name: assets/script_eng/0950.zt1
+SHA1-Digest: IxYNns6P7BRExFauNMX47JkpH8k=
+
+Name: assets/script_eng/0593.zt1
+SHA1-Digest: 8zQsdkHoRw9BZzXp3F/kWGnA7D0=
+
+Name: assets/script_kor/0814.zt1
+SHA1-Digest: IcPnwVqxzy02UzuCeRlKNmKJWjs=
+
+Name: res/raw/s051.ogg
+SHA1-Digest: ALRKkkoyw1XlFPfG258PAIt4J90=
+
+Name: assets/script_kor/0900.zt1
+SHA1-Digest: ibwMtCdv1CSCvuRu3o67DUap2cE=
+
+Name: assets/script_kor/0070.zt1
+SHA1-Digest: 49D3TkiVo0dZCCYTZbqqcT2B/vE=
+
+Name: assets/img/188.pzx
+SHA1-Digest: /ALQ3GqHu7hKmimbri5EP3Xc0VE=
+
+Name: assets/font/synGulimAsc5_11.ft2
+SHA1-Digest: gnH5F8vjMZcWAQoP8M0YI9HrZbA=
+
+Name: assets/data_kor/XlsHeroBuffSkill.zt1
+SHA1-Digest: +fhATRyGJFOA9pXoYewZ77XKl5c=
+
+Name: assets/logo.pzx
+SHA1-Digest: EzBM3yZlQ4W9nZUmDpuLzm0+sRE=
+
+Name: assets/script_eng/0660.zt1
+SHA1-Digest: /wulZWce3Sa5IhIAzTF5DXVC/ew=
+
+Name: assets/img/121.pzx
+SHA1-Digest: aSOHdHn7vVvdGdAJfESVP6jgTDE=
+
+Name: assets/script_eng/0141.zt1
+SHA1-Digest: bxarCa9MWo8fhrwu5PflKO4cTQ0=
+
+Name: assets/script_kor/0570.zt1
+SHA1-Digest: Vt5xefa5/POBUonugXL2+1a7kQQ=
+
+Name: assets/script_eng/0920.zt1
+SHA1-Digest: r3PIUqiTkGC79NLv8QC7FT6M0xU=
+
+Name: assets/script_kor/0303.zt1
+SHA1-Digest: NXpw1U/OBLCjROcdHfjp3cql6To=
+
+Name: assets/img/227.mpl
+SHA1-Digest: 7M4RuaOO0674fzaWGDYfSi3lrvA=
+
+Name: assets/ptc/009.ptc
+SHA1-Digest: 7bRCopFwxQ0iY54pYPYi2kfvRmU=
+
+Name: assets/script_eng/0280.zt1
+SHA1-Digest: J3vQSwHNhvPUtUBkzRVEFa6pKt4=
+
+Name: assets/script_eng/0490.zt1
+SHA1-Digest: xq1Unr+CTOXr/v0TM6xGd7BFlfk=
+
+Name: assets/script_kor/0093.zt1
+SHA1-Digest: koVvtzu9yDIziz3PQ0RTwzR4bmw=
+
+Name: assets/script_eng/0063.zt1
+SHA1-Digest: O0PX5tth0/O3gBK1QBrQdahVeT4=
+
+Name: assets/ptc/043.ptc
+SHA1-Digest: wtnSHsmscawF45c0E+CJJe8Cy7A=
+
+Name: assets/img/237.pzx
+SHA1-Digest: Pq3buZIuCGgMplap/0CX20YlrlQ=
+
+Name: assets/script_eng/0340.zt1
+SHA1-Digest: /2J3MBKARC1YsnVJaD4q8+Finy4=
+
+Name: assets/script_eng/0400.zt1
+SHA1-Digest: V5F9/CB/1OXH1X6tdJVrquGjRT4=
+
+Name: assets/map/001.zt1
+SHA1-Digest: Se1ddGeaWkgoPCTpdcUa9XiSglE=
+
+Name: assets/data_kor/XlsHeroSkill.zt1
+SHA1-Digest: FWQZDAxVgw4qeb8HFXS1n9tTJOk=
+
+Name: assets/ptc/008.ptc
+SHA1-Digest: p4adN0cR8yllof2jv4SSZYJXBg0=
+
+Name: assets/script_eng/0591.zt1
+SHA1-Digest: Gvj+63f7V/SAEb29+ROy912bZH8=
+
+Name: assets/img/176.pzx
+SHA1-Digest: 2hBsp2eAh4IzIYpNTudpAMBtk88=
+
+Name: assets/script_eng/0202.zt1
+SHA1-Digest: 4Mfq06coqwWJP/klwtYULDmixKU=
+
+Name: assets/script_kor/0102.zt1
+SHA1-Digest: VyCRdt7X9s5eriMY6IDoBWYyGs4=
+
+Name: assets/img/004.pzx
+SHA1-Digest: RoEfXYjzxNwj20NIObKC/NYSt1E=
+
+Name: assets/script_eng/0933.zt1
+SHA1-Digest: FNY+fn2QoFBDpNHrJk5c4Iwnbak=
+
+Name: assets/script_kor/0893.zt1
+SHA1-Digest: M0uayqFuT5MuaLz8zPc+dv3+Mzw=
+
+Name: assets/ptc/021.ptc
+SHA1-Digest: YkOFuIA2+9dBHDv1gZNUgJ8j23c=
+
+Name: assets/script_kor/0402.zt1
+SHA1-Digest: 2Au+ZzaLMNP4xkhDfXJjM2ukKUE=
+
+Name: assets/data_eng/StrString.zt1
+SHA1-Digest: 0AD5n4nO7Yk+TcpNmQSAFzOt7Gk=
+
+Name: assets/script_eng/0533.zt1
+SHA1-Digest: +GRyFq4Z6cPHzVjLl+KBrhlolkM=
+
+Name: assets/script_kor/0433.zt1
+SHA1-Digest: x2RqN/sZHoGTIxToY1mCIjiaydM=
+
+Name: assets/script_eng/0480.zt1
+SHA1-Digest: ynAst4d5z2Oes/i7r8BiM9iPKO0=
+
+Name: assets/script_kor/0020.zt1
+SHA1-Digest: 2J+r7nWckZbxW99rNexztdl2Sf4=
+
+Name: assets/map/007.zt1
+SHA1-Digest: cVRwa2HiUp48MLOFF2gaeDzqdfs=
+
+Name: assets/img/187.pzx
+SHA1-Digest: IWXojMCAH8Fr/RE9iKi4r072qv4=
+
+Name: assets/script_eng/1193.zt1
+SHA1-Digest: lyiWlZNgJBIiLGWjKWzmk/zU2mY=
+
+Name: assets/script_kor/0160.zt1
+SHA1-Digest: 5G6H/U/vBIWPrbbFiG0+fnh40LU=
+
+Name: assets/ptc/023.ptc
+SHA1-Digest: WbYH4M7m3AM/Ib9vF7VgZjOVMzY=
+
+Name: assets/img/216.mpl
+SHA1-Digest: ycZZwJhb0qxx7dngnsWgKVgoK/s=
+
+Name: res/raw/s046.ogg
+SHA1-Digest: qwzJGl5hjHuOgeKrP6n9VwiXnnM=
+
+Name: assets/script_eng/0390.zt1
+SHA1-Digest: A3Ou8TWtbIm8l70NpNTNrbVcRio=
+
+Name: res/drawable/back_button.xml
+SHA1-Digest: 2e56ZRHCDQw5LgHPefUVZasbP80=
+
+Name: assets/script_kor/0861.zt1
+SHA1-Digest: weOpce2oP3jqFw9PrfkBvV0O3uI=
+
+Name: assets/script_eng/0273.zt1
+SHA1-Digest: t2QrUEOZGeFBCarVCzBE+r2TpmI=
+
+Name: assets/img/087.pzx
+SHA1-Digest: EPbKw3kmYpgf+0suNuvc1TTY2KA=
+
+Name: assets/script_eng/0891.zt1
+SHA1-Digest: syiISP7YMw6bZaipHde3GDu8vK0=
+
+Name: assets/data_eng/XlsOff_Weight.zt1
+SHA1-Digest: Ueq6WWlSDncncfzEVwPUj3I5yDE=
+
+Name: res/layout/main.xml
+SHA1-Digest: crAM1hXqgVcXk9ESWMyf3c5y6Tg=
+
+Name: assets/img/182.mpl
+SHA1-Digest: EGiV63yokv5j9d3Z8gxpiWTSJi8=
+
+Name: assets/img/241.pzx
+SHA1-Digest: 3/+94piX04FJhyaZdmraAQDffY4=
+
+Name: assets/img/177.pzx
+SHA1-Digest: JEu9auzZTH8KpAYjRMKyywzqPtw=
+
+Name: assets/script_eng/1023.zt1
+SHA1-Digest: ODh6j2MqXqJPlgm5Zbmurha9Y98=
+
+Name: assets/img/183.pzx
+SHA1-Digest: 9/R2iLIh0cMFQsHVMNjAe5IK6BQ=
+
+Name: assets/script_eng/0523.zt1
+SHA1-Digest: BN7QfAsTUp17XVmcYmJM3ZXnfas=
+
+Name: res/raw/s031.ogg
+SHA1-Digest: nrV70aA/1DnokIu9pO25DkYH9Ls=
+
+Name: assets/img/178.pzx
+SHA1-Digest: W/mJJfO4HM/uS9irtk1EdwkUqmQ=
+
+Name: assets/img/125.pzx
+SHA1-Digest: QWLmpbUjQ2WoB1s7vi0PdCqhk3Q=
+
+Name: assets/img/026.pzx
+SHA1-Digest: wbG3tCp3UZ6BblL/RDHaLv4gjxs=
+
+Name: assets/script_eng/0840.zt1
+SHA1-Digest: VQnygBe0Xz15MuHakptrd8g4SWo=
+
+Name: assets/map/010.zt1
+SHA1-Digest: QIH52WU/D8ZFq0JqquQg/gK8A5Y=
+
+Name: assets/script_kor/0001.zt1
+SHA1-Digest: 6XCdbjdOw7sIR/0sptsEQgQxYjc=
+
+Name: lib/armeabi/libgameDSO.so
+SHA1-Digest: GOEaz9mIZVhugRpptyoA0FTNthU=
+
+Name: assets/img/233.pzx
+SHA1-Digest: /Am6ePxhGGM0VqQ8A6NelUhwGkE=
+
+Name: assets/map/003.zt1
+SHA1-Digest: bakP+r7emaXqDBWEu7HFjjWGlwM=
+
+Name: assets/img/172.pzx
+SHA1-Digest: t7X1A0L7bcqu8Xj/pHLHAIOD+rY=
+
+Name: assets/script_eng/0820.zt1
+SHA1-Digest: XA1HY7rf3pK9rEvarfukBlDAYZk=
+
+Name: assets/img/090.pzx
+SHA1-Digest: +bIhgAd+wmPR7hHVyNZqG1iaYJ4=
+
+Name: assets/img/232.mpl
+SHA1-Digest: x2K5CWiZmX6YxykqNQkQeEQVrb0=
+
+Name: assets/img/214.mpl
+SHA1-Digest: FLXSpeK22y6hgG/GR21Ze21ml00=
+
+Name: assets/script_eng/1110.zt1
+SHA1-Digest: n2/bypmF/X74iV0CEg/QOQDTYOo=
+
+Name: assets/script_kor/0753.zt1
+SHA1-Digest: yEPUPgmQ3uBrEGAwRZ6bb6JE4u8=
+
+Name: assets/script_kor/0273.zt1
+SHA1-Digest: e1XkQbv3zVpMVi75Bi6GFuVbGtc=
+
+Name: assets/script_kor/0530.zt1
+SHA1-Digest: CBaJ9QDexQgv6kh7xDFD/FhwV8w=
+
+Name: assets/img/229.pzx
+SHA1-Digest: xz5wAV6L9X/QSxN2slulCjtI4fU=
+
+Name: assets/data_kor/XlsCorrespondence.zt1
+SHA1-Digest: tupQPaz1qdj05oNFTTlBpqdn+28=
+
+Name: assets/script_eng/0540.zt1
+SHA1-Digest: SgjPMGy7uWrGtCWtdds4NaYHkro=
+
+Name: assets/ptc/044.ptc
+SHA1-Digest: h8VTmDXJ6tDmkXc1owbYz9BwKno=
+
+Name: assets/script_kor/0543.zt1
+SHA1-Digest: JBJlGaQur5G+em/5AdYdca2B7JY=
+
+Name: res/raw/s029.ogg
+SHA1-Digest: KzJZnx41pBpzk+dvJPPaMqrmmOk=
+
+Name: res/raw/s108.ogg
+SHA1-Digest: oCRfPQuuJlryvaTT8glzgyejOHY=
+
+Name: assets/script_eng/0242.zt1
+SHA1-Digest: 4lELcZxA1PqK7Muf9Xs29b/Ppkg=
+
+Name: assets/script_kor/0531.zt1
+SHA1-Digest: 3Bb8r/7K9PXkrcHd5aHRRVuYN8c=
+
+Name: assets/script_kor/0540.zt1
+SHA1-Digest: ztrgUN8SsKGdR5yITzA4ha5/mZI=
+
+Name: assets/script_kor/1150.zt1
+SHA1-Digest: qxjF5g+TbIe718wD8Kr7IpyM8nU=
+
+Name: assets/data_kor/XlsCardUpgrade.zt1
+SHA1-Digest: 5o6cmEbNZ/r05b1oqgcf7qm2gSQ=
+
+Name: assets/script_eng/0300.zt1
+SHA1-Digest: jvB1ZIP3mN5T9sjgvg5BNoThvFk=
+
+Name: assets/script_eng/0990.zt1
+SHA1-Digest: Fz788pDrvPsD8p6kZB527TylBCA=
+
+Name: assets/script_kor/0311.zt1
+SHA1-Digest: +aRDYC4ifZJR+kN3hVI2U3mYHWM=
+
+Name: assets/script_kor/0852.zt1
+SHA1-Digest: gg5MEZkBTtpTT3T+mCtSzLQG8II=
+
+Name: assets/img/217.mpl
+SHA1-Digest: b1Fo5lEJG0ZiH38Gqu1BuDr7dXM=
+
+Name: assets/img/034.pzx
+SHA1-Digest: sZIG/xxyvy81Dblrvx4l3DXzg4s=
+
+Name: assets/script_eng/0452.zt1
+SHA1-Digest: utFi/y0WWPBcjZcPnPhtzr2UzqE=
+
+Name: assets/script_kor/0503.zt1
+SHA1-Digest: 5RImRYxyodp4PKzs/BSXeZ/7bY8=
+
+Name: assets/script_kor/0653.zt1
+SHA1-Digest: 6lIKs6BYpTpaWbwXKriM1T7wgdM=
+
+Name: assets/script_kor/0232.zt1
+SHA1-Digest: +fAdmVXTZGwC2Yg2MFriQs2Nkr8=
+
+Name: assets/img/058.pzx
+SHA1-Digest: jI9x68sm1VqH35UuZoeZ2iSavfo=
+
+Name: assets/script_eng/0573.zt1
+SHA1-Digest: XsRbqoo/lWF6jeC4gkF7F1XZScI=
+
+Name: assets/img/007.pzx
+SHA1-Digest: Muta1z75akCs2hRZx0v+lFxc1sY=
+
+Name: res/raw/s066.ogg
+SHA1-Digest: DMn4lnj0yqXU3ycx2smKzfHpQIQ=
+
+Name: res/raw/s026.ogg
+SHA1-Digest: JBjNjTV2MlNREeS2UXUHqUbOrxQ=
+
+Name: assets/img/147.pzx
+SHA1-Digest: c3mjIXjEgt0mS938tAcjdvpwZNg=
+
+Name: assets/img/186.pzx
+SHA1-Digest: eouKXoUQJ+MwUcYu4/QXmZ9BCc0=
+
+Name: assets/img/144.pzx
+SHA1-Digest: hQvlvO+I8T3zpxgW6RFdEJ7iYFs=
+
+Name: assets/script_kor/1070.zt1
+SHA1-Digest: OoIV2JYiMDOVI+gWGLgKuNvfAms=
+
+Name: assets/img/181.mpl
+SHA1-Digest: J5ji2j6MbCfHzkxDHN2RLpCs0GE=
+
+Name: assets/script_kor/0481.zt1
+SHA1-Digest: njcClLd1Ulf7u3ixjfFZx0r+BNc=
+
+Name: assets/img/207.mpl
+SHA1-Digest: 9vgfEXIL/KFwzNmwhS7o0ntD7Vk=
+
+Name: res/raw/s062.ogg
+SHA1-Digest: 3NVE3bB3h2FO3iMLKUUMQXIoMwU=
+
+Name: assets/script_kor/0051.zt1
+SHA1-Digest: SMSSDXeUyIBuO6paWSxLqyqey1g=
+
+Name: assets/script_kor/0843.zt1
+SHA1-Digest: yTlqJu0UEA6BrOmmw3JOsmDlF/M=
+
+Name: assets/script_eng/1161.zt1
+SHA1-Digest: lFdD3aKFPm72oaehrESC8qrbMpU=
+
+Name: assets/script_eng/0121.zt1
+SHA1-Digest: JfQ/4bm7hE6sW7enev+D2nsI0Ac=
+
+Name: assets/script_kor/1050.zt1
+SHA1-Digest: trf/1vuDf5DUPsfuZVyVTiaCiYI=
+
+Name: assets/script_kor/0882.zt1
+SHA1-Digest: C7W4Yf/jgL/10ScYJ+my/Iqzymc=
+
+Name: assets/img/065.pzx
+SHA1-Digest: cf4GtQ1MOfcw2bD575FLU2nGWkA=
+
+Name: assets/script_eng/0240.zt1
+SHA1-Digest: 9SxGK6C/UVtjbV1j9f2EJg4XpVg=
+
+Name: assets/script_kor/0750.zt1
+SHA1-Digest: apvfTy3rIQH94JTupjMYexk0Hq0=
+
+Name: assets/img/215.pzx
+SHA1-Digest: tZ+F79s8e6wt3DiSuS/snriVGIA=
+
+Name: assets/script_eng/0360.zt1
+SHA1-Digest: oAZZ7FcCYr28htJng/ntQEJx9Gg=
+
+Name: assets/script_eng/1091.zt1
+SHA1-Digest: PKPvjTGcE/ZLcxYhr+QUZZoBlhk=
+
+Name: assets/img/001.pzx
+SHA1-Digest: 1vqvVl7sO5qH0P4n1b/3GGMBryc=
+
+Name: assets/img/055.pzx
+SHA1-Digest: cMgQKsyC0gEXKxWxaPnAfwpn+WE=
+
+Name: assets/img/236.pzx
+SHA1-Digest: sPIpZDrrIcMsldZdqM/si/XbSQc=
+
+Name: assets/img/013.pzx
+SHA1-Digest: ZHxNmvc2sgCl0xNy5zkNnEDt8L0=
+
+Name: assets/img/098.pzx
+SHA1-Digest: 4QIu9pcG5Xocqv2t7IUsYThbLYw=
+
+Name: assets/script_kor/0920.zt1
+SHA1-Digest: iV/E3v7GrJa2S9eccDPdgd7c0W8=
+
+Name: assets/script_kor/0891.zt1
+SHA1-Digest: hbB0X/PpMlKelQR8XgzPnr7KYT4=
+
+Name: assets/img/218.pzx
+SHA1-Digest: zPDBOLo4egpU0Zx1gdUrMNGcytY=
+
+Name: assets/img/187.mpl
+SHA1-Digest: PO3TdOaRPbwkQVQlVYgfpdObpfk=
+
+Name: assets/script_kor/0410.zt1
+SHA1-Digest: ymkQX3/JQ9GrPggW82q/QwvpY7Y=
+
+Name: assets/img/138.pzx
+SHA1-Digest: zAQ8gO6YvYuUWsVAFCF5ZgAaDMw=
+
+Name: assets/script_kor/0442.zt1
+SHA1-Digest: jFRdVY4texSqU4wAIghfpN6vZNk=
+
+Name: assets/script_kor/1060.zt1
+SHA1-Digest: wCeZR4vc/bKHuBiHWganeOt9kQM=
+
+Name: assets/script_kor/1040.zt1
+SHA1-Digest: TrDusBvugSyFan8J+doaDR1yogg=
+
+Name: assets/script_kor/0280.zt1
+SHA1-Digest: bncZzMPv9Iqi9XDuBU3/Yrhpmb8=
+
+Name: assets/script_eng/0940.zt1
+SHA1-Digest: hvwsNKVEHVc7atcTRgeQipd/GWs=
+
+Name: res/raw/s063.ogg
+SHA1-Digest: 8WVikjzihh3eix00mdA6K+gPzVE=
+
+Name: assets/data_kor/XlsSynastry.zt1
+SHA1-Digest: XCv/qqNJPI3D0+jfH6SMdVSe9nc=
+
+Name: res/raw/s039.ogg
+SHA1-Digest: 1BzajHgv8KFd8d/L38j1KRsvNA8=
+
+Name: assets/script_kor/0943.zt1
+SHA1-Digest: PhdL8ev3DBWld4HEjjEYonbvbfo=
+
+Name: assets/script_kor/0121.zt1
+SHA1-Digest: aP8Wzdpzla5iwfeGC19jyZanPX0=
+
+Name: assets/script_eng/0113.zt1
+SHA1-Digest: oVMODXDK83OwAnS4CriFukfjqkU=
+
+Name: assets/ptc/025.ptc
+SHA1-Digest: yuPoUei8w6vQVZrLQBlxmxLHrgI=
+
+Name: assets/script_eng/0643.zt1
+SHA1-Digest: BfiEv9LHDclNxqF2eymDrmaARx8=
+
+Name: assets/script_eng/0022.zt1
+SHA1-Digest: 1PwoWOR/ua4OzkJB8fHaoiTH6kM=
+
+Name: assets/script_eng/0353.zt1
+SHA1-Digest: +YcfJfhNBuwwM69Ch899VYxPQXU=
+
+Name: assets/img/192.mpl
+SHA1-Digest: ZsGwxU5fFVd5Ovu1T1my+tN/xJM=
+
+Name: assets/script_kor/0801.zt1
+SHA1-Digest: RZONa8uw13nl+11KImQvXJceAZk=
+
+Name: assets/script_kor/0981.zt1
+SHA1-Digest: susDsuKdkZ7uR6gVWt5Fk6rNwoc=
+
+Name: assets/script_kor/0804.zt1
+SHA1-Digest: khcKD6qwBQt6HM+arivYSldc+ds=
+
+Name: assets/img/052.pzx
+SHA1-Digest: 2QOo+mJ1TMLdeFpY5uJ4YZJlIus=
+
+Name: res/drawable/gamevil_live_1.png
+SHA1-Digest: 6jjHGlvDJ2oJz5EOMAO27egjYEk=
+
+Name: assets/data_eng/XlsSynastry_mine.zt1
+SHA1-Digest: ja1rqfBnvj1rXthLQouqvOAnidI=
+
+Name: assets/img/141.pzx
+SHA1-Digest: 63rtGGppN6KhXM6G7EvzZ57rb6I=
+
+Name: assets/data_eng/XlsHeroPassiveSkill.zt1
+SHA1-Digest: l0BZ6Z6yQZuB9+aoj8QNyCHbiQk=
+
+Name: assets/data_kor/XlsBaseAttack.zt1
+SHA1-Digest: mI6LbWdR5nzLl4snAL3icf/+uWc=
+
+Name: assets/img/019.pzx
+SHA1-Digest: RzdNC8V/l1vHeOStsGIgaCyRACU=
+
+Name: res/raw/s067.ogg
+SHA1-Digest: nJnvbI4XPnTemcSAoKpeOTMM5hw=
+
+Name: assets/img/185.mpl
+SHA1-Digest: vmkxlHtgAmpvjvX1mvFWsda3J3w=
+
+Name: assets/script_kor/0600.zt1
+SHA1-Digest: 17YrY1CSo6pxjeSQkJg0PgyBMWM=
+
+Name: res/raw/s018.ogg
+SHA1-Digest: T6SovIOALgDv+DEscYLvBD8mLfo=
+
+Name: assets/script_eng/0980.zt1
+SHA1-Digest: Gfa7y86HOh+G2+cxtRY4OxeO2wE=
+
+Name: assets/ptc/024.ptc
+SHA1-Digest: aVXqifkhnD9D7J2GwYXNMZGfUCM=
+
+Name: assets/script_eng/0470.zt1
+SHA1-Digest: HKw0mR2KlVoCVtNNBGFQbcY9uLw=
+
+Name: assets/img/083.pzx
+SHA1-Digest: jGYJTEI+47qjjtAs+UWpGryZEJ8=
+
+Name: assets/script_eng/0653.zt1
+SHA1-Digest: xsjjhNiEe1UFzX2W5PY3gVW8rMw=
+
+Name: assets/ptc/014.ptc
+SHA1-Digest: pPxqAdB+OlO2P7PzP5j5KNvj9dY=
+
+Name: res/drawable/home_button.xml
+SHA1-Digest: 5UMg+25WyE8R6IFBphfMF5P77Ns=
+
+Name: assets/img/191.pzx
+SHA1-Digest: r+WMeK49thYbcJTTARQ+hbOFXv0=
+
+Name: assets/map/013.zt1
+SHA1-Digest: 1ZYzARj1QePmrXfUaAN9F31PfpU=
+
+Name: assets/script_eng/0160.zt1
+SHA1-Digest: DD4pZb+eRGdy1RjK36AFuPcqG9M=
+
+Name: assets/img/132.pzx
+SHA1-Digest: 2x6DeYDvp4fYBL7uKns447rUuBc=
+
+Name: assets/script_eng/0813.zt1
+SHA1-Digest: TbmDqnJhrKH452jxWoMsH8cvIpI=
+
+Name: res/raw/s117.ogg
+SHA1-Digest: g9+xxqrn+EvBC4jTLl9ITbLXhbU=
+
+Name: assets/script_eng/0633.zt1
+SHA1-Digest: H3K4rBep+cwIeOoVJ91meaVOH1A=
+
+Name: assets/script_eng/0872.zt1
+SHA1-Digest: iSVc6BWEJEOJCDReSioT7hviV8c=
+
+Name: assets/img/064.pzx
+SHA1-Digest: RNNreoZ0gYFyN10YKuzEudIoyRw=
+
+Name: assets/script_kor/1000.zt1
+SHA1-Digest: Ro0DtFSj0NUyvishlrSPY2PbGi8=
+
+Name: assets/help_eng.html
+SHA1-Digest: VZiqKNHBYINFYq3EEgt5lTBYHvQ=
+
+Name: assets/script_kor/1103.zt1
+SHA1-Digest: hDly+/UiwUR+XEiy0xeGxLUNG+8=
+
+Name: assets/script_eng/0800.zt1
+SHA1-Digest: LplhPK+bECT4MSF7xOTB/kqExGo=
+
+Name: assets/script_kor/0993.zt1
+SHA1-Digest: E3UA9p8FG/v+RKIyaFSIDDg45xQ=
+
+Name: assets/script_kor/0810.zt1
+SHA1-Digest: cxhDjXTGMFa/cvd8xleMK6r5yY4=
+
+Name: res/raw/s032.ogg
+SHA1-Digest: OUhc2LZLL8scMGKSV+8FECBpuuI=
+
+Name: assets/script_kor/0440.zt1
+SHA1-Digest: HsNp8JBzXfiNWWWq+d1XLahvnNI=
+
+Name: assets/script_eng/1063.zt1
+SHA1-Digest: l3vWvJZg8TdR7XzXZgo+Gw50wqU=
+
+Name: assets/script_kor/0730.zt1
+SHA1-Digest: I5eoNHDT0DTh4iT5Lh4RyBrs5vQ=
+
+Name: assets/img/230.mpl
+SHA1-Digest: Ew6hordXZqWQHFPzreAXgmYIemk=
+
+Name: assets/script_kor/0800.zt1
+SHA1-Digest: EV9kAIEnbEilj3eMdccElEvvlBg=
+
+Name: assets/script_eng/0730.zt1
+SHA1-Digest: YUjokuAglt1EUNRuoRFrT54BJ4k=
+
+Name: assets/script_kor/0420.zt1
+SHA1-Digest: uxe0O9AX6bQM5vGXm/y5KidRcxU=
+
+Name: assets/img/124.pzx
+SHA1-Digest: Eii6/QyMJMsePXuigw25xn87YMk=
+
+Name: assets/img/134.pzx
+SHA1-Digest: Oq4/VF4hZPRBBePMMuOPi92dMKA=
+
+Name: res/raw/s012.ogg
+SHA1-Digest: QJIv4tMPlIaWiEipIAHguVRU8Pk=
+
+Name: res/raw/s006.ogg
+SHA1-Digest: gctj8cL23chLM9zX3H4DLvJCve4=
+
+Name: assets/img/027.pzx
+SHA1-Digest: O1myzNG4DmndjbDfTvmVtMFdMdw=
+
+Name: assets/img/074.pzx
+SHA1-Digest: 5xNA24+xY5hgMn/2kvH6UVgdjm0=
+
+Name: assets/img/202.pzx
+SHA1-Digest: UyTz7oRP6U5dESE5dTsqcBblwFM=
+
+Name: assets/script_eng/0513.zt1
+SHA1-Digest: srCukyhqf7VjeE2NVkWelW5MxmM=
+
+Name: assets/img/053.pzx
+SHA1-Digest: 2QOo+mJ1TMLdeFpY5uJ4YZJlIus=
+
+Name: assets/script_eng/0971.zt1
+SHA1-Digest: NES2rQ86rLlk0K/sQns0dg4l6F0=
+
+Name: assets/script_kor/1072.zt1
+SHA1-Digest: YVBdSB9Gf2ndaHxlvy4eNzJ9Q/Q=
+
+Name: assets/script_kor/0733.zt1
+SHA1-Digest: b8rRVBPvfQcZZoQK1Y2/bHSaxKE=
+
+Name: assets/script_eng/0993.zt1
+SHA1-Digest: g5Wz5hf9nBLxDtoKMtb6EWB96aw=
+
+Name: assets/img/196.mpl
+SHA1-Digest: fo5/L2fUNIDOJqWzEGqpY3J3iyw=
+
+Name: assets/script_kor/0990.zt1
+SHA1-Digest: hask/bLs9TW3yD4Q8lDvn6ooPPk=
+
+Name: assets/data_eng/XlsHeroBuffSkill.zt1
+SHA1-Digest: +fhATRyGJFOA9pXoYewZ77XKl5c=
+
+Name: assets/img/118.pzx
+SHA1-Digest: ni9B7tKQRNOpBcaeYtAUXgebR2U=
+
+Name: assets/img/156.pzx
+SHA1-Digest: L1rTynzQSPC3BXIMn69GZwhv848=
+
+Name: assets/script_kor/1152.zt1
+SHA1-Digest: V2C/Rygry0QrylsitrnCon2Rcgg=
+
+Name: assets/script_eng/0461.zt1
+SHA1-Digest: g2VD70ks05NRI0WZ+DzJB5Y6cBU=
+
+Name: assets/img/204.mpl
+SHA1-Digest: HMpm9fyhZqK0mZNsFaOLDp4vQX8=
+
+Name: res/raw/s119.ogg
+SHA1-Digest: swyhI1HSyWEDk4xFzt3AldlHV/w=
+
+Name: assets/data_eng/XlsHero_Ai.zt1
+SHA1-Digest: zGLu0qbpWUSUzUzN199AcJsGpwI=
+
+Name: assets/script_eng/1102.zt1
+SHA1-Digest: /HoqWp4w8qYoU7SHaveb5wYZSkc=
+
+Name: assets/img/237.mpl
+SHA1-Digest: x/mG+hbr/vTiAVxHLqeDw0moXVk=
+
+Name: assets/img/021.pzx
+SHA1-Digest: Vwd5avdgfUBRo7ADxp6jLgPr8Dk=
+
+Name: assets/script_kor/0913.zt1
+SHA1-Digest: ZAjQjg8oNuUrWqXFqtgKDCKUgy0=
+
+Name: assets/data_eng/XlsSynastry.zt1
+SHA1-Digest: XCv/qqNJPI3D0+jfH6SMdVSe9nc=
+
+Name: assets/img/059.pzx
+SHA1-Digest: UzvrRrDiP8Csg1/oIfHcuW831PE=
+
+Name: assets/script_kor/0131.zt1
+SHA1-Digest: kzHUPAz6trrB2N9vM3tlGbjZv/o=
+
+Name: assets/img/205.mpl
+SHA1-Digest: nxrYiu96edSt0EQyPKF3Da4CYo0=
+
+Name: assets/script_kor/0643.zt1
+SHA1-Digest: yxoXROY3z/RbBDoAKCaGZRD/dOs=
+
+Name: assets/map/000.zt1
+SHA1-Digest: +Ld/PEQem4niPWqwXm3K5G1egSo=
+
+Name: assets/script_eng/0531.zt1
+SHA1-Digest: SCEueMv/YbGJoeRw9QHJiEDMukk=
+
+Name: assets/data_kor/XlsDef_Weight.zt1
+SHA1-Digest: GyMwE5PzJIRZBn4gh0OG+ERSRp0=
+
+Name: assets/script_kor/0951.zt1
+SHA1-Digest: LkzYu78KQCC0TWvmGkhsdD3w8MU=
+
+Name: assets/script_kor/1153.zt1
+SHA1-Digest: s9iDNVsvaJRTqYS2+omBvg/nl6I=
+
+Name: res/drawable/live_button.xml
+SHA1-Digest: 3Fy8m80OeH1AdGZLVUQo1Sdyvsc=
+
+Name: assets/script_eng/1013.zt1
+SHA1-Digest: hGbApsmBvSZ6S7yG9/bXRVq1WQk=
+
+Name: assets/img/154.pzx
+SHA1-Digest: T8XFclSpPtASEf7IGHNQZGFYliY=
+
+Name: assets/script_eng/0200.zt1
+SHA1-Digest: yASZUUI2+wn4zQaKOHeGBp2Cb9Y=
+
+Name: assets/data_eng/XlsParticle.zt1
+SHA1-Digest: LK/xLkGXfp2sivb6uDkV5M4YSSU=
+
+Name: assets/script_eng/0343.zt1
+SHA1-Digest: S4paIMPUOC/lroDLPIk7xnzkmX4=
+
+Name: assets/script_eng/0841.zt1
+SHA1-Digest: CWSF/X+EJXsrp5bkcwmE7AIWSCQ=
+
+Name: assets/script_eng/0123.zt1
+SHA1-Digest: 8to4UR1F95bclsIh8turBSpGA1I=
+
+Name: assets/script_eng/0510.zt1
+SHA1-Digest: CvD1S7WX2ljBLqpwylLb3RXpu8I=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: YL9IavPSOAqQBMAjI75WiTHLwsY=
+
+Name: assets/script_eng/0000.zt1
+SHA1-Digest: FyOSReakh93/DfRZAY1Mftt+8uo=
+
+Name: assets/img/062.pzx
+SHA1-Digest: Kwo9dSZHU1ksgU24nYpw7hhi69w=
+
+Name: assets/img/152.pzx
+SHA1-Digest: ff28crsp7lQjgFAStn8f1R0OMjA=
+
+Name: assets/script_eng/0802.zt1
+SHA1-Digest: qmNB9MFT4cLMvP53kVVeQJ69dp0=
+
+Name: assets/script_eng/1042.zt1
+SHA1-Digest: 0lhXVSIMXvzxAatn4sRW2BJxU50=
+
+Name: assets/script_kor/0811.zt1
+SHA1-Digest: x+XK3HggsEtDg9k9ERLlspQyd0E=
+
+Name: assets/img/212.mpl
+SHA1-Digest: +ll21HyTFa6zkUTL26Ocsse0vxg=
+
+Name: assets/img/010.pzx
+SHA1-Digest: fxDFiUoUUtRq7FhiE7McE91V6Q8=
+
+Name: assets/data_kor/XlsProjectile.zt1
+SHA1-Digest: rANnngDWEXwUbbtrMWLApJ6mG7c=
+
+Name: assets/img/155.pzx
+SHA1-Digest: hv/jZUx/Tx9udVj7YeSH/Wuctow=
+
+Name: assets/img/212.pzx
+SHA1-Digest: QBnR4eCD99j/z+fhPFvN/Pd+3gQ=
+
+Name: assets/img/197.pzx
+SHA1-Digest: z5+tOupIP6Z9IIrun9G2Afd8RBw=
+
+Name: assets/script_kor/0593.zt1
+SHA1-Digest: ZXM+/APgo5d3P/eL3DWHzzlZoSo=
+
+Name: assets/auth_terms.html
+SHA1-Digest: 7O6UZSONObimL4LGurH+FFKgUyg=
+
+Name: assets/img/145.pzx
+SHA1-Digest: CgB0HC1rht3Tt6B7ZR7tx2tO+4Y=
+
+Name: assets/script_kor/0460.zt1
+SHA1-Digest: yta0JJ+KLTUOgW+/y+cQKE/EaBk=
+
+Name: assets/script_eng/1033.zt1
+SHA1-Digest: FBBZ4bG88jsTSNO7l1Ei5VizXHE=
+
+Name: assets/script_kor/0171.zt1
+SHA1-Digest: 3Uuh/oZrPNzYXyrIE7lAUqIhCeI=
+
+Name: assets/script_eng/0181.zt1
+SHA1-Digest: C7aUuqwlMgm74mG8rPSD5Ri7Gyw=
+
+Name: assets/script_kor/1071.zt1
+SHA1-Digest: UYAD7ubJsHVCgikFGwjGwMNND8A=
+
+Name: assets/script_kor/1031.zt1
+SHA1-Digest: 7qAb2PVM2Yysp2HVXxsX9VVynFA=
+
+Name: assets/img/235.pzx
+SHA1-Digest: FE62LMIZOhxcRgbXvQTsQ5LxwLg=
+
+Name: assets/data_eng/XlsBaseAttack.zt1
+SHA1-Digest: mI6LbWdR5nzLl4snAL3icf/+uWc=
+
+Name: assets/script_eng/0483.zt1
+SHA1-Digest: h66x/hRvJv6q0CuxFzGkS0ySE0c=
+
+Name: assets/script_kor/0760.zt1
+SHA1-Digest: B701+iX/dCaw2s1GeuIiZrcga7k=
+
+Name: res/drawable/certi_button.xml
+SHA1-Digest: 2Zg3LkL3TNl/9euik22x0DsmLpM=
+
+Name: assets/script_eng/0570.zt1
+SHA1-Digest: 2XKOkvgqsY7J/q/YJyaT/cCofio=
+
+Name: assets/img/012.pzx
+SHA1-Digest: N9LWDycmlUivf4wwTWBhIuxWi9o=
+
+Name: assets/script_eng/0511.zt1
+SHA1-Digest: lO+RmJuQNAtHPna0d1AGUJgwK1A=
+
+Name: assets/img/006.pzx
+SHA1-Digest: trqPXwtohMivnW9EgdL+FvC1USQ=
+
+Name: assets/img/003.pzx
+SHA1-Digest: u6wT94J0fH/mwGkYGcN8BbOzjZQ=
+
+Name: assets/script_eng/0001.zt1
+SHA1-Digest: 9kx13NtbaKtZaWS/2/ldWHu6Kr8=
+
+Name: assets/script_eng/1130.zt1
+SHA1-Digest: ZjV3lFVhNFmwe0LZQegQk4Crooo=
+
+Name: assets/script_kor/0080.zt1
+SHA1-Digest: Mhc/KUjW2pxoXVjhiKxkG/jk2/o=
+
+Name: assets/img/099.pzx
+SHA1-Digest: hKprFBeoNBM1qZSXDiR/k7M8mSE=
+
+Name: assets/ptc/042.ptc
+SHA1-Digest: Tq8663iR0/H/a0S2w2yd9D/1Kc8=
+
+Name: assets/script_eng/0410.zt1
+SHA1-Digest: kWBRYwZreptuJBFI2xlwEeCGRoI=
+
+Name: assets/script_eng/0014.zt1
+SHA1-Digest: 6G2KvJLlDjjD3H5VuNAA7CqKbAc=
+
+Name: assets/script_kor/0790.zt1
+SHA1-Digest: 6qOOV22k+sfHF62jC4FvFYSpXpI=
+
+Name: assets/script_kor/0751.zt1
+SHA1-Digest: GJsccx3jA77hNs2oA9MSXgUN938=
+
+Name: assets/script_eng/0463.zt1
+SHA1-Digest: L7T4YgVM8pCBX3kQqwjYC+Xf3wU=
+
+Name: res/drawable-hdpi/icon_plus.png
+SHA1-Digest: aa5i/20v378TwS0erlzfTyn9WrM=
+
+Name: assets/script_kor/0180.zt1
+SHA1-Digest: ScYi5wEl3/Nr9BuHISMi/pvzslM=
+
+Name: assets/script_eng/0140.zt1
+SHA1-Digest: 7cd6E+OXn3nu0YeuNme3Jrl3htM=
+
+Name: assets/img/102.pzx
+SHA1-Digest: G5Kfow7ITnd4RsF/BbEEhHzDnv0=
+
+Name: assets/script_eng/0301.zt1
+SHA1-Digest: C0MpuNjAxtjlwkLSsbgE4zhCBV4=
+
+Name: assets/script_kor/0850.zt1
+SHA1-Digest: wqdhQbDx17QMjnAAwPDMZ4wLXqc=
+
+Name: assets/script_eng/0610.zt1
+SHA1-Digest: hid9AOBW044vm4wVIyTOdMFvg3M=
+
+Name: AndroidManifest.xml
+SHA1-Digest: boMdzCsPbtwgbYrDaJcaOrbRXgg=
+
+Name: assets/script_kor/0963.zt1
+SHA1-Digest: xCKwvyfFiHK22SpXwLUXV4wIG0A=
+
+Name: assets/ptc/004.ptc
+SHA1-Digest: /o7ISFRC4PKzO5bnWPwVnUCDw7k=
+
+Name: assets/img/111.pzx
+SHA1-Digest: TrmMX3IgFj8cMeo0bj8+Yi/T6Q8=
+
+Name: assets/script_eng/0430.zt1
+SHA1-Digest: piiBbeeG8BhWjg1iiJ1Gz4fAbVU=
+
+Name: assets/script_kor/0030.zt1
+SHA1-Digest: GUn5uLWmvemo/wzWYGNgDoV/sR8=
+
+Name: assets/script_kor/1180.zt1
+SHA1-Digest: H7zKDT86Ky9vWwCLvUEXguropeo=
+
+Name: assets/img/103.pzx
+SHA1-Digest: 4FSOJi2ZEFdFYVrPdzdb0XXj7jo=
+
+Name: assets/ptc/034.ptc
+SHA1-Digest: wHiWqPAwvWPQs8ij+ABh7imh6Do=
+
+Name: assets/img/206.pzx
+SHA1-Digest: 7KfQ1QbnQKH4Qpdwf+kVmroz+Yw=
+
+Name: assets/img/073.pzx
+SHA1-Digest: OvwRZdCOmE+IC1DRYcoMnwicusM=
+
+Name: assets/script_eng/0981.zt1
+SHA1-Digest: X3RYBPbS3QtcemcVratSfQ0kd+Y=
+
+Name: assets/script_eng/1011.zt1
+SHA1-Digest: TJVc2tX1by5yyr3Rv8fIrkQ5qqY=
+
+Name: assets/img/220.pzx
+SHA1-Digest: dMl8GXSvgi3XkfVbNRHUVgzrSKM=
+
+Name: res/raw/s122.ogg
+SHA1-Digest: N2V/PMW8LAdg6pF+wjOq7/506iQ=
+
+Name: assets/script_kor/0053.zt1
+SHA1-Digest: nm/d+rjWmtNQx0/m7Enp6wwV3Yg=
+
+Name: assets/img/203.mpl
+SHA1-Digest: AUqihNaVFjFLmcdOogSXFqUJRjM=
+
+Name: assets/img/042.pzx
+SHA1-Digest: VEfUGqlTAQf2B/51SxGP+86fvKY=
+
+Name: classes.dex
+SHA1-Digest: eHiuFjMb+kNwa6zTNnF0ww0MoKs=
+
+Name: assets/script_eng/0053.zt1
+SHA1-Digest: HPWqE1Bsywnf7dHOoIxueLL+pkg=
+
+Name: assets/script_eng/0870.zt1
+SHA1-Digest: gk28KyTIfTqEXp+vtOoJjm2p8L8=
+
+Name: assets/img/208.pzx
+SHA1-Digest: 9ulnf5cy3+RTzT/S3Bt/PHhbrTI=
+
+Name: res/raw/s124.ogg
+SHA1-Digest: JigWS8sI2j3iCs67TS7rNojKc10=
+
+Name: assets/script_kor/0220.zt1
+SHA1-Digest: ubwiCQbTbSJ6eJWGM2b10oF1zBY=
+
+Name: assets/script_kor/0841.zt1
+SHA1-Digest: lTCKyjniIo6JFAegNwbJOTwoYlA=
+
+Name: res/raw/s120.ogg
+SHA1-Digest: 4dex7C+60Hwr0KK6CX2hyspTWME=
+
+Name: assets/script_kor/0202.zt1
+SHA1-Digest: Y4EyqDTB4U/6kGL57JjMGeoSgK8=
+
+Name: assets/img/041.pzx
+SHA1-Digest: OnCKnEFZ6AbJnP7WNeYOCgpxM+c=
+
+Name: assets/ptc/000.ptc
+SHA1-Digest: tinwk/0LMsk/tbVPNu5pNRsPHe8=
+
+Name: assets/script_kor/0590.zt1
+SHA1-Digest: haONw0+sq903f6NWc74IkNPkb/8=
+
+Name: assets/img/084.pzx
+SHA1-Digest: MhYMzH58kmxx1p1q0557tHdlbxs=
+
+Name: assets/img/149.pzx
+SHA1-Digest: Fig9j/WVoXxyZqgxH9VUTHhk9Kk=
+
+Name: assets/data_eng/XlsHero.zt1
+SHA1-Digest: OsDLHrTqbi4IDjP1OcCsnG4OUS0=
+
+Name: assets/script_eng/0092.zt1
+SHA1-Digest: CKBrPw15EY7hFv+KWx/d5QYJH48=
+
+Name: assets/img/108.pzx
+SHA1-Digest: E2kAG+fzuHJvdOjcSSKjU0AphBQ=
+
+Name: assets/img/199.pzx
+SHA1-Digest: P8sfGqWsmPmuHVyAKfdCIonZ8I4=
+
+Name: assets/script_kor/0300.zt1
+SHA1-Digest: jSqGEh/QC9mf7nbHnzsAed+vTuw=
+
+Name: assets/script_kor/0233.zt1
+SHA1-Digest: +J/AmL8jsDJ8Mv38OPpikOVHWzg=
+
+Name: assets/script_kor/0853.zt1
+SHA1-Digest: zSp8Zb0othuOB/bdk1UthnmCzUA=
+
+Name: assets/img/189.mpl
+SHA1-Digest: 7NfH0rvpbrqNhSgVBm5Bjjc5W5Q=
+
+Name: res/raw/s125.ogg
+SHA1-Digest: LYFZpHFWWj80byzW3tZILk3yzVA=
+
+Name: assets/img/078.pzx
+SHA1-Digest: 8Wely+GCrBcP9FQd0jIoLWZBaMc=
+
+Name: res/raw/s070.ogg
+SHA1-Digest: gaeHYMPDA8B4/nPAonE4o3Y3rN4=
+
+Name: assets/script_eng/0363.zt1
+SHA1-Digest: 8Qx00800ii9cvRnxaq9VNNHVmgU=
+
+Name: res/raw/s083.ogg
+SHA1-Digest: sHzfnwEyH57ddyGjS1BN/XT8+J4=
+
+Name: assets/map/005.zt1
+SHA1-Digest: 06ke+4JoDDxyInh/f0BXLXZkYa0=
+
+Name: assets/img/200.pzx
+SHA1-Digest: B8xaXQr0C11i9nd0mS5h0o75OIU=
+
+Name: assets/script_eng/1152.zt1
+SHA1-Digest: KWrxj3eKAL7Ld7KHfhr/JnCiPM0=
+
+Name: assets/img/129.pzx
+SHA1-Digest: 4hE5s2K4ujDQRhn5fzL0mPJBb0Y=
+
+Name: assets/script_kor/0063.zt1
+SHA1-Digest: 71q1VEJO18A5F5FZOR38s1zKNk0=
+
+Name: assets/script_kor/0542.zt1
+SHA1-Digest: QchpvGA+IpekkkfRJHfzN7xsIeI=
+
+Name: res/raw/s053.ogg
+SHA1-Digest: wZu3YQ+C3FHcee/xy1O5tkJtkPA=
+
+Name: res/raw/s045.ogg
+SHA1-Digest: FWeopO+6sHTJZ4BxMb34d70Nbi0=
+
+Name: assets/img/072.pzx
+SHA1-Digest: ypoZGvkfyHfxYohvOyDRJ+TbU28=
+
+Name: assets/script_kor/0660.zt1
+SHA1-Digest: mFs8JwQS1WmP9xRaWcZ1MdzvQWw=
+
+Name: assets/script_kor/0183.zt1
+SHA1-Digest: nGnMOt0Z3C1mFL1ojgY+Gsi3WqI=
+
+Name: assets/img/165.pzx
+SHA1-Digest: T+iRLiO4gp+THwPunOj6EORziX0=
+
+Name: assets/img/077.pzx
+SHA1-Digest: 0tvjhaMf/mVx7agkshZwElsptW8=
+
+Name: res/raw/s001.ogg
+SHA1-Digest: EAO7d2V/S/uWDxckP7ClkcRAesg=
+
+Name: assets/img/123.pzx
+SHA1-Digest: 2M3g/F45wJWGL5lzEk/Ss/VTQmU=
+
+Name: assets/img/028.pzx
+SHA1-Digest: tuHKpO3SpOTzRI7aGm+VL3WVybE=
+
+Name: res/xml/update_state.xml
+SHA1-Digest: chEs+/wR+GITdN+jHnSuifIFRgo=
+
+Name: assets/ptc/029.ptc
+SHA1-Digest: AFzXu4yNWmMvGbWc4DwAX8ZjVeY=
+
+Name: assets/script_kor/0450.zt1
+SHA1-Digest: w+q7ayc71ms7vdHQRnTchS8bG7o=
+
+Name: res/raw/s127.ogg
+SHA1-Digest: VApzd2pt23lBZlREFQVThkaIvYk=
+
+Name: assets/script_eng/0130.zt1
+SHA1-Digest: agEaDO5CsE5FtlXhhxE3MoZrY08=
+
+Name: assets/data_eng/XlsUnit.zt1
+SHA1-Digest: voyuxIZEBd1HjRTQWnow7U+0DXQ=
+
+Name: assets/script_eng/0021.zt1
+SHA1-Digest: CO3tQUGMR8fesG51e6UUcBnU92s=
+
+Name: assets/script_eng/0804.zt1
+SHA1-Digest: e/FM/J8cfKqAAlV5nWpupEdhSjY=
+
+Name: assets/img/035_k.pzx
+SHA1-Digest: Rrp4QIfcQBtoVJj3s3CXzg6YRzw=
+
+Name: assets/script_eng/0261.zt1
+SHA1-Digest: ZvVHiVIy5xKKvlotcsig2cZ327w=
+
+Name: assets/script_eng/0220.zt1
+SHA1-Digest: BopefIloyv+USSVGliqz70C1eX4=
+
+Name: assets/script_kor/0820.zt1
+SHA1-Digest: GOv6NK2StRtsF1KvLzIapMpRGGw=
+
+Name: assets/script_eng/0071.zt1
+SHA1-Digest: dxznl93h7g7Voq8onV/uE2dZs5U=
+
+Name: assets/img/240.pzx
+SHA1-Digest: 49rLBAoNQY3V92Siiu3y+2YBqS8=
+
+Name: assets/script_eng/0750.zt1
+SHA1-Digest: SKK4Gjml4zIrZO4aq9u809yoVYA=
+
+Name: assets/script_eng/0380.zt1
+SHA1-Digest: gSpHUmhTodvSm2bSbL/JvKSmrek=
+
+Name: assets/data_eng/XlsItem.zt1
+SHA1-Digest: /PfOyDg285JDCl6OVRM596hLtzM=
+
+Name: assets/script_kor/0404.zt1
+SHA1-Digest: mzlkJQJCCCOzVCMzknqcqmwECus=
+
+Name: assets/script_eng/0780.zt1
+SHA1-Digest: /w53JiVkX0MbrogiavqX04dOpyU=
+
+Name: assets/data_eng/XlsWorldmap.zt1
+SHA1-Digest: 4IpBYGOOu/k+SDM99MkwIB7cYpI=
+
+Name: assets/script_eng/1120.zt1
+SHA1-Digest: 2BoJSx66tQEqsf6CRaqxveVOSEM=
+
+Name: assets/script_eng/0581.zt1
+SHA1-Digest: V4ENRvWDDuULc4xnSlWNaqMGYo4=
+
+Name: assets/script_eng/0442.zt1
+SHA1-Digest: IH2mgz2gxDWmxOBgojZGdjNkj68=
+
+Name: assets/script_eng/1020.zt1
+SHA1-Digest: qPc0SlxKXj45E2Jpo2/0kopB6aA=
+
+Name: assets/script_kor/0533.zt1
+SHA1-Digest: 2dNosK38esLcAb/gq/Y+zqD6LpE=
+
+Name: assets/script_eng/0621.zt1
+SHA1-Digest: tQek0IRCLCTy6bV+NDfHv+3xK28=
+
+Name: assets/script_eng/0102.zt1
+SHA1-Digest: 6nR2islV3hzo35HVYebLJP00qaY=
+
+Name: assets/script_kor/0983.zt1
+SHA1-Digest: nm6EqU70P65Oxu5NU2tymPv2Nog=
+
+Name: assets/script_eng/1073.zt1
+SHA1-Digest: 3AoHfd5RkqO1KfZFIWsfr+F2NwU=
+
+Name: assets/script_kor/0122.zt1
+SHA1-Digest: s6j9RvwxBZSr6Nvt8XLO6XUsPyw=
+
+Name: assets/img/198.mpl
+SHA1-Digest: iEUjBM3BrNaOmJ9dN1m5MVfKAng=
+
+Name: assets/img/092.pzx
+SHA1-Digest: zIQ8aXUSGq+tcIL8ct0HK66lm78=
+
+Name: assets/data_kor/XlsEffect.zt1
+SHA1-Digest: j2DT5XVUzh0vlwqV9+GOC0HuLC8=
+
+Name: assets/script_eng/0793.zt1
+SHA1-Digest: Z3dQyTT2uKmmlmYANN1gZT5ymgs=
+
+Name: assets/script_eng/0830.zt1
+SHA1-Digest: 4RYBNNXv7d2n0YrJrbbSbQPxf/E=
+
+Name: assets/img/002.pzx
+SHA1-Digest: 1/113wL64s+lFVAjoYK8eX1NeA8=
+
+Name: assets/script_eng/0850.zt1
+SHA1-Digest: u4bmkAbuz+vrkm28H73stT27lww=
+
+Name: assets/script_kor/0823.zt1
+SHA1-Digest: sa6ZWjOMc0ZgaLqyBRZJhUzP5mE=
+
+Name: assets/script_eng/0880.zt1
+SHA1-Digest: SSxnlVO5NRji8qjKLMWaF9T7Rx4=
+
+Name: assets/data_kor/XlsSound.zt1
+SHA1-Digest: 268wAeZiKfk5UTGv1y4BwY9ofGQ=
+
+Name: assets/ptc/022.ptc
+SHA1-Digest: dep5BKckBjR3T76P7KI/mivHCmE=
+
+Name: assets/script_kor/0400.zt1
+SHA1-Digest: +EoK8YUV/SxETGgCXG4ndhrFCeU=
+
+Name: assets/img/223.mpl
+SHA1-Digest: ry9XPSPgHJmpi+V5a4oYP8+LyRo=
+
+Name: assets/img/215.mpl
+SHA1-Digest: bRy4eg9Z5vYkGKqG5/LQp2yaJcU=
+
+Name: assets/img/191.mpl
+SHA1-Digest: 33XBO79/kh5gcfJm1IYFh+Jd/EQ=
+
+Name: res/drawable/auth_ci.png
+SHA1-Digest: ECrqQVxPxtZZdNnExT9Bd4ukHkE=
+
+Name: assets/script_kor/0892.zt1
+SHA1-Digest: 1Pip72cyTvtc8Uu764UgqVyyiMU=
+
+Name: assets/img/188.mpl
+SHA1-Digest: 4f//cpAh0Y5vY+fpSfHnay4/u1Y=
+
+Name: assets/img/095.pzx
+SHA1-Digest: R+RO7YoxVKMjgZPDsA4/RtadBLA=
+
+Name: assets/img/115.pzx
+SHA1-Digest: sojUsOUStZEI64G3uk9IZIua7Nk=
+
+Name: assets/script_eng/0551.zt1
+SHA1-Digest: s7Q50lX844am0RL2nYwV34ABunQ=
+
+Name: assets/data_kor/XlsTower.zt1
+SHA1-Digest: ZiO566B7Vbq9ljORnGXPRLM9Hl8=
+
+Name: assets/map/002.zt1
+SHA1-Digest: ByqTLk86fycSBNByyCLs7xr8CHo=
+
+Name: assets/img/008.pzx
+SHA1-Digest: 0CPsA4jt2OuAxsSwarRW4bfyW6A=
+
+Name: assets/img/146.mpl
+SHA1-Digest: IOecE776nSW26G3COByEuPXN/Ro=
+
+Name: assets/script_eng/0943.zt1
+SHA1-Digest: T95Eyd/Tv4xLfFA9UjQYTFwzvXA=
+
+Name: res/raw/s085.ogg
+SHA1-Digest: 97LQInN8ZC5Qdjm4okFhr/yYu7c=
+
+Name: res/drawable/btt_disable.png
+SHA1-Digest: WdV9WK24s79k0+ynH/HqB7XtMBo=
+
+Name: assets/script_eng/0080.zt1
+SHA1-Digest: YwpPYASeCE6j0p24m35hB5Gwpr4=
+
+Name: assets/script_kor/0931.zt1
+SHA1-Digest: 2PoRdZV4TjAAqdx04IMEyOiYUPA=
+
+Name: assets/img/069.pzx
+SHA1-Digest: zS2+DJTiJwqlH4pDycf8DMNJtIw=
+
+Name: assets/data_eng/XlsHeroActiveSkill.zt1
+SHA1-Digest: g7m4Yaf2anKDnkWrmIF28Cjbcg8=
+
+Name: assets/script_kor/1123.zt1
+SHA1-Digest: Jhwi6LoO/BtoSpvEuilZ9+57PZY=
+
+Name: assets/script_kor/0012.zt1
+SHA1-Digest: GynD+FTP1bLwAw7NiUzSQ+s+r+0=
+
+Name: assets/img/175.pzx
+SHA1-Digest: +rx+ttbXb3IEm3ljMGwhom85D6Q=
+
+Name: assets/img/050.pzx
+SHA1-Digest: g1kfbSZwZlEp16qwRdp40hmhzgU=
+
+Name: assets/script_eng/0403.zt1
+SHA1-Digest: UWsRuGbOMG/o8n/B9xfRh85GTCw=
+
+Name: assets/script_kor/0813.zt1
+SHA1-Digest: HPYy0/JgRMMM+Bpz5pt94dWO560=
+
+Name: assets/script_eng/1030.zt1
+SHA1-Digest: xHBo9QSS6zHpD/q4OA6EsL1oiY4=
+
+Name: res/drawable-ldpi/icon_normal.png
+SHA1-Digest: Om8uNoSDcQlwpbFnKt1UGyrMeY4=
+
+Name: assets/script_kor/0630.zt1
+SHA1-Digest: 9lVDX5nevb3PscNEA5KCITlpMI8=
+
+Name: assets/img/163.pzx
+SHA1-Digest: 2tC7bQ4y5WgqHIXn1Sk3xWzMI78=
+
+Name: assets/img/180.mpl
+SHA1-Digest: +FJLZeSAjB+qV1ukEdPrhrFwXLI=
+
+Name: assets/font/synGung9_11.ft2
+SHA1-Digest: P6OmEmlzxGXKDTTY/jBcAK/3+Fc=
+
+Name: assets/script_eng/0443.zt1
+SHA1-Digest: 2jT1vGtW6YDMyC0q7ZV20ybRHGs=
+
+Name: assets/img/035.pzx
+SHA1-Digest: KzlDuYt/ME6nPVNfTg6Kiq6owfA=
+
+Name: assets/img/205.pzx
+SHA1-Digest: L61tJWLKHHwVYNRA4pFzBVaNogk=
+
+Name: assets/script_eng/0972.zt1
+SHA1-Digest: CK9Odq776Dnh7Mq7WWy2dc8daTo=
+
+Name: assets/script_kor/0623.zt1
+SHA1-Digest: psTskzHqu4U2ANVDAzjHPFCF2uA=
+
+Name: assets/script_eng/0620.zt1
+SHA1-Digest: C5JgPZ+/+3pRxDcMUe+TLMLiNhI=
+
+Name: assets/script_kor/1160.zt1
+SHA1-Digest: +//zAPg/2aN+LC7cbtpNtNnZmPo=
+
+Name: assets/script_kor/0071.zt1
+SHA1-Digest: Tbf1XNjLm+Hdgh/sqrH46Oa6WP4=
+
+Name: assets/script_kor/1130.zt1
+SHA1-Digest: NZKGGzg5X+ugS1kv7QK2X7cGAgQ=
+
+Name: assets/script_eng/0503.zt1
+SHA1-Digest: qU5WRuB2CK9QxlSQ8xEjuF72QKo=
+
+Name: res/layout/drmview.xml
+SHA1-Digest: Bh39bA+JmOjgYvT3JpiLdjktPjY=
+
+Name: assets/script_eng/1100.zt1
+SHA1-Digest: zjHn4ogwKkGxTVH7IYIzhw0iLrE=
+
+Name: assets/script_kor/0803.zt1
+SHA1-Digest: j4Z1miUvGn9Q/DawgLCc+yz40lY=
+
+Name: assets/img/203.pzx
+SHA1-Digest: 8vb0QVptzS+t+3IJB6ZoZ3gYYlU=
+
+Name: assets/script_eng/0030.zt1
+SHA1-Digest: 32X39eKXNoq7HUecHkXnErdd9uI=
+
+Name: assets/script_kor/0270.zt1
+SHA1-Digest: 2Z/oWtey1R5u0lcnJTC51kzk3Eg=
+
+Name: res/raw/s126.ogg
+SHA1-Digest: AXSNpZdnzbtiXC6+4I5ixR04AFQ=
+
+Name: assets/script_eng/1113.zt1
+SHA1-Digest: t13dc4LwkC4/7PS8bIVwn2wK1B0=
+
+Name: assets/data_kor/StrString_Hero_SkillInfo.zt1
+SHA1-Digest: mbb/AM1EzWQeMb8wh43DXu8fWHo=
+
+Name: res/raw/s098.ogg
+SHA1-Digest: BqQ6wvCj2KA5JM7pcyhprpPa8ss=
+
+Name: assets/certi.pzx
+SHA1-Digest: a9fd1HR1EkhoIXYS4O+dVDRT/vc=
+
+Name: assets/script_eng/0040.zt1
+SHA1-Digest: 1KWSckAuzyA/WkGNRDtOQ/7WvWY=
+
+Name: res/raw/s044.ogg
+SHA1-Digest: 7bZ6uzY4qtI9qYwWTHZZS1qFaC0=
+
+Name: assets/script_kor/0680.zt1
+SHA1-Digest: hcLOrlhJwKwPxVyJ2cWFZ6hnoEk=
+
+Name: assets/script_eng/0652.zt1
+SHA1-Digest: 2G2nOEAiNq1UE3uGkgmfMVkFmO8=
+
+Name: assets/img/195.pzx
+SHA1-Digest: 4x/gFmQFk8fryX3ihTAJHogSs+E=
+
+Name: assets/ptc/031.ptc
+SHA1-Digest: 609hJPeUOzFcMYg48C2Jab6g0pM=
+
+Name: assets/script_kor/0100.zt1
+SHA1-Digest: /SG2u5Gfy9tAFWyc7K+0QYz5YrQ=
+
+Name: assets/img/070.pzx
+SHA1-Digest: q6aAFr3JF71dRPD+Nj1fi4V8fDo=
+
+Name: assets/ptc/026.ptc
+SHA1-Digest: IWQAK3lSi3IDFcF89LoBfaOD5Og=
+
+Name: assets/script_kor/0083.zt1
+SHA1-Digest: WkHcj8w5H2+0PtWr3alkb+t7Ajo=
+
+Name: assets/script_kor/0700.zt1
+SHA1-Digest: 20gy77nHzRzt1EJITn2LzUOZ4e4=
+
+Name: assets/script_kor/1001.zt1
+SHA1-Digest: 7WyTrarOq9u+toQeQGbd/s5f/Ls=
+
+Name: assets/script_eng/0163.zt1
+SHA1-Digest: Qd7BwMtBt510lho8frVd5o3yfWI=
+
+Name: assets/script_eng/1003.zt1
+SHA1-Digest: mA1VY7I51rVhpCNbqt4wyt/OT0g=
+
+Name: assets/script_eng/0913.zt1
+SHA1-Digest: ZZi6mQGRz49EWXNzwYz8VHnTotM=
+
+Name: assets/script_eng/0542.zt1
+SHA1-Digest: HnwyPwcmVUPBWGRGtwZvS4d1Fmo=
+
+Name: assets/img/173.pzx
+SHA1-Digest: VHc1m7rXk+aHDDV7JYNJvsDlkjQ=
+
+Name: assets/img/234.mpl
+SHA1-Digest: A1IzmPecsPdHcojcJWFyip6i+Ho=
+
+Name: assets/script_eng/0970.zt1
+SHA1-Digest: OUFxwr5R0Hm74VXJOsdlhgFpSJo=
+
+Name: assets/script_kor/0972.zt1
+SHA1-Digest: lGEDmD5Z0aIUDMEgoXBvDKiqpY4=
+
+Name: assets/script_eng/0411.zt1
+SHA1-Digest: IfQYrbRPqRUtzrP8tkD76nnvzwA=
+
+Name: assets/ptc/013.ptc
+SHA1-Digest: bXoT+pODstMNOgU9U2OHeWOHlng=
+
+Name: assets/img/024.pzx
+SHA1-Digest: zyT0S+UVRr8xC4dwyS0GdbZJ4Dc=
+
+Name: assets/ptc/006.ptc
+SHA1-Digest: kiEzqkD0PNoJKr1QYdHaVL2FM4Q=
+
+Name: assets/img/211.mpl
+SHA1-Digest: lnBg739feAEpdpJAjKVzow0URCM=
+
+Name: assets/img/117.pzx
+SHA1-Digest: AcMCpNxhWZzBbvwCGBrZV/Uty28=
+
+Name: assets/script_eng/0612.zt1
+SHA1-Digest: 5f4rC0wDWCG0ckEKGPPN+b1x0oY=
+
+Name: assets/script_eng/0921.zt1
+SHA1-Digest: /BPM8IlYezenIicL7oZ1XyzrqtA=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: lyUuoNuD+T9+nMA9AnKZXmvgBE4=
+
+Name: assets/script_eng/0733.zt1
+SHA1-Digest: XMljeUwOAtOxszETRZpCXnZ3Gug=
+
+Name: assets/img/171.pzx
+SHA1-Digest: 1zhlET/eNxjcyVXKY/wwqKkgjRo=
+
+Name: assets/script_eng/0962.zt1
+SHA1-Digest: JgNojYtbFUzd3uu3AqGIORlBssY=
+
+Name: assets/img/229.mpl
+SHA1-Digest: SSzGCGXsGeRzAqyLopqtLeHmj5c=
+
+Name: assets/script_kor/0501.zt1
+SHA1-Digest: SNZQzBiqtx4PUztZO5QIUsYF9xk=
+
+Name: assets/ptc/041.ptc
+SHA1-Digest: WYhQPTCAKngBMsiWq8zlaoELjac=
+
+Name: assets/img/005.pzx
+SHA1-Digest: S7pxpuCQd/Tindk6p3+r0p5uBlU=
+
+Name: assets/img/037.pzx
+SHA1-Digest: ewNYx53xo/AWPUwC3EarvnaEVIg=
+
+Name: assets/ptc/035.ptc
+SHA1-Digest: E8MP59CemULREP+bWBzF7S+K35I=
+
+Name: assets/script_kor/1042.zt1
+SHA1-Digest: 2tzIBkI5jFIsDGi/M4yPARBuCdY=
+
+Name: assets/script_eng/0232.zt1
+SHA1-Digest: 6e7NlaSd3Xs9bERh3LeYByIqj1E=
+
+Name: assets/script_kor/0250.zt1
+SHA1-Digest: UBBSeNuBTKgm3cSOfvfHE+aQZg8=
+
+Name: assets/img/210.pzx
+SHA1-Digest: L43fd/5YWgzoezH0p7tjKs1MxE8=
+
+Name: assets/img/061.pzx
+SHA1-Digest: jhUHLt8i+HTnZsOaAh/y1BBeXQU=
+
+Name: assets/script_kor/0260.zt1
+SHA1-Digest: H+8XnhYzzOwkuA6aCaKpEJ+4nAE=
+
+Name: assets/script_eng/0991.zt1
+SHA1-Digest: dK0hsNC74vJzW9qmmfdWAelV3bU=
+
+Name: assets/script_eng/0883.zt1
+SHA1-Digest: HfFeMDXRNdHyp3XIuBtclemXUWw=
+
+Name: assets/img/113.pzx
+SHA1-Digest: JmC6zwgGzIxOnnrwC+PLkUWrQrM=
+
+Name: assets/script_kor/0021.zt1
+SHA1-Digest: PoqIh3XiBCKEFQclauAURGmCzr4=
+
+Name: assets/script_kor/0933.zt1
+SHA1-Digest: qAI6Ovvesbz5FBhBDJJmRnfnE5c=
+
+Name: assets/img/131.pzx
+SHA1-Digest: /0T6fI9p5JejRqq/fV+ZbblxFDk=
+
+Name: assets/help_kor.html
+SHA1-Digest: Lab+49FN7YESPHlxwzjrph58xrY=
+
+Name: assets/img/031.pzx
+SHA1-Digest: YGd2ACkVBOwt3gTfeeGvxNXMqjM=
+
+Name: assets/script_kor/0863.zt1
+SHA1-Digest: t9BNSsI4YdBnu7Q+H6DateESat0=
+
+Name: assets/script_eng/0481.zt1
+SHA1-Digest: DshuErSQ7UG44tjcw7AjTxsb90o=
+
+Name: assets/script_kor/0243.zt1
+SHA1-Digest: XDf87gZnPZHYll1TEhZQEwIPiek=
+
+Name: res/drawable/loading.png
+SHA1-Digest: GV9USns+uQ2GERFqTyDR5F3FtHc=
+
+Name: assets/script_kor/0052.zt1
+SHA1-Digest: J2rjs8UbP++S+Xc3Qa4eB5VhNOU=
+
+Name: assets/ptc/015.ptc
+SHA1-Digest: Yi/aMMOaMDV79WK6cmijwMDaVew=
+
+Name: assets/script_kor/1113.zt1
+SHA1-Digest: awXX5zCb72j7vWdXAIXGjgrWXVk=
+
+Name: assets/img/201.mpl
+SHA1-Digest: X4cFULfg6MQS1w54YigRnRtQiBk=
+
+Name: assets/script_eng/0180.zt1
+SHA1-Digest: Qi7FuKCax15YrdoioL49qI6ovDc=
+
+Name: assets/script_kor/0451.zt1
+SHA1-Digest: JlDfg+bOw5XftBcLdrmT/oUCyVA=
+
+Name: assets/script_kor/0231.zt1
+SHA1-Digest: UTMvm7PZ/XHPQTJ1MAkO41fiSBI=
+
+Name: assets/img/221.mpl
+SHA1-Digest: IezHC7UNEsICxsXrX/rbHqgNmqY=
+
+Name: assets/img/086.pzx
+SHA1-Digest: 8dLFo6mw1Gf4MewfzmnlE01yEqQ=
+
+Name: assets/img/244.pzx
+SHA1-Digest: Tx6IE5ti4A/5YEtUe9PZj6kmpzE=
+
+Name: assets/data_eng/XlsTower.zt1
+SHA1-Digest: ZiO566B7Vbq9ljORnGXPRLM9Hl8=
+
+Name: assets/script_eng/1043.zt1
+SHA1-Digest: j1KKPsQYcpsw0Bzcf9dEBfQHBkg=
+
+Name: assets/script_kor/1091.zt1
+SHA1-Digest: 0Lw4KNGB4dACuWuyIVkdV9bcRLI=
+
+Name: assets/script_kor/1053.zt1
+SHA1-Digest: cDvifMFH+sFZEhGUZcEcH3nCLf8=
+
+Name: assets/script_kor/0200.zt1
+SHA1-Digest: IWrKQZ4Gvh20Km3F2lhHzDmO1Kg=
+
+Name: assets/img/159.pzx
+SHA1-Digest: z/JKf+LzHj5te8ZyVsfnaBd8CH4=
+
+Name: assets/img/193.mpl
+SHA1-Digest: 4Lz2mGHrPp3odCKPwozUYHUzJmE=
+
+Name: assets/data_eng/XlsLevelDesign.zt1
+SHA1-Digest: mX2rlOCycmey/QcffjF++meZcbY=
+
+Name: assets/script_kor/0390.zt1
+SHA1-Digest: 7FuOYl7wt84doimw2Da+ncW72q0=
+
+Name: assets/img/206.mpl
+SHA1-Digest: 6wfTcWQNU47RjdSLkhYmIxIWfr4=
+
+Name: res/raw/s038.ogg
+SHA1-Digest: 80HY1bDhF/XopLKzHUBEznGjgO0=
+
+Name: assets/script_eng/0893.zt1
+SHA1-Digest: cnCwYes7P7e8E2Yy7pBYas/qaYM=
+
+Name: assets/script_eng/0890.zt1
+SHA1-Digest: dzvmYpNrHLDVsN5epv6cd9oZksA=
+
+Name: assets/img/217.pzx
+SHA1-Digest: nbW0eIoonWvaOiOcEgbuvhcV4gs=
+
+Name: assets/img/184.pzx
+SHA1-Digest: faoDdWkXLvm7uO2tnCxnN5CJm4Q=
+
+Name: assets/script_kor/0663.zt1
+SHA1-Digest: nD4MSeGhg1ckYPFTp0QpOwuybTo=
+
+Name: assets/script_kor/0073.zt1
+SHA1-Digest: 0iakrypbcYBl3qQQ+GVN/dGCvmw=
+
+Name: assets/script_eng/0210.zt1
+SHA1-Digest: Wog0bxV1CwrTwgBgku8kIM3Uq20=
+
+Name: assets/script_kor/0123.zt1
+SHA1-Digest: p3XBTfvKhgDgqWefpLFygSd0puA=
+
+Name: assets/data_kor/XlsItem.zt1
+SHA1-Digest: N+yUnw1tPhPUhYZ59UrvjJhevDQ=
+
+Name: assets/script_kor/0550.zt1
+SHA1-Digest: J/ye+hfoesMiUkdKAsp2q0Le+iQ=
+
+Name: assets/script_eng/0861.zt1
+SHA1-Digest: aDRtfEFZ8SkX/0slGoWK3TFXqBk=
+
+Name: assets/script_eng/0004.zt1
+SHA1-Digest: XUxjVj+vnDT7S9tD9l1O0Dcatds=
+
+Name: assets/script_eng/0050.zt1
+SHA1-Digest: k3VJmD4X5Rz4OqNyw/ul4w+6dao=
+
+Name: res/drawable/default_loading.png
+SHA1-Digest: GV9USns+uQ2GERFqTyDR5F3FtHc=
+
+Name: assets/script_kor/0393.zt1
+SHA1-Digest: uqqFIrdikhR3KqaVhUgptEKDqFA=
+
+Name: assets/script_kor/0873.zt1
+SHA1-Digest: swwCPmEbFudZ+7Y2mNSoc2L+8Wc=
+
+Name: assets/img/222.mpl
+SHA1-Digest: 7q4lPG6Rq1Va8gBX+QKCMNHdNuk=
+
+Name: assets/script_kor/1010.zt1
+SHA1-Digest: 5AU9xKfj5esaV3aG0lJsUV3aSU4=
+
+Name: assets/script_eng/0083.zt1
+SHA1-Digest: oxDRwxbIV1lYUu2NC9JkECFpmh8=
+
+Name: assets/script_eng/0201.zt1
+SHA1-Digest: X/MqFq1+PvEBi8rDMXW2kDE085s=
+
+Name: assets/img/199.mpl
+SHA1-Digest: CzDQfr971ltXl2aZr7MeDCd0xG4=
+
+Name: assets/data_kor/XlsOff_Weight.zt1
+SHA1-Digest: Ueq6WWlSDncncfzEVwPUj3I5yDE=
+
+Name: assets/script_eng/0433.zt1
+SHA1-Digest: Mi4/A4xHFKttxo+1KzxqX6gRK1Y=
+
+Name: assets/img/076.pzx
+SHA1-Digest: FaL+B1m1YLyjQf7Fu6CAYtDjKDg=
+
+Name: assets/script_kor/0903.zt1
+SHA1-Digest: gfJmqC86I0D2B3+YABxF34LSkzg=
+
+Name: res/drawable/btt_normal.png
+SHA1-Digest: 7s2/VdJCXD0S/towLeoEvQafwMY=
+
+Name: assets/img/040.pzx
+SHA1-Digest: QhF9HewJ7TAqr8WFkdgGUuGYOZI=
+
+Name: assets/img/214.pzx
+SHA1-Digest: o6TJ4y4YtDqOyx2pBbqgUkHt4is=
+
+Name: assets/img/197.mpl
+SHA1-Digest: CiIEqUwiZDOuSXvSCHEqzbwbtx8=
+
+Name: assets/script_kor/0031.zt1
+SHA1-Digest: VM7b5azMzoAuHgK7TWj66dzR0ao=
+
+Name: assets/img/232.pzx
+SHA1-Digest: 35QK4OwlIOd6LG0WOsSJFlcZed4=
+
+Name: res/drawable/frame.png
+SHA1-Digest: KFrbur0hxuCERJHOH98AQTtFd/U=
+
+Name: assets/img/153.pzx
+SHA1-Digest: i/jg49Q+nHnow9tv/CAnHr/WhEI=
+
+Name: assets/script_eng/0311.zt1
+SHA1-Digest: RD3tRHeK6TUo1ZdCmNb8c3NWvj8=
+
+Name: assets/img/226.mpl
+SHA1-Digest: zWHkO4eXwv/WhqEINR7hiE0gMvc=
+
+Name: assets/script_kor/1151.zt1
+SHA1-Digest: 1adRyO3H/2ivnMMSV7bxOZivj34=
+
+Name: assets/script_kor/0833.zt1
+SHA1-Digest: +3JpHctssNy7QnugmTXKPtd0YGY=
+
+Name: assets/script_kor/0793.zt1
+SHA1-Digest: ZNGqbHzjSc8Bx3QVeuEvUNKzN60=
+
+Name: res/raw/s014.ogg
+SHA1-Digest: WJXYFlfRI0YAcfyyVDgWUn8R928=
+
+Name: assets/script_kor/0971.zt1
+SHA1-Digest: to791ax/VbnLdnSC4L28BDTmXfM=
+
+Name: assets/script_kor/0092.zt1
+SHA1-Digest: 7a6xA2TbTdf4mg1qxSjWEkQDNeA=
+
+Name: assets/script_eng/0101.zt1
+SHA1-Digest: iEMwG0vFRm0XErMTbDjnPMw06kA=
+
+Name: assets/script_kor/1193.zt1
+SHA1-Digest: AIl5tZCMLXxmFpZh/piPBl7tmP4=
+
+Name: assets/script_eng/0590.zt1
+SHA1-Digest: +srGJJSYFIwKWgUTT0JgA/2/FEQ=
+
+Name: assets/script_eng/0521.zt1
+SHA1-Digest: w7gGZQIYjpxf4ZcFHBPTREheVKk=
+
+Name: assets/script_kor/0583.zt1
+SHA1-Digest: /TOsFgYN2PN4gB2T/FOISunafXg=
+
+Name: assets/ptc/036.ptc
+SHA1-Digest: lzXeJ7eeWzIRPAe9JrkkWApDfG8=
+
+Name: assets/img/128.pzx
+SHA1-Digest: UX6cRESqnlQn5CtnRkIFwOyLXVE=
+
+Name: assets/script_kor/0650.zt1
+SHA1-Digest: fCmkTMCAxfzwRLGrruRlEAESZ3U=
+
+Name: assets/font/exB9_11.ft2
+SHA1-Digest: vtQhbdlpVZIlel/NHv7eE+zKvTQ=
+
+Name: resources.arsc
+SHA1-Digest: uiFJSzPxk6jAOXl+QcxOXa2QXAk=
+
+Name: assets/img/194.pzx
+SHA1-Digest: tVF3tx96EGQJVrd+OH+8T1YqlNs=
+
+Name: assets/script_eng/0043.zt1
+SHA1-Digest: 2wFMlCCic+IdPGCuq6PBL8NExT8=
+
+Name: assets/script_kor/0641.zt1
+SHA1-Digest: nHP8Ll3XAhdoEk9W/vehyPVGzGQ=
+
+Name: assets/script_eng/0093.zt1
+SHA1-Digest: lq/4hNSFmlVeRFdde5UpS2mHJWA=
+
+Name: assets/script_eng/0882.zt1
+SHA1-Digest: mC+/EoxrmUFYSmCYnSMzBskYZHU=
+
+Name: assets/data_kor/XlsHero.zt1
+SHA1-Digest: ctEzE1pxRvsA2dxrheLAKXESv2A=
+
+Name: assets/script_eng/0951.zt1
+SHA1-Digest: AwrqP+XaOh4l+bqMRpgYzsLvRZc=
+
+Name: assets/img/160.pzx
+SHA1-Digest: XG946rZGGkb/dgBN21dEKHp4TYs=
+
+Name: assets/script_eng/0500.zt1
+SHA1-Digest: 9jX1qr0pykw/JeKOmLmk5FopX2Y=
+
+Name: assets/img/192.pzx
+SHA1-Digest: VqplR3eqHENQyIug/t5toUZ46U8=
+
+Name: assets/img/048.pzx
+SHA1-Digest: MCPc8Ve6rufV47qXpLTaQ37jlzw=
+
+Name: assets/script_eng/0560.zt1
+SHA1-Digest: FFt+w8UqS3NjClwY7AO+R1RmyLo=
+
+Name: assets/script_eng/0853.zt1
+SHA1-Digest: YPO826V8XFLgNLOu3VV+9qdXpjk=
+
+Name: assets/img/000.pzx
+SHA1-Digest: PISV+/kbq2P9syCWR5dw9G9XTEk=
+
+Name: assets/script_eng/0131.zt1
+SHA1-Digest: DYzUuDYEZnxJ0wAXMLu8e0DPJWI=
+
+Name: assets/img/182.pzx
+SHA1-Digest: 6nmjFLEZNoyEWbqsPHRUaVMPphY=
+
+Name: assets/img/028_k.pzx
+SHA1-Digest: ESHYXJMm3YhibyydEjqvglM9K+A=
+
+Name: res/drawable/banner.png
+SHA1-Digest: N562H9r0ffJ43HE8rgt+Mr04nMQ=
+
+Name: assets/script_kor/1020.zt1
+SHA1-Digest: DX3q9Z1hProonsGrQS6GmXUPB1Q=
+
+Name: assets/script_eng/0602.zt1
+SHA1-Digest: Qn0Zrl6cjE0cmvXW3BLq9fXUGCU=
+
+Name: assets/script_kor/0150.zt1
+SHA1-Digest: wQcLgQFtRINvJpDflUtsomrs++8=
+
+Name: assets/script_eng/0493.zt1
+SHA1-Digest: oIukZREgxBM/8MEyvYq9Lbv/c48=
+
+Name: assets/ptc/005.ptc
+SHA1-Digest: vblBLayJjwQeg872z1gBZv7RCoo=
+
+Name: assets/script_kor/0821.zt1
+SHA1-Digest: dRXO1bxoj0MCrUEOBl1Ab+NLBd4=
+
+Name: assets/img/190.mpl
+SHA1-Digest: RB+OBMP7Ilg1cSf7UqmJ5Pjw1Tk=
+
+Name: res/drawable/auth_tit.png
+SHA1-Digest: 3XHHlJ/lrY/Ld07NOv4R/F5Y7/k=
+
+Name: assets/script_kor/1041.zt1
+SHA1-Digest: 16kNHQgf3ujKGcmQ17qCsmudyqo=
+
+Name: assets/map/015.zt1
+SHA1-Digest: R7Ezh0A5JAdkcINTa2zYOB0/mrc=
+
+Name: assets/script_eng/0930.zt1
+SHA1-Digest: ZDQxVs3hBDmiac6zMLIAtQ1AK+o=
+
+Name: assets/script_eng/0983.zt1
+SHA1-Digest: et3gpT44W+dDnRuCTebxklEgsWk=
+
+Name: assets/script_eng/0600.zt1
+SHA1-Digest: rZybXZxma17+2UDbUP9erTJHeXM=
+
+Name: res/drawable/icon.png
+SHA1-Digest: 4eswi2H0KUliuzwtvbkRsf7e1a4=
+
+Name: assets/script_kor/0050.zt1
+SHA1-Digest: o+L5bTAL0tVv2QkfMTF6FGulXoo=
+
+Name: assets/data_eng/XlsCardUpgrade.zt1
+SHA1-Digest: 5o6cmEbNZ/r05b1oqgcf7qm2gSQ=
+
+Name: assets/img/164.pzx
+SHA1-Digest: DNC8Sze+ifJHbzX841QXNkqb0DM=
+
+Name: res/anim/slide_up.xml
+SHA1-Digest: FVJpuJ7CPg+CDAOXylEA17c82rk=
+
+Name: assets/script_kor/1093.zt1
+SHA1-Digest: 83WOLEfjKHnQYF5BkyQuQKQ82B0=
+
+Name: assets/script_eng/1153.zt1
+SHA1-Digest: jLWLnG5x1WfJ0y+t+rPQdNQKVbU=
+
+Name: assets/script_eng/0892.zt1
+SHA1-Digest: 0bLxBrqOKUK9db5mqIRjSyAEpTA=
+
+Name: assets/data_kor/XlsBuff.zt1
+SHA1-Digest: VXJZ+OWsIo3uGudAnxLyTFYYQHE=
+
+Name: assets/map/011.zt1
+SHA1-Digest: Vb7J22BJV+ntDuLLZswO/mMQCjI=
+
+Name: assets/script_kor/1100.zt1
+SHA1-Digest: SdyOrPS/3osmlCQ+0aOEFJjL0xU=
+
+Name: assets/img/213.mpl
+SHA1-Digest: vQlS74hMzj2+N9Qy4c1LOeV5/vI=
+
+Name: assets/script_kor/0973.zt1
+SHA1-Digest: BH0pqtBewPt4ktCIEbEyi3mGfyA=
+
+Name: assets/map/006.zt1
+SHA1-Digest: kSVW4LXISU1RfymEIwgAqkP8vNA=
+
+Name: assets/ptc/048.ptc
+SHA1-Digest: ZaNqykQBkKrlXBQQvR1wrsPtIDc=
+
+Name: assets/script_kor/0962.zt1
+SHA1-Digest: rggurQJs5FId4l77WCW//8nB+2Y=
+
+Name: assets/script_eng/0803.zt1
+SHA1-Digest: xQh7bjeTt5Us70pgvRTjqglZ7zw=
+
+Name: res/raw/s048.ogg
+SHA1-Digest: pWItd6NPC9fI+EaS55C7l2IGAYE=
+
+Name: assets/script_kor/0414.zt1
+SHA1-Digest: yd47jg4wcjMc+JRtR+IYaPZNGwg=
+
+Name: assets/img/231.mpl
+SHA1-Digest: e8J0v4x7aAwoG3DH/ZbSBGlbEPs=
+
+Name: assets/script_kor/0752.zt1
+SHA1-Digest: WyelFOpi09SDx08obLScsauvXhc=
+
+Name: assets/script_kor/1102.zt1
+SHA1-Digest: ulvx69VGzBYwQWGXc7fajCTnX6g=
+
+Name: res/raw/s047.ogg
+SHA1-Digest: ZcyAO3Un86snjqkluHwL/3llckU=
+
+Name: assets/img/067.pzx
+SHA1-Digest: FvTCDgCosgM9AKMJdZieBxN0Ouk=
+
+Name: assets/img/233.mpl
+SHA1-Digest: 5ngU9T2nzD9tsfs0Gcr7v4z983U=
+
+Name: assets/script_kor/0511.zt1
+SHA1-Digest: obLihFh5C+R5iFSFd/aQb4gv4pA=
+
+Name: assets/img/147.mpl
+SHA1-Digest: OcferAh8w42nGDvq2uhA4Dc7CNQ=
+
+Name: assets/img/015.pzx
+SHA1-Digest: v7ri3IFAW4OzLqqVPUS4Lx3ZWN0=
+
+Name: res/raw/s011.ogg
+SHA1-Digest: pfW9ALL+tPW73umXE+IBYuP4Z2g=
+
+Name: assets/img/142.pzx
+SHA1-Digest: yfPT+eOdI9p5PaiRS6RGGj2OvIE=
+
+Name: assets/map/004.zt1
+SHA1-Digest: usHSgzeuArvytV0aq+twRjtPn5E=
+
+Name: assets/script_eng/0012.zt1
+SHA1-Digest: n7iOBO0z2VEBMXVl2Xk6R/Y0/wg=
+
+Name: assets/script_kor/1110.zt1
+SHA1-Digest: HQqccwMLPAB6sqb/pMrEv0062DQ=
+
+Name: assets/script_kor/0441.zt1
+SHA1-Digest: 1NUtzztk5zXg9B1DKCxmI9SjBIk=
+
+Name: assets/img/104.pzx
+SHA1-Digest: YrvoCdzXOjBTLaDTq26h8HlksRk=
+
+Name: assets/script_eng/1150.zt1
+SHA1-Digest: 1MWnzSU90IEvHOBQCzRD8tI/Ucw=
+
+Name: assets/img/228.pzx
+SHA1-Digest: V1VsLpqr3xjUOIyGC6clCIxPpwc=
+
+Name: assets/script_eng/0281.zt1
+SHA1-Digest: A9ZOB/w80m9y+apHSQu6sliS6vY=
+
+Name: assets/script_eng/0751.zt1
+SHA1-Digest: EbZG6+Wjbr39PIRbLgqKiqw4bCA=
+
+Name: res/raw/s092.ogg
+SHA1-Digest: kMq4npIBkeFWf8oExr62L1dgsWE=
+
+Name: assets/img/137.pzx
+SHA1-Digest: o/voyRsdTf9H9fVDob/VBdtrCQ8=
+
+Name: assets/script_eng/0663.zt1
+SHA1-Digest: u9f2epkYzDQcENJJfXRffrXzLU4=
+
+Name: assets/img/029.pzx
+SHA1-Digest: Mx4KTNlcPulN32JRg8zlx6dQMJA=
+
+Name: assets/img/174.pzx
+SHA1-Digest: byWCeQLhKl9o6x/gEj4LW3aepss=
+
+Name: assets/script_kor/0561.zt1
+SHA1-Digest: MOluLOExD294hI1eGU80/JRJHJU=
+
+Name: assets/img/183.mpl
+SHA1-Digest: lKJIpPd8/bhBs5MxPlnb2wjzu9I=
+
+Name: assets/img/081.pzx
+SHA1-Digest: /u2Mrh2/4Ujz5pc2ZtHbx8XZ4tg=
+
+Name: assets/data_kor/XlsHeroPassiveSkill.zt1
+SHA1-Digest: Fc5aHBu2BTTq019iLB9d6Fjnvf8=
+
+Name: assets/img/238.pzx
+SHA1-Digest: Kq2dcxIptwDm358W63h+KzNfBw4=
+
+Name: assets/script_kor/1120.zt1
+SHA1-Digest: ocyFAT4XqiZi+el7/CnOXBBcXSo=
+
+Name: assets/ptc/002.ptc
+SHA1-Digest: e0l3LCHVqp/fEmRyfpvRTvfSaeg=
+
+Name: assets/script_eng/0260.zt1
+SHA1-Digest: FtDtLjXqR8HgIHZhnuQLbWwquJk=
+
+Name: assets/data_kor/StrString.zt1
+SHA1-Digest: UhuGLI0zIII47zCCpCC/IOrQlsI=
+
+Name: assets/img/091.pzx
+SHA1-Digest: xBJsr2WLTYHCtGVoGatehoCbkKY=
+
+Name: assets/map/009.zt1
+SHA1-Digest: BMwfwXds/+yy7k4StfFVSKnlvL4=
+
+Name: res/raw/s040.ogg
+SHA1-Digest: dgbzqp+w7mcljR9brOUT/EN9gmY=
+
+Name: assets/img/179.pzx
+SHA1-Digest: rXxqU6PoTCqfaadXeChJOjirbLE=
+
+Name: assets/img/051.pzx
+SHA1-Digest: ks8r6VcJPw3Zb5+v9M5HoVBb464=
+
+Name: res/drawable/achievement_btn_back0.png
+SHA1-Digest: G1X4o0XYoNkCPZf6FJc7RXjOBug=
+
+Name: assets/script_eng/0821.zt1
+SHA1-Digest: t9uBHFoITreyrV0+aGv47DlYRww=
+
+Name: assets/img/009.pzx
+SHA1-Digest: zhm2dQkdhYXOsY9jdPv9DY2sgjc=
+
+Name: assets/script_kor/0000.zt1
+SHA1-Digest: 4pQxNxqjmtH8+fhvhfHZbVjk0+g=
+
+Name: assets/img/225.pzx
+SHA1-Digest: 4h+2/AQMNipYDmqrLHOGyyvmDIg=
+
+Name: assets/ptc/010.ptc
+SHA1-Digest: lIT6sCSpvoixlffIStf8qm2O/lo=
+
+Name: assets/script_eng/1000.zt1
+SHA1-Digest: zrfJapB4Hr84VClX028VOyS6Hdo=
+
+Name: assets/script_eng/0683.zt1
+SHA1-Digest: YMs51FklIf2Us4XhLreInC2DPag=
+
+Name: assets/script_eng/0190.zt1
+SHA1-Digest: UGbgcfx/MMcB6ox5sH0lOmEmAWY=
+
+Name: assets/img/020.pzx
+SHA1-Digest: 97bUOzXQIIaUuUC2K0zzjE/+aIQ=
+
+Name: assets/img/209.mpl
+SHA1-Digest: QWJlz5TZ/v9rVvO9oz+gvtbc3Ak=
+
+Name: assets/ptc/045.ptc
+SHA1-Digest: iDL403mbEZ9y+UepKKlR54rIPpU=
+
+Name: assets/img/219.mpl
+SHA1-Digest: 64n7JZ4bWRabEcgBNLXsv/Wfb3c=
+
+Name: assets/script_kor/0860.zt1
+SHA1-Digest: TDnyagBwD9HIpN6wX4qEsH8+y0g=
+
+Name: res/layout/webview_1.xml
+SHA1-Digest: Vfjp3R/HGFy7VULV9s5bLxAzxu8=
+
+Name: assets/data_kor/XlsWorldmap.zt1
+SHA1-Digest: 4IpBYGOOu/k+SDM99MkwIB7cYpI=
+
+Name: res/drawable-mdpi/icon_48.png
+SHA1-Digest: lyUuoNuD+T9+nMA9AnKZXmvgBE4=
+
+Name: assets/script_kor/0961.zt1
+SHA1-Digest: qTTT4PcRg4sIr+7YdfNOs37q/4M=
+
+Name: assets/script_kor/0453.zt1
+SHA1-Digest: LlIOsLiFXG4iNETYvLIoOmDpHQ0=
+
+Name: assets/img/221.pzx
+SHA1-Digest: bn+dHkQ9od/rN0kj6eeFIzKlI4k=
+
+Name: assets/script_eng/1031.zt1
+SHA1-Digest: lsE03v9aX089LSRu9q8Nwx9/Q84=
+
+Name: assets/data_eng/XlsEffect.zt1
+SHA1-Digest: j2DT5XVUzh0vlwqV9+GOC0HuLC8=
+
+Name: assets/script_kor/0541.zt1
+SHA1-Digest: 6ZMgnmABFZABACHMTtkNRKNI1b0=
+
+Name: assets/img/143.pzx
+SHA1-Digest: IPDIdMFMEuw+dF67wFY4m8I7sQU=
+
+Name: assets/img/120.pzx
+SHA1-Digest: f3r78Jf0vxPymebdds6qm8fR4tA=
+
+Name: assets/script_eng/1001.zt1
+SHA1-Digest: YYfJ/9VVypVd4b/CZVqqI2cKSb0=
+
+Name: assets/script_eng/0290.zt1
+SHA1-Digest: g2VJgBKHw/8XQAQqIY19PFyyeuI=
+
+Name: assets/data_eng/StrString_Hero_SkillInfo.zt1
+SHA1-Digest: y47HXqgQpyMy9ZDPmT34lzW3FkE=
+
+Name: assets/script_eng/1070.zt1
+SHA1-Digest: mlLMqVQ5i0b/bwTfY9gZzhaq40w=
+

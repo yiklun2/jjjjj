@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" package="com.gamevil.eruelwars.global">
+    <application android:debuggable="false" android:icon="@drawable/icon" android:label="@string/app_label" android:requestLegacyExternalStorage="true" android:usesCleartextTraffic="true">
+        <activity android:configChanges="keyboardHidden|orientation" android:label="@string/app_label" android:name=".DRMLicensing" android:screenOrientation="portrait" android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation" android:label="@string/app_label" android:name="com.gamevil.eruelwars.global.SkeletonLauncher" android:screenOrientation="landscape" android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:host="com.gamevil.eruelwars.global" android:scheme="gamevil"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation" android:name="com.tapjoy.TJCOffersWebView"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:name="com.tapjoy.TapjoyFeaturedAppWebView"/>
+        <activity android:configChanges="keyboardHidden|orientation" android:name="com.tapjoy.TapjoyVideoView"/>
+        <receiver android:exported="true" android:name="com.tapjoy.TapjoyReferralTracker">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="BillingService"/>
+        <receiver android:name="BillingReceiver">
+            <intent-filter>
+                <action android:name="com.android.vending.billing.IN_APP_NOTIFY"/>
+                <action android:name="com.android.vending.billing.RESPONSE_CODE"/>
+                <action android:name="com.android.vending.billing.PURCHASE_STATE_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".C2dmBroadcastReceiver" android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+                <category android:name="com.gamevil.eruelwars.global"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION"/>
+                <category android:name="com.gamevil.eruelwars.global"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".C2dmBroadcastReceiver" android:process=":remote">
+            <intent-filter>
+                <action android:name="com.gamevil.push.intent.LOCAL"/>
+                <category android:name="com.gamevil.eruelwars.global"/>
+            </intent-filter>
+        </receiver>
+    </application>
+    <uses-permission android:name="com.gamevil.eruelwars.global.permission.C2D_MESSAGE"/>
+    <permission android:name="com.gamevil.eruelwars.global.permission.C2D_MESSAGE" android:protectionLevel="signature"/>
+    <uses-permission android:name="com.android.vending.BILLING"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <permission-group android:name="android.permission-group.NETWORK"/>
+    <permission-group android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES"/>
+    <uses-permission android:name="android.permission.RESTART_PACKAGES"/>
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.CALL_PRIVILEGED"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
+    <uses-permission android:name="android.permission.GET_TASKS"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <supports-screens android:anyDensity="true" android:largeScreens="true" android:normalScreens="true" android:smallScreens="false"/>
+    <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="28" android:maxSdkVersion="33"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" android:maxSdkVersion="18"/>
+</manifest>
