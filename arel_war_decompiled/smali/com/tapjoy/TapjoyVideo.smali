@@ -130,7 +130,7 @@
     iput-object v0, p0, Lcom/tapjoy/TapjoyVideo;->imageCacheDir:Ljava/lang/String;
 
     .line 48
-    const/4 v0, 0x5
+    const/4 v0, 0x7
 
     iput v0, p0, Lcom/tapjoy/TapjoyVideo;->videoCacheLimit:I
 
@@ -1916,7 +1916,7 @@
     const/4 v5, 0x0
 
     .line 474
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     .line 475
     .local v0, "cachedVideo":Z

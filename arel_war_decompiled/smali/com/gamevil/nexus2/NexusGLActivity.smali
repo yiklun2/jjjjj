@@ -124,7 +124,7 @@
     sput-boolean v0, Lcom/gamevil/nexus2/NexusGLActivity;->mPause:Z
 
     .line 108
-    const/16 v0, 0x190
+    const/16 v0, 0x6400
 
     sput v0, Lcom/gamevil/nexus2/NexusGLActivity;->gameScreenWidth:I
 
@@ -136,7 +136,7 @@
     .line 567
     sget-boolean v0, Lcom/gamevil/nexus2/Natives;->isCocos2d:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 569
     const-string v0, "gameDSO"
@@ -1179,7 +1179,7 @@
     .line 860
     iget-object v0, p0, Lcom/gamevil/nexus2/NexusGLActivity;->mHandler:Landroid/os/Handler;
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 863
     :goto_0
@@ -1212,7 +1212,7 @@
     .line 848
     iget-object v0, p0, Lcom/gamevil/nexus2/NexusGLActivity;->mHandler:Landroid/os/Handler;
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 851
     :goto_0
@@ -1245,7 +1245,7 @@
     .line 854
     iget-object v0, p0, Lcom/gamevil/nexus2/NexusGLActivity;->mHandler:Landroid/os/Handler;
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 857
     :goto_0
@@ -1277,7 +1277,7 @@
     .line 867
     iget-object v0, p0, Lcom/gamevil/nexus2/NexusGLActivity;->mHandler:Landroid/os/Handler;
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 870
     :goto_0
@@ -1763,7 +1763,7 @@
     invoke-virtual {p0}, Lcom/gamevil/nexus2/NexusGLActivity;->finish()V
 
     .line 429
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     .line 432
     :goto_0
@@ -1819,7 +1819,7 @@
 
     .line 322
     :cond_1
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     sput-boolean v0, Lcom/gamevil/nexus2/NexusGLActivity;->mPause:Z
 
@@ -1832,7 +1832,7 @@
 
     .prologue
     .line 339
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-boolean v0, p0, Lcom/gamevil/nexus2/NexusGLActivity;->isResume:Z
 
@@ -1880,7 +1880,7 @@
     .line 227
     iget-object v0, p0, Lcom/gamevil/nexus2/NexusGLActivity;->random:Ljava/util/Random;
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 228
     new-instance v0, Ljava/util/Random;
@@ -1920,7 +1920,7 @@
     .line 885
     iget-object v0, p0, Lcom/gamevil/nexus2/NexusGLActivity;->mHandler:Landroid/os/Handler;
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 888
     :goto_0
@@ -1953,7 +1953,7 @@
     .line 892
     iget-object v0, p0, Lcom/gamevil/nexus2/NexusGLActivity;->mHandler:Landroid/os/Handler;
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 895
     :goto_0
@@ -1985,7 +1985,7 @@
     .line 900
     iget-object v0, p0, Lcom/gamevil/nexus2/NexusGLActivity;->mHandler:Landroid/os/Handler;
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 903
     :goto_0

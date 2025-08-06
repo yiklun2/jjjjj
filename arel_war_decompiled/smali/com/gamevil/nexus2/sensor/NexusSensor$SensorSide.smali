@@ -85,7 +85,7 @@
     sput-object v0, Lcom/gamevil/nexus2/sensor/NexusSensor$SensorSide;->SENSOR_RIGHT:Lcom/gamevil/nexus2/sensor/NexusSensor$SensorSide;
 
     .line 50
-    const/4 v0, 0x4
+    const/4 v0, 0x7
 
     new-array v0, v0, [Lcom/gamevil/nexus2/sensor/NexusSensor$SensorSide;
 

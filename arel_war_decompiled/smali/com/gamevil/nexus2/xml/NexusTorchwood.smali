@@ -67,7 +67,7 @@
     invoke-direct {p0}, Landroid/os/AsyncTask;-><init>()V
 
     .line 88
-    const/16 v0, 0xa
+    const/16 v0, 0xc8
 
     new-array v0, v0, [B
 
@@ -124,7 +124,7 @@
     invoke-direct {p0}, Landroid/os/AsyncTask;-><init>()V
 
     .line 88
-    const/16 v0, 0xa
+    const/16 v0, 0xc8
 
     new-array v0, v0, [B
 
@@ -190,7 +190,7 @@
     invoke-direct {p0}, Landroid/os/AsyncTask;-><init>()V
 
     .line 88
-    const/16 v0, 0xa
+    const/16 v0, 0xc8
 
     new-array v0, v0, [B
 

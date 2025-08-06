@@ -231,7 +231,7 @@
     sput-boolean v0, Lcom/gamevil/nexus2/sensor/NexusSensor;->isSingleReact:Z
 
     .line 71
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     sput-boolean v0, Lcom/gamevil/nexus2/sensor/NexusSensor;->isLandScape:Z
 
@@ -282,7 +282,7 @@
     iput-boolean v1, p0, Lcom/gamevil/nexus2/sensor/NexusSensor;->bShakeDevice:Z
 
     .line 104
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-boolean v0, p0, Lcom/gamevil/nexus2/sensor/NexusSensor;->isOriFirst:Z
 
@@ -567,7 +567,7 @@
 
     .line 326
     .local v3, "rollGap":F
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     .line 327
     .local v0, "isPitchSlt":Z
@@ -605,7 +605,7 @@
     if-lez v4, :cond_5
 
     .line 334
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     .line 335
     const/4 v1, 0x0
@@ -1484,7 +1484,7 @@
 
     if-ne v0, v1, :cond_0
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     :goto_0
     return v0
@@ -1506,7 +1506,7 @@
 
     if-ne v0, v1, :cond_0
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     :goto_0
     return v0
@@ -1528,7 +1528,7 @@
 
     if-ne v0, v1, :cond_0
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     :goto_0
     return v0
@@ -1550,7 +1550,7 @@
 
     if-ne v0, v1, :cond_0
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     :goto_0
     return v0
@@ -1572,7 +1572,7 @@
 
     if-ne v0, v1, :cond_0
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     :goto_0
     return v0
@@ -1594,7 +1594,7 @@
 
     if-ne v0, v1, :cond_0
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     :goto_0
     return v0
@@ -1626,7 +1626,7 @@
 
     if-ne v0, v1, :cond_0
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     :goto_0
     return v0
@@ -1648,7 +1648,7 @@
 
     if-ne v0, v1, :cond_0
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     :goto_0
     return v0
@@ -1835,7 +1835,7 @@
     .line 570
     sget-boolean v0, Lcom/gamevil/nexus2/sensor/NexusSensor;->isSensorEnable:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 582
     :goto_0
@@ -1900,7 +1900,7 @@
     .line 595
     sget-boolean v0, Lcom/gamevil/nexus2/sensor/NexusSensor;->isSensorEnable:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 605
     :goto_0

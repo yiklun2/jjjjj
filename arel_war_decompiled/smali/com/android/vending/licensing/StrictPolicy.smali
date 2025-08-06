@@ -46,7 +46,7 @@
 
     if-ne v0, v1, :cond_0
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     :goto_0
     return v0

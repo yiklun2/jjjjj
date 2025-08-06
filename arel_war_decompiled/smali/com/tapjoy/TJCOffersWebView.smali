@@ -599,7 +599,7 @@
 
     .prologue
     .line 343
-    const/4 v0, 0x4
+    const/4 v0, 0x7
 
     if-ne p1, v0, :cond_0
 
@@ -617,7 +617,7 @@
     invoke-virtual {v0}, Landroid/webkit/WebView;->goBack()V
 
     .line 346
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     .line 348
     :goto_0

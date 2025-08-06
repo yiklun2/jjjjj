@@ -96,7 +96,7 @@
     sput-short v1, Lcom/gamevil/nexus2/net/NexusNetwork;->sendCmd:S
 
     .line 71
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     sput-boolean v0, Lcom/gamevil/nexus2/net/NexusNetwork;->isRunning:Z
 
@@ -951,7 +951,7 @@
     return v0
 
     :cond_0
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     goto :goto_0
 .end method

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" package="com.gamevil.eruelwars.global">
-    <application android:debuggable="false" android:icon="@drawable/icon" android:label="@string/app_label" android:requestLegacyExternalStorage="true" android:usesCleartextTraffic="true">
-        <activity android:configChanges="keyboardHidden|orientation" android:label="@string/app_label" android:name=".DRMLicensing" android:screenOrientation="portrait" android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" package="com.modified.eruelwars.global">
+    <application android:debuggable="true" android:icon="@drawable/icon" android:label="Modified Eruel Wars" android:requestLegacyExternalStorage="true" android:usesCleartextTraffic="true">
+        <activity android:configChanges="keyboardHidden|orientation" android:label="Modified Eruel Wars" android:name=".DRMLicensing" android:screenOrientation="portrait" android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:configChanges="keyboardHidden|orientation" android:label="@string/app_label" android:name="com.gamevil.eruelwars.global.SkeletonLauncher" android:screenOrientation="landscape" android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+        <activity android:configChanges="keyboardHidden|orientation" android:label="Modified Eruel Wars" android:name="com.modified.eruelwars.global.SkeletonLauncher" android:screenOrientation="landscape" android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.DEFAULT"/>
@@ -15,7 +15,7 @@
                 <action android:name="android.intent.action.VIEW"/>
                 <category android:name="android.intent.category.DEFAULT"/>
                 <category android:name="android.intent.category.BROWSABLE"/>
-                <data android:host="com.gamevil.eruelwars.global" android:scheme="gamevil"/>
+                <data android:host="com.modified.eruelwars.global" android:scheme="gamevil"/>
             </intent-filter>
         </activity>
         <activity android:configChanges="keyboardHidden|orientation" android:name="com.tapjoy.TJCOffersWebView"/>
@@ -37,22 +37,22 @@
         <receiver android:name=".C2dmBroadcastReceiver" android:permission="com.google.android.c2dm.permission.SEND">
             <intent-filter>
                 <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
-                <category android:name="com.gamevil.eruelwars.global"/>
+                <category android:name="com.modified.eruelwars.global"/>
             </intent-filter>
             <intent-filter>
                 <action android:name="com.google.android.c2dm.intent.REGISTRATION"/>
-                <category android:name="com.gamevil.eruelwars.global"/>
+                <category android:name="com.modified.eruelwars.global"/>
             </intent-filter>
         </receiver>
         <receiver android:name=".C2dmBroadcastReceiver" android:process=":remote">
             <intent-filter>
                 <action android:name="com.gamevil.push.intent.LOCAL"/>
-                <category android:name="com.gamevil.eruelwars.global"/>
+                <category android:name="com.modified.eruelwars.global"/>
             </intent-filter>
         </receiver>
     </application>
-    <uses-permission android:name="com.gamevil.eruelwars.global.permission.C2D_MESSAGE"/>
-    <permission android:name="com.gamevil.eruelwars.global.permission.C2D_MESSAGE" android:protectionLevel="signature"/>
+    <uses-permission android:name="com.modified.eruelwars.global.permission.C2D_MESSAGE"/>
+    <permission android:name="com.modified.eruelwars.global.permission.C2D_MESSAGE" android:protectionLevel="signature"/>
     <uses-permission android:name="com.android.vending.BILLING"/>
     <uses-permission android:name="android.permission.VIBRATE"/>
     <uses-permission android:name="android.permission.READ_PHONE_STATE"/>

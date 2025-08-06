@@ -3637,7 +3637,7 @@
     iput-object v1, p0, Lcom/gamevil/nexus2/xml/NexusXmlChecker;->alarm_type:Ljava/lang/String;
 
     .line 195
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput v0, p0, Lcom/gamevil/nexus2/xml/NexusXmlChecker;->alarm_repeat:I
 

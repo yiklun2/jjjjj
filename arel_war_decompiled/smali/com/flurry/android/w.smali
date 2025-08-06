@@ -139,7 +139,7 @@
 
     if-nez v0, :cond_1
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     :goto_0
     iput-boolean v0, p0, Lcom/flurry/android/w;->k:Z
@@ -565,7 +565,7 @@
     const/4 v3, 0x0
 
     .line 377
-    const/4 v0, 0x2
+    const/4 v0, 0x7
 
     invoke-virtual {p1, v0}, Ljava/io/DataOutputStream;->writeShort(I)V
 
@@ -1081,7 +1081,7 @@
     move-result v0
 
     .line 225
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 227
     const-string v0, "FlurryAgent"
@@ -1323,7 +1323,7 @@
     .catchall {:try_start_0 .. :try_end_0} :catchall_0
 
     .line 83
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     const/4 v0, 0x0
 
@@ -1691,7 +1691,7 @@
     check-cast v0, [Lcom/flurry/android/s;
 
     .line 58
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 60
     iget-object v0, p0, Lcom/flurry/android/w;->g:Ljava/util/Map;
@@ -1772,7 +1772,7 @@
     check-cast v0, Lcom/flurry/android/f;
 
     .line 94
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 96
     iget-object v0, p0, Lcom/flurry/android/w;->h:Ljava/util/Map;

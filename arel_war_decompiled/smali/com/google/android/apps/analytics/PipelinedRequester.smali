@@ -48,7 +48,7 @@
 
     iput-object v0, p0, Lcom/google/android/apps/analytics/PipelinedRequester;->connection:Lorg/apache/http/impl/DefaultHttpClientConnection;
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-boolean v0, p0, Lcom/google/android/apps/analytics/PipelinedRequester;->canPipeline:Z
 
@@ -337,7 +337,7 @@
 
     iget-boolean v0, p0, Lcom/google/android/apps/analytics/PipelinedRequester;->canPipeline:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     invoke-direct {p0}, Lcom/google/android/apps/analytics/PipelinedRequester;->closeConnection()V
 

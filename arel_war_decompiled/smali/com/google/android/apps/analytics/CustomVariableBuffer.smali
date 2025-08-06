@@ -12,7 +12,7 @@
 
     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
 
-    const/4 v0, 0x5
+    const/4 v0, 0x7
 
     new-array v0, v0, [Lcom/google/android/apps/analytics/CustomVariable;
 
@@ -24,11 +24,11 @@
 .method private throwOnInvalidIndex(I)V
     .locals 2
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     if-lt p1, v0, :cond_0
 
-    const/4 v0, 0x5
+    const/4 v0, 0x7
 
     if-le p1, v0, :cond_1
 
@@ -117,9 +117,9 @@
 
     aget-object v0, v0, v1
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     :goto_0
     return v0

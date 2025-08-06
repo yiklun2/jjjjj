@@ -51,7 +51,7 @@
     iput-object v0, p0, Lcom/tapjoy/TapjoyFeaturedApp;->featuredAppObject:Lcom/tapjoy/TapjoyFeaturedAppObject;
 
     .line 35
-    const/4 v0, 0x5
+    const/4 v0, 0x7
 
     iput v0, p0, Lcom/tapjoy/TapjoyFeaturedApp;->displayCount:I
 

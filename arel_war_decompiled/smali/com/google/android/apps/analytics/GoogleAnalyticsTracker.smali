@@ -337,11 +337,11 @@
 .method public getVisitorCustomVar(I)Ljava/lang/String;
     .locals 2
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     if-lt p1, v0, :cond_0
 
-    const/4 v0, 0x5
+    const/4 v0, 0x7
 
     if-le p1, v0, :cond_1
 
@@ -367,7 +367,7 @@
 .method public setCustomVar(ILjava/lang/String;Ljava/lang/String;)Z
     .locals 1
 
-    const/4 v0, 0x3
+    const/4 v0, 0x7
 
     invoke-virtual {p0, p1, p2, p3, v0}, Lcom/google/android/apps/analytics/GoogleAnalyticsTracker;->setCustomVar(ILjava/lang/String;Ljava/lang/String;I)Z
 
@@ -401,7 +401,7 @@
     :try_end_0
     .catch Ljava/lang/IllegalArgumentException; {:try_start_0 .. :try_end_0} :catch_0
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     :goto_0
     return v0
@@ -454,7 +454,7 @@
 
     iget-object v0, p0, Lcom/google/android/apps/analytics/GoogleAnalyticsTracker;->eventStore:Lcom/google/android/apps/analytics/EventStore;
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     new-instance v4, Lcom/google/android/apps/analytics/PersistentEventStore;
 
@@ -556,7 +556,7 @@
 
     iget-object v0, p0, Lcom/google/android/apps/analytics/GoogleAnalyticsTracker;->connetivityManager:Landroid/net/ConnectivityManager;
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     iget-object v0, p0, Lcom/google/android/apps/analytics/GoogleAnalyticsTracker;->parent:Landroid/content/Context;
 

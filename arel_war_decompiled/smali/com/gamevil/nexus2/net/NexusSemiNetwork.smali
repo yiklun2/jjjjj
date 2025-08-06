@@ -80,17 +80,17 @@
     sput-boolean v1, Lcom/gamevil/nexus2/net/NexusSemiNetwork;->doRecvPacket:Z
 
     .line 70
-    const/4 v0, 0x5
+    const/4 v0, 0x7
 
     sput v0, Lcom/gamevil/nexus2/net/NexusSemiNetwork;->recvPayCodeOffset:I
 
     .line 71
-    const/4 v0, 0x4
+    const/4 v0, 0x7
 
     sput v0, Lcom/gamevil/nexus2/net/NexusSemiNetwork;->sendPayCodeOffset:I
 
     .line 78
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     sput-boolean v0, Lcom/gamevil/nexus2/net/NexusSemiNetwork;->isUseServerPayCode:Z
 
@@ -199,7 +199,7 @@
 
     .line 571
     .local v0, "netConnect":Z
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     const/4 v1, 0x0
 
@@ -364,7 +364,7 @@
     .line 176
     sget-boolean v0, Lcom/gamevil/nexus2/net/NexusSemiNetwork;->isUseServerPayCode:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 177
     sget-short v0, Lcom/gamevil/nexus2/net/NexusSemiNetwork;->sendCmd:S
@@ -978,7 +978,7 @@
 
     .prologue
     .line 533
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     sput-boolean v0, Lcom/gamevil/nexus2/net/NexusSemiNetwork;->isRequestPurchase:Z
 
@@ -1254,7 +1254,7 @@
     return v0
 
     :cond_0
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     goto :goto_0
 .end method
@@ -1270,9 +1270,9 @@
 
     sget-boolean v0, Lcom/gamevil/nexus2/net/NexusSemiNetwork;->doRecvPacket:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     :goto_0
     return v0

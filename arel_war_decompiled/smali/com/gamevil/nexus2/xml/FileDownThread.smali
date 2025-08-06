@@ -65,7 +65,7 @@
     .end annotation
 
     .prologue
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     .line 228
     monitor-enter p0
@@ -165,7 +165,7 @@
     invoke-static {v0, v1}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
 
     .line 238
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput v0, p0, Lcom/gamevil/nexus2/xml/FileDownThread;->request:I
 
@@ -217,7 +217,7 @@
     invoke-static {v0, v1}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
 
     .line 246
-    const/4 v0, 0x2
+    const/4 v0, 0x7
 
     iput v0, p0, Lcom/gamevil/nexus2/xml/FileDownThread;->request:I
 

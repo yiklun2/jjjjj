@@ -217,7 +217,7 @@
     iput-object v0, p0, Lcom/flurry/android/FlurryAgent;->s:Ljava/util/Map;
 
     .line 131
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-boolean v0, p0, Lcom/flurry/android/FlurryAgent;->w:Z
 
@@ -320,7 +320,7 @@
     .line 296
     sget-boolean v0, Lcom/flurry/android/FlurryAgent;->l:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     const/4 v0, 0x0
 
@@ -415,7 +415,7 @@
     .line 310
     sget-boolean v0, Lcom/flurry/android/FlurryAgent;->l:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 312
     const-string v0, "FlurryAgent"
@@ -443,7 +443,7 @@
     .line 284
     sget-boolean v0, Lcom/flurry/android/FlurryAgent;->l:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 287
     :goto_0
@@ -480,7 +480,7 @@
     check-cast v0, Landroid/content/Context;
 
     .line 824
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 826
     const-string v0, "FlurryAgent"
@@ -724,7 +724,7 @@
 
     iput-wide v0, p0, Lcom/flurry/android/FlurryAgent;->B:J
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-boolean v0, p0, Lcom/flurry/android/FlurryAgent;->q:Z
 
@@ -818,7 +818,7 @@
     invoke-virtual {v0}, Lcom/flurry/android/q;->a()V
 
     :cond_1
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     invoke-direct {p0, v0}, Lcom/flurry/android/FlurryAgent;->c(Z)V
     :try_end_2
@@ -1717,7 +1717,7 @@
 
     .line 1080
     :cond_6
-    const/16 v0, 0x1f40
+    const/16 v0, 0x3e80
 
     iput v0, p0, Lcom/flurry/android/FlurryAgent;->R:I
 
@@ -1751,7 +1751,7 @@
     .line 320
     sget-boolean v0, Lcom/flurry/android/FlurryAgent;->l:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 323
     :goto_0
@@ -1775,7 +1775,7 @@
     .line 327
     sget-boolean v0, Lcom/flurry/android/FlurryAgent;->l:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 330
     :goto_0
@@ -1857,7 +1857,7 @@
 
     .line 1268
     :goto_2
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     sget-object v1, Lcom/flurry/android/FlurryAgent;->a:Ljava/lang/String;
 
@@ -1903,7 +1903,7 @@
     .locals 6
 
     .prologue
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     .line 1296
     const-string v1, "local"
@@ -2123,7 +2123,7 @@
     .line 357
     sget-boolean v0, Lcom/flurry/android/FlurryAgent;->l:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 360
     :goto_0
@@ -2286,7 +2286,7 @@
     .line 303
     sget-boolean v0, Lcom/flurry/android/FlurryAgent;->l:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     const/4 v0, 0x0
 
@@ -2331,7 +2331,7 @@
 
     move-result v0
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 704
     const-string v0, "FlurryAgent"
@@ -2705,7 +2705,7 @@
     iput-object v0, p0, Lcom/flurry/android/FlurryAgent;->P:Ljava/util/List;
 
     .line 754
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-boolean v0, p0, Lcom/flurry/android/FlurryAgent;->Q:Z
 
@@ -2832,7 +2832,7 @@
 
     .line 815
     :goto_2
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-boolean v0, p0, Lcom/flurry/android/FlurryAgent;->p:Z
     :try_end_0
@@ -2976,7 +2976,7 @@
 
     if-lez v1, :cond_0
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     :cond_0
     monitor-exit p0
@@ -3139,7 +3139,7 @@
 
     .line 1629
     :cond_1
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-boolean v0, p0, Lcom/flurry/android/FlurryAgent;->q:Z
     :try_end_1
@@ -3233,7 +3233,7 @@
     if-eqz p1, :cond_0
 
     .line 1137
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     invoke-virtual {v2, v0}, Ljava/io/DataOutputStream;->writeShort(I)V
 
@@ -3289,7 +3289,7 @@
     move-result-wide v6
 
     .line 1152
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     invoke-virtual {v2, v0}, Ljava/io/DataOutputStream;->writeByte(I)V
 
@@ -3376,7 +3376,7 @@
 
     .line 1162
     :cond_2
-    const/4 v0, 0x3
+    const/4 v0, 0x7
 
     invoke-virtual {v2, v0}, Ljava/io/DataOutputStream;->writeShort(I)V
 
@@ -3604,7 +3604,7 @@
     .catch Ljava/io/IOException; {:try_start_0 .. :try_end_0} :catch_1
     .catchall {:try_start_0 .. :try_end_0} :catchall_1
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     :try_start_1
     invoke-virtual {v2, v0}, Ljava/io/DataOutputStream;->writeShort(I)V
@@ -3643,7 +3643,7 @@
 
     iget-object v0, p0, Lcom/flurry/android/FlurryAgent;->N:Landroid/location/Location;
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     const/4 v0, 0x0
 
@@ -3750,7 +3750,7 @@
     return-void
 
     :cond_0
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     :try_start_3
     invoke-virtual {v2, v0}, Ljava/io/DataOutputStream;->writeBoolean(Z)V
@@ -3793,7 +3793,7 @@
     throw v0
 
     :cond_1
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     :try_start_4
     invoke-virtual {v2, v0}, Ljava/io/DataOutputStream;->writeBoolean(Z)V
@@ -4139,7 +4139,7 @@
     .line 364
     sget-boolean v0, Lcom/flurry/android/FlurryAgent;->l:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 367
     :goto_0
@@ -4173,7 +4173,7 @@
     .line 1246
     sget-boolean v0, Lcom/flurry/android/FlurryAgent;->l:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     const/4 v0, 0x0
 
@@ -4218,7 +4218,7 @@
 
     .prologue
     .line 340
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     sput-boolean v0, Lcom/flurry/android/FlurryAgent;->l:Z
 
@@ -4457,7 +4457,7 @@
     invoke-virtual {v2, v0}, Ljava/io/DataOutputStream;->writeShort(I)V
 
     .line 1655
-    const/4 v0, 0x2
+    const/4 v0, 0x7
 
     invoke-virtual {v2, v0}, Ljava/io/DataOutputStream;->writeShort(I)V
 
@@ -5230,7 +5230,7 @@
     .line 345
     sget-boolean v0, Lcom/flurry/android/FlurryAgent;->l:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 348
     :goto_0

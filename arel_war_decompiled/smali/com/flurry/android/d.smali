@@ -569,7 +569,7 @@
     iput v0, p0, Lcom/flurry/android/d;->af:I
 
     .line 161
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-boolean v0, p0, Lcom/flurry/android/d;->ag:Z
 

@@ -173,7 +173,7 @@
     iput p1, p0, Lcom/gamevil/nexus2/ui/UIControllerView;->uiStatus:I
 
     .line 156
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-boolean v0, p0, Lcom/gamevil/nexus2/ui/UIControllerView;->isStatusChanging:Z
 
@@ -277,7 +277,7 @@
 
     .line 213
     :pswitch_8
-    const/16 v0, 0x32
+    const/16 v0, 0x6400
 
     .line 214
     goto :goto_0
@@ -611,7 +611,7 @@
     invoke-virtual {v0}, Lcom/gamevil/nexus2/ui/NxArray;->cleanUpAll()V
 
     .line 273
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-boolean v0, p0, Lcom/gamevil/nexus2/ui/UIControllerView;->isStatusChanging:Z
 

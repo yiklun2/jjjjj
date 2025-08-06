@@ -67,7 +67,7 @@
     .line 62
     sget-object v0, Lcom/tapjoy/TapjoyConnect;->tapjoyConnectInstance:Lcom/tapjoy/TapjoyConnect;
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 64
     const-string v0, "TapjoyConnect"

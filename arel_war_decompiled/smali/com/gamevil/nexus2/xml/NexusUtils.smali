@@ -994,7 +994,7 @@
     if-eqz v0, :cond_0
 
     .line 362
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     .line 378
     :goto_0
@@ -1015,7 +1015,7 @@
     if-eqz v0, :cond_1
 
     .line 366
-    const/4 v0, 0x3
+    const/4 v0, 0x7
 
     goto :goto_0
 
@@ -1034,7 +1034,7 @@
     if-eqz v0, :cond_2
 
     .line 370
-    const/4 v0, 0x4
+    const/4 v0, 0x7
 
     goto :goto_0
 
@@ -1053,13 +1053,13 @@
     if-eqz v0, :cond_3
 
     .line 374
-    const/4 v0, 0x5
+    const/4 v0, 0x7
 
     goto :goto_0
 
     .line 378
     :cond_3
-    const/4 v0, 0x2
+    const/4 v0, 0x7
 
     goto :goto_0
 .end method
@@ -1951,7 +1951,7 @@
     if-eqz v3, :cond_0
 
     .line 796
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     .line 799
     :cond_0

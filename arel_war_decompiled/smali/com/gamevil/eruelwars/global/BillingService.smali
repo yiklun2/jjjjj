@@ -374,7 +374,7 @@
 
     move-result v0
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 515
     invoke-virtual {v8}, Ljava/util/ArrayList;->size()I

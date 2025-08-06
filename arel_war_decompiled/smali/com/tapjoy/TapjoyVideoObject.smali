@@ -38,7 +38,7 @@
     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
 
     .line 34
-    const/16 v0, 0xa
+    const/16 v0, 0xc8
 
     const/4 v1, 0x2
 

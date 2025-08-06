@@ -88,7 +88,7 @@
     const/4 v1, 0x0
 
     .line 104
-    const/16 v0, 0xc8
+    const/16 v0, 0xc800
 
     sput v0, Lcom/gamevil/nexus2/NexusTouch;->nThresholdVelocity:I
 
@@ -126,7 +126,7 @@
     iput-object v2, p0, Lcom/gamevil/nexus2/NexusTouch;->context:Landroid/content/Context;
 
     .line 80
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-boolean v0, p0, Lcom/gamevil/nexus2/NexusTouch;->isSingleReact:Z
 
@@ -383,7 +383,7 @@
     sput-object v0, Lcom/gamevil/nexus2/NexusTouch;->gestureName:Ljava/lang/String;
 
     .line 338
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-boolean v0, p0, Lcom/gamevil/nexus2/NexusTouch;->isDoubleTab:Z
 
@@ -513,13 +513,13 @@
 
     iget-boolean v0, v0, Lcom/gamevil/nexus2/NexusTouch;->isGesture:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     sget-object v0, Lcom/gamevil/nexus2/NexusTouch;->self:Lcom/gamevil/nexus2/NexusTouch;
 
     iget-boolean v0, v0, Lcom/gamevil/nexus2/NexusTouch;->isSimpleFling:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 308
     const/4 v0, 0x0
@@ -588,7 +588,7 @@
     sput-object p0, Lcom/gamevil/nexus2/NexusTouch;->self:Lcom/gamevil/nexus2/NexusTouch;
 
     .line 153
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-boolean v0, p0, Lcom/gamevil/nexus2/NexusTouch;->isSingleReact:Z
 

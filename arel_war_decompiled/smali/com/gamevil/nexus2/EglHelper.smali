@@ -216,7 +216,7 @@
     iput-object v0, p0, Lcom/gamevil/nexus2/EglHelper;->mEglDisplay:Ljavax/microedition/khronos/egl/EGLDisplay;
 
     .line 59
-    const/4 v0, 0x2
+    const/4 v0, 0x7
 
     new-array v6, v0, [I
 
@@ -300,7 +300,7 @@
 
     if-eq v0, v1, :cond_0
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     :goto_0
     return v0

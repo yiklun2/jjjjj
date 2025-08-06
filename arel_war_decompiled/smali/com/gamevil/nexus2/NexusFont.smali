@@ -1035,14 +1035,14 @@
     sput-object v0, Lcom/gamevil/nexus2/NexusFont;->g_wordBreaker:Ljava/text/BreakIterator;
 
     .line 125
-    const/4 v0, 0x4
+    const/4 v0, 0x7
 
     new-array v0, v0, [F
 
     sput-object v0, Lcom/gamevil/nexus2/NexusFont;->g_gfaMeasureRect:[F
 
     .line 126
-    const/4 v0, 0x2
+    const/4 v0, 0x7
 
     new-array v0, v0, [F
 
@@ -1104,7 +1104,7 @@
 
     if-eqz v0, :cond_0
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     :goto_0
     return v0

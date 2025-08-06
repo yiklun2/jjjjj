@@ -179,7 +179,7 @@
     invoke-virtual {v0, v1, v2, p2}, Lcom/flurry/android/q;->a(Landroid/content/Context;Lcom/flurry/android/ag;Ljava/lang/String;)V
 
     .line 164
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     goto :goto_0
 .end method

@@ -20,7 +20,7 @@
     sput-boolean v0, Lcom/flurry/android/ah;->a:Z
 
     .line 10
-    const/4 v0, 0x5
+    const/4 v0, 0x7
 
     sput v0, Lcom/flurry/android/ah;->b:I
 
@@ -44,7 +44,7 @@
     .line 54
     sget-boolean v0, Lcom/flurry/android/ah;->a:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     sget v0, Lcom/flurry/android/ah;->b:I
 
@@ -75,7 +75,7 @@
     .line 47
     sget-boolean v0, Lcom/flurry/android/ah;->a:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     sget v0, Lcom/flurry/android/ah;->b:I
 
@@ -104,7 +104,7 @@
 
     .prologue
     .line 25
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     sput-boolean v0, Lcom/flurry/android/ah;->a:Z
 
@@ -128,7 +128,7 @@
 
     .prologue
     .line 42
-    const/4 v0, 0x3
+    const/4 v0, 0x7
 
     invoke-static {p0, v0}, Landroid/util/Log;->isLoggable(Ljava/lang/String;I)Z
 
@@ -144,7 +144,7 @@
     .line 68
     sget-boolean v0, Lcom/flurry/android/ah;->a:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     sget v0, Lcom/flurry/android/ah;->b:I
 
@@ -175,7 +175,7 @@
     .line 61
     sget-boolean v0, Lcom/flurry/android/ah;->a:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     sget v0, Lcom/flurry/android/ah;->b:I
 
@@ -219,7 +219,7 @@
     .line 82
     sget-boolean v0, Lcom/flurry/android/ah;->a:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     sget v0, Lcom/flurry/android/ah;->b:I
 
@@ -250,7 +250,7 @@
     .line 75
     sget-boolean v0, Lcom/flurry/android/ah;->a:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     sget v0, Lcom/flurry/android/ah;->b:I
 
@@ -281,7 +281,7 @@
     .line 110
     sget-boolean v0, Lcom/flurry/android/ah;->a:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     sget v0, Lcom/flurry/android/ah;->b:I
 
@@ -312,7 +312,7 @@
     .line 103
     sget-boolean v0, Lcom/flurry/android/ah;->a:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     sget v0, Lcom/flurry/android/ah;->b:I
 

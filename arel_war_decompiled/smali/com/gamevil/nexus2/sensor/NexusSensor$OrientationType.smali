@@ -59,7 +59,7 @@
     sput-object v0, Lcom/gamevil/nexus2/sensor/NexusSensor$OrientationType;->ORIENTATION_RELATIVE:Lcom/gamevil/nexus2/sensor/NexusSensor$OrientationType;
 
     .line 89
-    const/4 v0, 0x2
+    const/4 v0, 0x7
 
     new-array v0, v0, [Lcom/gamevil/nexus2/sensor/NexusSensor$OrientationType;
 

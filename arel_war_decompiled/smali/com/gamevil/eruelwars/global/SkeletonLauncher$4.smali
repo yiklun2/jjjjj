@@ -42,7 +42,7 @@
 
     .prologue
     .line 425
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     invoke-static {v0}, Lcom/tapjoy/TapjoyLog;->enableLogging(Z)V
 

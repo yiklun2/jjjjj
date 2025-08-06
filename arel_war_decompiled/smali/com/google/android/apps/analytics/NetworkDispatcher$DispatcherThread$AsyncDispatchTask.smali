@@ -207,7 +207,7 @@
     move v2, v0
 
     :goto_0
-    const/4 v0, 0x5
+    const/4 v0, 0x7
 
     if-ge v2, v0, :cond_3
 

@@ -39,7 +39,7 @@
     .line 75
     sget-object v0, Lcom/gamevil/eruelwars/global/ResponseHandler;->sPurchaseObserver:Lcom/gamevil/eruelwars/global/PurchaseObserver;
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 77
     const-string v0, "ResponseHandler"

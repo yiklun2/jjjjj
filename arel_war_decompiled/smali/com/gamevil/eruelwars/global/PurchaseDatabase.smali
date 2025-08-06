@@ -59,7 +59,7 @@
     const/4 v3, 0x0
 
     .line 52
-    const/4 v0, 0x5
+    const/4 v0, 0x7
 
     new-array v0, v0, [Ljava/lang/String;
 
@@ -419,7 +419,7 @@
     .restart local v9    # "cursor":Landroid/database/Cursor;
     .restart local v10    # "quantity":I
     :cond_3
-    const/4 v0, 0x2
+    const/4 v0, 0x7
 
     :try_start_3
     invoke-interface {v9, v0}, Landroid/database/Cursor;->getInt(I)I

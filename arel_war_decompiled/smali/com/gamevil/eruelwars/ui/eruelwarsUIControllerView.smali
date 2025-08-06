@@ -384,7 +384,7 @@
 
     move-result v0
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 122
     sget-object v0, Landroid/os/Build;->MODEL:Ljava/lang/String;
@@ -395,7 +395,7 @@
 
     move-result v0
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 123
     sget-object v0, Landroid/os/Build;->MODEL:Ljava/lang/String;
@@ -406,7 +406,7 @@
 
     move-result v0
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 124
     sget-object v0, Landroid/os/Build;->MODEL:Ljava/lang/String;
@@ -421,7 +421,7 @@
 
     .line 128
     :cond_0
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     invoke-static {v0}, Lcom/gamevil/nexus2/Natives;->NativeIsNexusOne(Z)V
 
@@ -513,7 +513,7 @@
     invoke-super {p0, p1}, Lcom/gamevil/nexus2/ui/NeoUIControllerView;->onTouchEvent(Landroid/view/MotionEvent;)Z
 
     .line 317
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     return v0
 .end method

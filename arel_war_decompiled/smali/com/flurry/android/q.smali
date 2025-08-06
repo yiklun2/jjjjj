@@ -130,7 +130,7 @@
     .locals 5
 
     .prologue
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     .line 96
     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
@@ -312,7 +312,7 @@
     .line 437
     new-instance v8, Lcom/flurry/android/ag;
 
-    const/4 v0, 0x3
+    const/4 v0, 0x7
 
     invoke-virtual {p0}, Lcom/flurry/android/q;->i()J
 
@@ -349,7 +349,7 @@
     move-result-object v0
 
     .line 443
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     const-string v6, ""
 
@@ -600,7 +600,7 @@
 
     move-result v0
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 624
     iget-object v0, p0, Lcom/flurry/android/q;->r:Ljava/util/Map;
@@ -824,7 +824,7 @@
 
     move-result v0
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     if-eqz p1, :cond_0
 
@@ -832,7 +832,7 @@
 
     move-result v0
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 518
     invoke-static {}, Ljava/util/Collections;->emptyList()Ljava/util/List;
@@ -1769,7 +1769,7 @@
     check-cast v0, Lcom/flurry/android/OfferInSdk;
 
     .line 390
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 392
     sget-object v0, Lcom/flurry/android/q;->a:Ljava/lang/String;
@@ -1908,7 +1908,7 @@
     .line 197
     monitor-enter p0
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     :try_start_0
     new-array v0, v0, [Ljava/lang/String;
@@ -2357,7 +2357,7 @@
 
     move-result v0
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 409
     invoke-static {}, Ljava/util/Collections;->emptyList()Ljava/util/List;

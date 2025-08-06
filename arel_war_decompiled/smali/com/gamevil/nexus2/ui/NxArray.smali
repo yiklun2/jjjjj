@@ -24,7 +24,7 @@
     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
 
     .line 29
-    const/16 v0, 0x14
+    const/16 v0, 0x9600
 
     iput v0, p0, Lcom/gamevil/nexus2/ui/NxArray;->capacity:I
 
@@ -271,7 +271,7 @@
 
     .prologue
     .line 45
-    const/16 v0, 0x14
+    const/16 v0, 0x9600
 
     new-array v0, v0, [Ljava/lang/Object;
 
