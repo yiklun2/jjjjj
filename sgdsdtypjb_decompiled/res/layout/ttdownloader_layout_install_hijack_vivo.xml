@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textSize="11.0dip" android:textColor="@android:color/white" android:gravity="center" android:id="@id/app_store_tv" android:background="@drawable/ttdownloader_bg_vivo_btn1" android:layout_width="222.0dip" android:layout_height="27.0dip" android:layout_marginTop="16.0dip" android:text="vivo应用商店安装" android:layout_centerHorizontal="true" />
+        <LinearLayout android:gravity="center_vertical" android:layout_gravity="center_horizontal" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_below="@id/app_store_tv" android:layout_centerHorizontal="true">
+            <TextView android:textSize="14.0dip" android:textColor="#ff0088ff" android:gravity="center" android:background="@drawable/ttdownloader_bg_vivo_btn2" android:layout_width="100.0dip" android:layout_height="30.0dip" android:layout_marginLeft="17.0dip" android:text="继续安装" />
+            <Space android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+            <TextView android:textSize="11.0dip" android:textColor="#ff0088ff" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="45.0dip" android:text="取消" />
+        </LinearLayout>
+        <ImageView android:layout_width="50.0dip" android:layout_height="50.0dip" android:layout_marginLeft="88.0dip" android:layout_marginTop="60.0dip" android:src="@drawable/ttdownloader_icon_finger" android:scaleType="centerCrop" />
+    </RelativeLayout>
+</FrameLayout>

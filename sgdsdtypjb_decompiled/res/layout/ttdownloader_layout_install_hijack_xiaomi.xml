@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="9.0sp" android:textColor="@android:color/white" android:gravity="center" android:id="@id/app_store_tv" android:background="@drawable/ttdownloader_bg_huawei_btn1" android:layout_width="214.0dip" android:layout_height="30.0dip" android:layout_marginTop="20.0dip" android:text="小米应用商店安装" android:layout_centerHorizontal="true" />
+    <LinearLayout android:layout_gravity="center_horizontal" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="60.0dip" android:layout_centerHorizontal="true">
+        <TextView android:textSize="11.0dip" android:textColor="@android:color/black" android:gravity="center" android:background="@drawable/ttdownloader_bg_ad_left_corner_gray" android:layout_width="107.0dip" android:layout_height="wrap_content" android:text="取消" android:height="30.0dip" />
+        <TextView android:textSize="11.0dip" android:textColor="@android:color/black" android:gravity="center" android:background="@drawable/ttdownloader_bg_ad_right_corner_gray" android:layout_width="107.0dip" android:layout_height="wrap_content" android:text="继续安装" android:height="30.0dip" />
+    </LinearLayout>
+    <ImageView android:layout_width="46.0dip" android:layout_height="40.0dip" android:layout_marginLeft="190.0dip" android:layout_marginTop="72.5dip" android:src="@drawable/ttdownloader_icon_finger" />
+</RelativeLayout>

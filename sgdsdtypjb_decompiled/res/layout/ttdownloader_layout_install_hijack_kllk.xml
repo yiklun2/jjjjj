@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:id="@id/install_kllk_btn1" android:background="@drawable/ttdownloader_bg_kllk_btn1" android:layout_width="162.0dip" android:layout_height="29.0dip" android:layout_marginTop="13.0dip" android:layout_centerHorizontal="true">
+        <TextView android:textSize="11.0dip" android:textColor="@android:color/white" android:id="@id/kllk_install_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:id="@id/install_kllk_btn2" android:background="@drawable/ttdownloader_bg_kllk_btn2" android:layout_width="200.0dip" android:layout_height="35.0dip" android:layout_marginTop="10.0dip" android:layout_below="@id/install_kllk_btn1" android:layout_centerHorizontal="true">
+        <TextView android:textSize="15.0dip" android:textColor="#ff00cf76" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="继续安装" />
+    </LinearLayout>
+    <ImageView android:layout_width="50.0dip" android:layout_height="50.0dip" android:layout_marginLeft="143.5dip" android:layout_marginTop="63.0dip" android:src="@drawable/ttdownloader_icon_finger" android:scaleType="centerCrop" />
+</RelativeLayout>
