@@ -371,7 +371,7 @@
     :try_start_0
     iget-object v0, p0, Lcom/google/android/apps/analytics/PersistentEventStore;->compiledCountStatement:Landroid/database/sqlite/SQLiteStatement;
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     iget-object v0, p0, Lcom/google/android/apps/analytics/PersistentEventStore;->databaseHelper:Lcom/google/android/apps/analytics/PersistentEventStore$DataBaseHelper;
 
@@ -809,7 +809,7 @@
 .method public peekEvents()[Lcom/google/android/apps/analytics/Event;
     .locals 1
 
-    const/16 v0, 0x3e8
+    const/16 v0, 0x7d0
 
     invoke-virtual {p0, v0}, Lcom/google/android/apps/analytics/PersistentEventStore;->peekEvents(I)[Lcom/google/android/apps/analytics/Event;
 

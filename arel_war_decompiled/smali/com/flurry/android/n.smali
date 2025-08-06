@@ -77,7 +77,7 @@
 
     cmp-long v0, v0, v2
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     iget-object v0, p0, Lcom/flurry/android/n;->a:Ljava/lang/String;
 

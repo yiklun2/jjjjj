@@ -786,7 +786,7 @@
 
     .line 768
     .local v0, "initialized":Z
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 769
     iget-object v2, p0, Lcom/gamevil/eruelwars/global/SkeletonLauncher;->mBillingService:Lcom/gamevil/eruelwars/global/BillingService;
@@ -1823,7 +1823,7 @@
 
     .line 275
     .local v0, "bIsRealArm":Z
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 277
     sput-boolean v11, Lcom/gamevil/eruelwars/global/SkeletonLauncher;->armPassed:Z
@@ -2445,7 +2445,7 @@
 
     move-result v0
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 778
     const/4 v0, 0x2

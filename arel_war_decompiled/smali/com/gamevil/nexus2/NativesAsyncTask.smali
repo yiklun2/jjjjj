@@ -199,7 +199,7 @@
     .line 59
     iget-boolean v0, p0, Lcom/gamevil/nexus2/NativesAsyncTask;->m_bCancelled:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 62
     iget v0, p0, Lcom/gamevil/nexus2/NativesAsyncTask;->m_nTimerIndex:I

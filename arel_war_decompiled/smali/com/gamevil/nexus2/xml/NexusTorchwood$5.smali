@@ -49,7 +49,7 @@
 
     move-result v0
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 376
     iget-object v0, p0, Lcom/gamevil/nexus2/xml/NexusTorchwood$5;->this$0:Lcom/gamevil/nexus2/xml/NexusTorchwood;

@@ -44,7 +44,7 @@
     .line 54
     sget-boolean v0, Lcom/flurry/android/ah;->a:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     sget v0, Lcom/flurry/android/ah;->b:I
 
@@ -75,7 +75,7 @@
     .line 47
     sget-boolean v0, Lcom/flurry/android/ah;->a:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     sget v0, Lcom/flurry/android/ah;->b:I
 
@@ -144,7 +144,7 @@
     .line 68
     sget-boolean v0, Lcom/flurry/android/ah;->a:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     sget v0, Lcom/flurry/android/ah;->b:I
 
@@ -175,7 +175,7 @@
     .line 61
     sget-boolean v0, Lcom/flurry/android/ah;->a:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     sget v0, Lcom/flurry/android/ah;->b:I
 
@@ -219,7 +219,7 @@
     .line 82
     sget-boolean v0, Lcom/flurry/android/ah;->a:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     sget v0, Lcom/flurry/android/ah;->b:I
 
@@ -250,7 +250,7 @@
     .line 75
     sget-boolean v0, Lcom/flurry/android/ah;->a:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     sget v0, Lcom/flurry/android/ah;->b:I
 
@@ -281,7 +281,7 @@
     .line 110
     sget-boolean v0, Lcom/flurry/android/ah;->a:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     sget v0, Lcom/flurry/android/ah;->b:I
 
@@ -312,7 +312,7 @@
     .line 103
     sget-boolean v0, Lcom/flurry/android/ah;->a:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     sget v0, Lcom/flurry/android/ah;->b:I
 

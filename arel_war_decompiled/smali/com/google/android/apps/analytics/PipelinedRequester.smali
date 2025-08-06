@@ -337,7 +337,7 @@
 
     iget-boolean v0, p0, Lcom/google/android/apps/analytics/PipelinedRequester;->canPipeline:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     invoke-direct {p0}, Lcom/google/android/apps/analytics/PipelinedRequester;->closeConnection()V
 

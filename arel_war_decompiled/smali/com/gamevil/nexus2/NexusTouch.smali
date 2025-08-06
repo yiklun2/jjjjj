@@ -513,13 +513,13 @@
 
     iget-boolean v0, v0, Lcom/gamevil/nexus2/NexusTouch;->isGesture:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     sget-object v0, Lcom/gamevil/nexus2/NexusTouch;->self:Lcom/gamevil/nexus2/NexusTouch;
 
     iget-boolean v0, v0, Lcom/gamevil/nexus2/NexusTouch;->isSimpleFling:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 308
     const/4 v0, 0x0

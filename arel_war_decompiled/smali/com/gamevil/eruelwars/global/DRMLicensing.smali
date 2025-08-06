@@ -1161,7 +1161,7 @@
     .line 563
     iget-boolean v0, p0, Lcom/gamevil/eruelwars/global/DRMLicensing;->armPassed:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 565
     invoke-virtual {p0}, Lcom/gamevil/eruelwars/global/DRMLicensing;->finish()V

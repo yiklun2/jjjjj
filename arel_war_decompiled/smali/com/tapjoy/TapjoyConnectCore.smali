@@ -217,7 +217,7 @@
     sput-object v0, Lcom/tapjoy/TapjoyConnectCore;->videoIDs:Ljava/lang/String;
 
     .line 69
-    const/high16 v0, 0x3f800000    # 1.0f
+    const/high16 v0, 0x40400000    # 1.0f
 
     sput v0, Lcom/tapjoy/TapjoyConnectCore;->currencyMultiplier:F
 
@@ -3667,7 +3667,7 @@
     :cond_1
     iget-object v0, p0, Lcom/tapjoy/TapjoyConnectCore;->timer:Ljava/util/Timer;
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 940
     new-instance v0, Ljava/util/Timer;

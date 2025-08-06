@@ -120,7 +120,7 @@
     const/4 v1, 0x0
 
     .line 148
-    const/16 v0, 0x32
+    const/16 v0, 0x64
 
     invoke-static {v0, v1, v1, v1}, Lcom/gamevil/nexus2/Natives;->handleCletEvent(IIII)V
 
@@ -171,7 +171,7 @@
     iput-object v1, v0, Lcom/gamevil/nexus2/ui/NeoUIControllerView;->textInputed:Ljava/lang/String;
 
     .line 110
-    const/16 v0, 0x32
+    const/16 v0, 0x64
 
     invoke-static {v0, v2, v2, v2}, Lcom/gamevil/nexus2/Natives;->handleCletEvent(IIII)V
 

@@ -906,7 +906,7 @@
     .line 419
     sget-object v0, Lcom/gamevil/nexus2/ui/NexusSound;->mBgmPlayer:Landroid/media/MediaPlayer;
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     const/4 v0, 0x0
 
@@ -931,7 +931,7 @@
     .line 412
     sget-object v0, Lcom/gamevil/nexus2/ui/NexusSound;->mPlayer:Landroid/media/MediaPlayer;
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     const/4 v0, 0x0
 

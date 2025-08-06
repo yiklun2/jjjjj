@@ -24,7 +24,7 @@
     .line 66
     sget v0, Lcom/gamevil/nexus2/ui/NeoUIControllerView;->width:I
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     const/4 v0, 0x0
 
@@ -52,7 +52,7 @@
     .line 72
     sget v0, Lcom/gamevil/nexus2/ui/NeoUIControllerView;->height:I
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     const/4 v0, 0x0
 

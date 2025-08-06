@@ -199,7 +199,7 @@
 
     .line 571
     .local v0, "netConnect":Z
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     const/4 v1, 0x0
 
@@ -364,7 +364,7 @@
     .line 176
     sget-boolean v0, Lcom/gamevil/nexus2/net/NexusSemiNetwork;->isUseServerPayCode:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 177
     sget-short v0, Lcom/gamevil/nexus2/net/NexusSemiNetwork;->sendCmd:S
@@ -1270,7 +1270,7 @@
 
     sget-boolean v0, Lcom/gamevil/nexus2/net/NexusSemiNetwork;->doRecvPacket:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     const/4 v0, 0x1
 

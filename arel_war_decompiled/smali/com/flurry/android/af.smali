@@ -181,7 +181,7 @@
 
     move-result-object v0
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 78
     invoke-interface {v1}, Ljava/util/Iterator;->remove()V

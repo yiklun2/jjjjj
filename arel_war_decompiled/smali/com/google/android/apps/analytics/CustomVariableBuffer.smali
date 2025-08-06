@@ -117,7 +117,7 @@
 
     aget-object v0, v0, v1
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     const/4 v0, 0x1
 

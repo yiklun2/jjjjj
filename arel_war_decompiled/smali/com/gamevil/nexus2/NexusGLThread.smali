@@ -113,7 +113,7 @@
     if-lez p0, :cond_0
 
     .line 67
-    const/16 v0, 0x3e8
+    const/16 v0, 0x7d0
 
     div-int/2addr v0, p0
 
@@ -516,7 +516,7 @@
     .line 193
     iget-boolean v0, p0, Lcom/gamevil/nexus2/NexusGLThread;->mPaused:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     iget-boolean v0, p0, Lcom/gamevil/nexus2/NexusGLThread;->mHasFocus:Z
 
@@ -566,7 +566,7 @@
 
     move-result v0
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 288
     sget-object v0, Ljava/lang/System;->out:Ljava/io/PrintStream;

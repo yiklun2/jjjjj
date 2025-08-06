@@ -313,7 +313,7 @@
     .line 306
     iget-boolean v0, p0, Lcom/flurry/android/t;->c:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     const/4 v0, 0x1
 

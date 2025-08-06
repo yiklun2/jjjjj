@@ -203,7 +203,7 @@
     :cond_2
     iget-boolean v0, p0, Lcom/flurry/android/ad;->f:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 55
     new-instance v0, Landroid/widget/TextView;

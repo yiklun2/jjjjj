@@ -320,7 +320,7 @@
     .line 296
     sget-boolean v0, Lcom/flurry/android/FlurryAgent;->l:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     const/4 v0, 0x0
 
@@ -415,7 +415,7 @@
     .line 310
     sget-boolean v0, Lcom/flurry/android/FlurryAgent;->l:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 312
     const-string v0, "FlurryAgent"
@@ -443,7 +443,7 @@
     .line 284
     sget-boolean v0, Lcom/flurry/android/FlurryAgent;->l:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 287
     :goto_0
@@ -480,7 +480,7 @@
     check-cast v0, Landroid/content/Context;
 
     .line 824
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 826
     const-string v0, "FlurryAgent"
@@ -1717,7 +1717,7 @@
 
     .line 1080
     :cond_6
-    const/16 v0, 0x1f40
+    const/16 v0, 0x3e80
 
     iput v0, p0, Lcom/flurry/android/FlurryAgent;->R:I
 
@@ -1751,7 +1751,7 @@
     .line 320
     sget-boolean v0, Lcom/flurry/android/FlurryAgent;->l:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 323
     :goto_0
@@ -1775,7 +1775,7 @@
     .line 327
     sget-boolean v0, Lcom/flurry/android/FlurryAgent;->l:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 330
     :goto_0
@@ -1857,7 +1857,7 @@
 
     .line 1268
     :goto_2
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     sget-object v1, Lcom/flurry/android/FlurryAgent;->a:Ljava/lang/String;
 
@@ -2123,7 +2123,7 @@
     .line 357
     sget-boolean v0, Lcom/flurry/android/FlurryAgent;->l:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 360
     :goto_0
@@ -2286,7 +2286,7 @@
     .line 303
     sget-boolean v0, Lcom/flurry/android/FlurryAgent;->l:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     const/4 v0, 0x0
 
@@ -2331,7 +2331,7 @@
 
     move-result v0
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 704
     const-string v0, "FlurryAgent"
@@ -3643,7 +3643,7 @@
 
     iget-object v0, p0, Lcom/flurry/android/FlurryAgent;->N:Landroid/location/Location;
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     const/4 v0, 0x0
 
@@ -4139,7 +4139,7 @@
     .line 364
     sget-boolean v0, Lcom/flurry/android/FlurryAgent;->l:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 367
     :goto_0
@@ -4173,7 +4173,7 @@
     .line 1246
     sget-boolean v0, Lcom/flurry/android/FlurryAgent;->l:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     const/4 v0, 0x0
 
@@ -5230,7 +5230,7 @@
     .line 345
     sget-boolean v0, Lcom/flurry/android/FlurryAgent;->l:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 348
     :goto_0

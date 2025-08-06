@@ -5222,7 +5222,7 @@
     .line 1519
     iget-object v0, p0, Lcom/gamevil/nexus2/xml/ProfileSender;->registrationId:Ljava/lang/String;
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     const-string v0, "none"
 

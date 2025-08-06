@@ -1835,7 +1835,7 @@
     .line 570
     sget-boolean v0, Lcom/gamevil/nexus2/sensor/NexusSensor;->isSensorEnable:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 582
     :goto_0
@@ -1900,7 +1900,7 @@
     .line 595
     sget-boolean v0, Lcom/gamevil/nexus2/sensor/NexusSensor;->isSensorEnable:Z
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 605
     :goto_0

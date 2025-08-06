@@ -454,7 +454,7 @@
 
     iget-object v0, p0, Lcom/google/android/apps/analytics/GoogleAnalyticsTracker;->eventStore:Lcom/google/android/apps/analytics/EventStore;
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     new-instance v4, Lcom/google/android/apps/analytics/PersistentEventStore;
 
@@ -556,7 +556,7 @@
 
     iget-object v0, p0, Lcom/google/android/apps/analytics/GoogleAnalyticsTracker;->connetivityManager:Landroid/net/ConnectivityManager;
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     iget-object v0, p0, Lcom/google/android/apps/analytics/GoogleAnalyticsTracker;->parent:Landroid/content/Context;
 

@@ -105,7 +105,7 @@
     .line 50
     iget-object v0, p0, Lcom/flurry/android/ag;->b:Lcom/flurry/android/s;
 
-    if-nez v0, :cond_0
+    if-eqz v0, :cond_0
 
     .line 52
     invoke-interface {p1, v1, v2}, Ljava/io/DataOutput;->writeLong(J)V

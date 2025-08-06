@@ -338,7 +338,7 @@
 
     .line 215
     :pswitch_8
-    const/16 v0, 0x32
+    const/16 v0, 0x64
 
     .line 216
     goto :goto_0
