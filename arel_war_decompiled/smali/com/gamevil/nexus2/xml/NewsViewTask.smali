@@ -797,7 +797,7 @@
 
     .prologue
     .line 319
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     sput-boolean v0, Lcom/gamevil/nexus2/xml/NewsViewTask;->showCalled:Z
 

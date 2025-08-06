@@ -51,7 +51,7 @@
     .locals 4
 
     .prologue
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     .line 1956
     iget-object v1, p0, Lcom/gamevil/nexus2/xml/ProfileSender$GVInputPacket;->data:[B
@@ -470,7 +470,7 @@
     .param p1, "pos"    # I
 
     .prologue
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     .line 2058
     iget-object v1, p0, Lcom/gamevil/nexus2/xml/ProfileSender$GVInputPacket;->data:[B

@@ -443,7 +443,7 @@
 
     const/4 v1, 0x0
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     invoke-virtual {p1, p2}, Ljava/lang/StringBuilder;->append(I)Ljava/lang/StringBuilder;
 

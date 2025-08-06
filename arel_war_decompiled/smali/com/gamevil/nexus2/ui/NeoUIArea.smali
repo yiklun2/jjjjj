@@ -127,7 +127,7 @@
     if-lt v1, p2, :cond_0
 
     .line 74
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     goto :goto_0
 .end method

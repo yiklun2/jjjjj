@@ -75,7 +75,7 @@
     sput-object v0, Lcom/android/vending/licensing/Policy$LicenseResponse;->RETRY:Lcom/android/vending/licensing/Policy$LicenseResponse;
 
     .line 28
-    const/4 v0, 0x3
+    const/4 v0, 0x7
 
     new-array v0, v0, [Lcom/android/vending/licensing/Policy$LicenseResponse;
 

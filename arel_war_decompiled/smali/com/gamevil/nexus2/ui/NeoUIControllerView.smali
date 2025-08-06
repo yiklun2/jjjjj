@@ -68,7 +68,7 @@
     iput v0, p0, Lcom/gamevil/nexus2/ui/NeoUIControllerView;->eventQueueSize:I
 
     .line 48
-    const/4 v0, 0x3
+    const/4 v0, 0x7
 
     iput v0, p0, Lcom/gamevil/nexus2/ui/NeoUIControllerView;->moveEventClip:I
 
@@ -108,7 +108,7 @@
     iput v0, p0, Lcom/gamevil/nexus2/ui/NeoUIControllerView;->eventQueueSize:I
 
     .line 48
-    const/4 v0, 0x3
+    const/4 v0, 0x7
 
     iput v0, p0, Lcom/gamevil/nexus2/ui/NeoUIControllerView;->moveEventClip:I
 
@@ -234,7 +234,7 @@
     iput p1, p0, Lcom/gamevil/nexus2/ui/NeoUIControllerView;->uiStatus:I
 
     .line 132
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-boolean v0, p0, Lcom/gamevil/nexus2/ui/NeoUIControllerView;->isStatusChanging:Z
 
@@ -338,7 +338,7 @@
 
     .line 215
     :pswitch_8
-    const/16 v0, 0x64
+    const/16 v0, 0x6400
 
     .line 216
     goto :goto_0
@@ -750,7 +750,7 @@
     invoke-virtual {v0}, Lcom/gamevil/nexus2/ui/NxArray;->cleanUpAll()V
 
     .line 276
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-boolean v0, p0, Lcom/gamevil/nexus2/ui/NeoUIControllerView;->isStatusChanging:Z
 

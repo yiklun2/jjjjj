@@ -536,7 +536,7 @@
 
     if-nez v0, :cond_1
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     :goto_0
     return v0
@@ -616,7 +616,7 @@
     monitor-enter p0
 
     .line 214
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     :try_start_0
     iput-boolean v0, p0, Lcom/gamevil/nexus2/NexusGLThread;->mPaused:Z
@@ -688,7 +688,7 @@
     iput p2, p0, Lcom/gamevil/nexus2/NexusGLThread;->mHeight:I
 
     .line 242
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-boolean v0, p0, Lcom/gamevil/nexus2/NexusGLThread;->mSizeChanged:Z
 
@@ -903,7 +903,7 @@
     monitor-enter p0
 
     .line 199
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     :try_start_0
     iput-boolean v0, p0, Lcom/gamevil/nexus2/NexusGLThread;->mHasSurface:Z

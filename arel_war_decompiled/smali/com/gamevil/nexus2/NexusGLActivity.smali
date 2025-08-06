@@ -124,7 +124,7 @@
     sput-boolean v0, Lcom/gamevil/nexus2/NexusGLActivity;->mPause:Z
 
     .line 108
-    const/16 v0, 0x190
+    const/16 v0, 0x6400
 
     sput v0, Lcom/gamevil/nexus2/NexusGLActivity;->gameScreenWidth:I
 
@@ -1763,7 +1763,7 @@
     invoke-virtual {p0}, Lcom/gamevil/nexus2/NexusGLActivity;->finish()V
 
     .line 429
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     .line 432
     :goto_0
@@ -1819,7 +1819,7 @@
 
     .line 322
     :cond_1
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     sput-boolean v0, Lcom/gamevil/nexus2/NexusGLActivity;->mPause:Z
 
@@ -1832,7 +1832,7 @@
 
     .prologue
     .line 339
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-boolean v0, p0, Lcom/gamevil/nexus2/NexusGLActivity;->isResume:Z
 

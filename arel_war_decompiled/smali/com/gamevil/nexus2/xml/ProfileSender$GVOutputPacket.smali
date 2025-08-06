@@ -147,7 +147,7 @@
 
     if-eqz p1, :cond_0
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     :goto_0
     int-to-byte v0, v0

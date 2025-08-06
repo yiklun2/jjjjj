@@ -217,7 +217,7 @@
     sput-object v0, Lcom/tapjoy/TapjoyConnectCore;->videoIDs:Ljava/lang/String;
 
     .line 69
-    const/high16 v0, 0x40400000    # 1.0f
+    const/high16 v0, 0x42000000    # 1.0f
 
     sput v0, Lcom/tapjoy/TapjoyConnectCore;->currencyMultiplier:F
 

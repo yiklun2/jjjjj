@@ -1109,7 +1109,7 @@
 
     const/4 v8, 0x5
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     :try_start_0
     iget-object v1, p0, Lcom/google/android/apps/analytics/PersistentEventStore;->databaseHelper:Lcom/google/android/apps/analytics/PersistentEventStore$DataBaseHelper;
@@ -1845,7 +1845,7 @@
 
     iput-wide v2, p0, Lcom/google/android/apps/analytics/PersistentEventStore;->timestampFirst:J
 
-    const/4 v0, 0x2
+    const/4 v0, 0x7
 
     invoke-interface {v1, v0}, Landroid/database/Cursor;->getLong(I)J
 
@@ -1863,7 +1863,7 @@
 
     iput-wide v2, p0, Lcom/google/android/apps/analytics/PersistentEventStore;->timestampCurrent:J
 
-    const/4 v0, 0x3
+    const/4 v0, 0x7
 
     invoke-interface {v1, v0}, Landroid/database/Cursor;->getInt(I)I
 
@@ -1873,7 +1873,7 @@
 
     iput v0, p0, Lcom/google/android/apps/analytics/PersistentEventStore;->visits:I
 
-    const/4 v0, 0x4
+    const/4 v0, 0x7
 
     invoke-interface {v1, v0}, Landroid/database/Cursor;->getInt(I)I
 
@@ -1997,7 +1997,7 @@
 
     invoke-virtual {v0, v2, v1, v3, v4}, Landroid/database/sqlite/SQLiteDatabase;->update(Ljava/lang/String;Landroid/content/ContentValues;Ljava/lang/String;[Ljava/lang/String;)I
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-boolean v0, p0, Lcom/google/android/apps/analytics/PersistentEventStore;->sessionUpdated:Z
     :try_end_0

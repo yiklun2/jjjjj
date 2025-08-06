@@ -161,7 +161,7 @@
     sput v0, Lcom/tapjoy/TapjoyVideoView;->textSize:I
 
     .line 122
-    const/16 v0, 0xa
+    const/16 v0, 0xc8
 
     sput v0, Lcom/tapjoy/TapjoyVideoView;->padding:I
 
@@ -3206,7 +3206,7 @@
     sput-boolean v0, Lcom/tapjoy/TapjoyVideoView;->videoError:Z
 
     .line 907
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-boolean v0, p0, Lcom/tapjoy/TapjoyVideoView;->allowBackKey:Z
 
@@ -3758,7 +3758,7 @@
     .param p2, "event"    # Landroid/view/KeyEvent;
 
     .prologue
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     .line 914
     const/4 v1, 0x4

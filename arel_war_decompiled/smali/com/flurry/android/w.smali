@@ -139,7 +139,7 @@
 
     if-nez v0, :cond_1
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     :goto_0
     iput-boolean v0, p0, Lcom/flurry/android/w;->k:Z
@@ -565,7 +565,7 @@
     const/4 v3, 0x0
 
     .line 377
-    const/4 v0, 0x2
+    const/4 v0, 0x7
 
     invoke-virtual {p1, v0}, Ljava/io/DataOutputStream;->writeShort(I)V
 

@@ -130,7 +130,7 @@
     .locals 5
 
     .prologue
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     .line 96
     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
@@ -312,7 +312,7 @@
     .line 437
     new-instance v8, Lcom/flurry/android/ag;
 
-    const/4 v0, 0x3
+    const/4 v0, 0x7
 
     invoke-virtual {p0}, Lcom/flurry/android/q;->i()J
 
@@ -1908,7 +1908,7 @@
     .line 197
     monitor-enter p0
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     :try_start_0
     new-array v0, v0, [Ljava/lang/String;

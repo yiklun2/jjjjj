@@ -65,7 +65,7 @@
 
     .prologue
     .line 40
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     sput-boolean v0, Lcom/gamevil/nexus2/ui/NexusSound;->isVibrationON:Z
 
@@ -1585,7 +1585,7 @@
     .line 460
     if-lez p0, :cond_1
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     :goto_0
     sput-boolean v0, Lcom/gamevil/nexus2/ui/NexusSound;->isSoundON:Z

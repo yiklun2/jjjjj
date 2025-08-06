@@ -73,7 +73,7 @@
     sput-object v0, Lcom/gamevil/eruelwars/global/Consts$PurchaseState;->REFUNDED:Lcom/gamevil/eruelwars/global/Consts$PurchaseState;
 
     .line 45
-    const/4 v0, 0x3
+    const/4 v0, 0x7
 
     new-array v0, v0, [Lcom/gamevil/eruelwars/global/Consts$PurchaseState;
 

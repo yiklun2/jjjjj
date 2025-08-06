@@ -857,7 +857,7 @@
     .param p1, "amount"    # I
 
     .prologue
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     .line 899
     iput-boolean v0, p0, Lcom/gamevil/eruelwars/global/SkeletonLauncher;->earnedPoints:Z
@@ -906,7 +906,7 @@
 
     .prologue
     .line 910
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-boolean v0, p0, Lcom/gamevil/eruelwars/global/SkeletonLauncher;->update_text:Z
 
@@ -964,7 +964,7 @@
 
     .prologue
     .line 920
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-boolean v0, p0, Lcom/gamevil/eruelwars/global/SkeletonLauncher;->update_text:Z
 
@@ -1151,7 +1151,7 @@
     invoke-static {v0, v1}, Landroid/util/Log;->i(Ljava/lang/String;Ljava/lang/String;)I
 
     .line 958
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-boolean v0, p0, Lcom/gamevil/eruelwars/global/SkeletonLauncher;->update_text:Z
 
@@ -1224,7 +1224,7 @@
     invoke-static {v0, v1}, Landroid/util/Log;->i(Ljava/lang/String;Ljava/lang/String;)I
 
     .line 998
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-boolean v0, p0, Lcom/gamevil/eruelwars/global/SkeletonLauncher;->update_text:Z
 
@@ -1282,7 +1282,7 @@
     invoke-static {v0, v1}, Landroid/util/Log;->i(Ljava/lang/String;Ljava/lang/String;)I
 
     .line 970
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-boolean v0, p0, Lcom/gamevil/eruelwars/global/SkeletonLauncher;->update_text:Z
 
@@ -1340,7 +1340,7 @@
     invoke-static {v0, v1}, Landroid/util/Log;->i(Ljava/lang/String;Ljava/lang/String;)I
 
     .line 981
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-boolean v0, p0, Lcom/gamevil/eruelwars/global/SkeletonLauncher;->update_text:Z
 
@@ -1416,7 +1416,7 @@
     iput p2, p0, Lcom/gamevil/eruelwars/global/SkeletonLauncher;->point_total:I
 
     .line 1013
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-boolean v0, p0, Lcom/gamevil/eruelwars/global/SkeletonLauncher;->update_text:Z
 
@@ -1525,7 +1525,7 @@
     invoke-static {v0, v1}, Landroid/util/Log;->i(Ljava/lang/String;Ljava/lang/String;)I
 
     .line 1030
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-boolean v0, p0, Lcom/gamevil/eruelwars/global/SkeletonLauncher;->update_text:Z
 
@@ -2430,7 +2430,7 @@
 
     .prologue
     .line 776
-    const/4 v0, 0x3
+    const/4 v0, 0x7
 
     invoke-virtual {p0, v0}, Lcom/gamevil/eruelwars/global/SkeletonLauncher;->showDialog(I)V
 
@@ -2448,7 +2448,7 @@
     if-eqz v0, :cond_0
 
     .line 778
-    const/4 v0, 0x2
+    const/4 v0, 0x7
 
     invoke-virtual {p0, v0}, Lcom/gamevil/eruelwars/global/SkeletonLauncher;->showDialog(I)V
 
@@ -2621,7 +2621,7 @@
 
     .line 888
     :goto_0
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-boolean v0, p0, Lcom/gamevil/eruelwars/global/SkeletonLauncher;->update_text:Z
 
@@ -2673,7 +2673,7 @@
     invoke-static {v0, v1}, Landroid/util/Log;->i(Ljava/lang/String;Ljava/lang/String;)I
 
     .line 865
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-boolean v0, p0, Lcom/gamevil/eruelwars/global/SkeletonLauncher;->update_text:Z
 

@@ -243,7 +243,7 @@
     iput v1, p0, Lcom/gamevil/nexus2/xml/ProfileSender;->gid:I
 
     .line 227
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-byte v0, p0, Lcom/gamevil/nexus2/xml/ProfileSender;->saleCode:B
 
@@ -361,7 +361,7 @@
     if-eqz v3, :cond_0
 
     .line 657
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     .line 660
     :cond_0
@@ -679,7 +679,7 @@
 
     .line 1160
     .local v9, "readTemp":[B
-    const/4 v0, 0x2
+    const/4 v0, 0x7
 
     .line 1162
     .local v0, "HEADER_LENGTH":I

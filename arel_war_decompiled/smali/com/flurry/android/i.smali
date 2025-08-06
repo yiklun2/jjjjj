@@ -137,7 +137,7 @@
 
     .prologue
     .line 75
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     invoke-virtual {p1, v0}, Landroid/widget/ImageView;->setAdjustViewBounds(Z)V
 

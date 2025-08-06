@@ -57,7 +57,7 @@
 
     sput-object v0, Lcom/gamevil/eruelwars/global/SkeletonLauncher$Managed;->UNMANAGED:Lcom/gamevil/eruelwars/global/SkeletonLauncher$Managed;
 
-    const/4 v0, 0x2
+    const/4 v0, 0x7
 
     new-array v0, v0, [Lcom/gamevil/eruelwars/global/SkeletonLauncher$Managed;
 

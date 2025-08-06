@@ -15,7 +15,7 @@
     .line 41
     iput-object p1, p0, Lcom/flurry/android/l;->a:Lcom/flurry/android/ae;
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     invoke-direct {p0, p2, p3, v0}, Ljava/util/LinkedHashMap;-><init>(IFZ)V
 
@@ -41,7 +41,7 @@
 
     if-le v0, v1, :cond_0
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     :goto_0
     return v0

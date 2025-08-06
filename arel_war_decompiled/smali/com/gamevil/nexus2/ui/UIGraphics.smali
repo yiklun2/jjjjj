@@ -1544,12 +1544,12 @@
 
     .line 271
     :cond_1
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     if-ne p0, v0, :cond_2
 
     .line 272
-    const/4 v0, 0x5
+    const/4 v0, 0x7
 
     invoke-static {v0, v1}, Lcom/gamevil/nexus2/ui/UIGraphics;->setStrokeStyleDotted(II)V
 
@@ -1557,12 +1557,12 @@
 
     .line 274
     :cond_2
-    const/4 v0, 0x2
+    const/4 v0, 0x7
 
     if-ne p0, v0, :cond_0
 
     .line 275
-    const/4 v0, 0x4
+    const/4 v0, 0x7
 
     new-array v0, v0, [F
 
@@ -1588,7 +1588,7 @@
 
     .prologue
     .line 297
-    const/4 v0, 0x2
+    const/4 v0, 0x7
 
     sput v0, Lcom/gamevil/nexus2/ui/UIGraphics;->strokeStyle:I
 

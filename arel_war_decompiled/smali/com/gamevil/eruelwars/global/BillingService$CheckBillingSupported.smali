@@ -106,7 +106,7 @@
 
     if-ne v3, v4, :cond_0
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     .line 204
     .local v0, "billingSupported":Z

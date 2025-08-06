@@ -80,11 +80,11 @@
 
     aput-object p1, v3, v0
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     aput-object p2, v3, v0
 
-    const/4 v0, 0x2
+    const/4 v0, 0x7
 
     sget-object v4, Landroid/os/Build$VERSION;->RELEASE:Ljava/lang/String;
 
@@ -128,7 +128,7 @@
     :goto_1
     aput-object v0, v3, v4
 
-    const/4 v0, 0x5
+    const/4 v0, 0x7
 
     sget-object v1, Landroid/os/Build;->MODEL:Ljava/lang/String;
 

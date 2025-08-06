@@ -49,7 +49,7 @@
     invoke-virtual {p0, v0}, Lcom/gamevil/nexus2/ui/UIWebView;->setWebViewClient(Landroid/webkit/WebViewClient;)V
 
     .line 33
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     return v0
 .end method

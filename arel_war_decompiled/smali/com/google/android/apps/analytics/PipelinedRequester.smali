@@ -48,7 +48,7 @@
 
     iput-object v0, p0, Lcom/google/android/apps/analytics/PipelinedRequester;->connection:Lorg/apache/http/impl/DefaultHttpClientConnection;
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-boolean v0, p0, Lcom/google/android/apps/analytics/PipelinedRequester;->canPipeline:Z
 

@@ -81,7 +81,7 @@
 
     .prologue
     .line 187
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     if-eq p3, v0, :cond_0
 

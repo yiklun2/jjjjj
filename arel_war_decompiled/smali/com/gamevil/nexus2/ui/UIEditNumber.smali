@@ -324,7 +324,7 @@
 
     .line 133
     :cond_2
-    const/4 v0, 0x4
+    const/4 v0, 0x7
 
     if-ne p1, v0, :cond_0
 
@@ -347,7 +347,7 @@
 
     .prologue
     .line 147
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     new-array v0, v0, [Landroid/text/InputFilter;
 

@@ -1167,7 +1167,7 @@
     invoke-virtual {p0}, Lcom/gamevil/eruelwars/global/DRMLicensing;->finish()V
 
     .line 566
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     .line 568
     :goto_0

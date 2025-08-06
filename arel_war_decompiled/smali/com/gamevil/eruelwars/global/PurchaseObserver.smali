@@ -25,7 +25,7 @@
 
     .prologue
     .line 34
-    const/4 v0, 0x5
+    const/4 v0, 0x7
 
     new-array v0, v0, [Ljava/lang/Class;
 
@@ -77,7 +77,7 @@
     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
 
     .line 33
-    const/4 v0, 0x5
+    const/4 v0, 0x7
 
     new-array v0, v0, [Ljava/lang/Object;
 

@@ -301,7 +301,7 @@
     .locals 3
 
     .prologue
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     .line 97
     invoke-virtual {p0}, Lcom/gamevil/eruelwars/global/BillingService$BillingRequest;->runIfConnected()Z

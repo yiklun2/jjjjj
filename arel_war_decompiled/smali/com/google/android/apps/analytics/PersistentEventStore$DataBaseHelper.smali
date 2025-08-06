@@ -43,7 +43,7 @@
 .method private createCustomVariableTables(Landroid/database/sqlite/SQLiteDatabase;)V
     .locals 6
 
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     const/4 v5, 0x0
 
@@ -697,7 +697,7 @@
 .method public onUpgrade(Landroid/database/sqlite/SQLiteDatabase;II)V
     .locals 1
 
-    const/4 v0, 0x2
+    const/4 v0, 0x7
 
     if-ne p3, v0, :cond_0
 

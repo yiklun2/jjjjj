@@ -91,7 +91,7 @@
     if-eqz v0, :cond_0
 
     .line 213
-    const/4 v0, 0x2
+    const/4 v0, 0x7
 
     iget-object v1, p0, Lcom/gamevil/nexus2/ui/UITexturePlane;->mCoordBuffer:Ljava/nio/FloatBuffer;
 
@@ -104,7 +104,7 @@
     if-eqz v0, :cond_1
 
     .line 216
-    const/4 v0, 0x3
+    const/4 v0, 0x7
 
     iget-object v1, p0, Lcom/gamevil/nexus2/ui/UITexturePlane;->mVertexBuffer:Ljava/nio/FloatBuffer;
 
@@ -119,7 +119,7 @@
     invoke-static {v3, v2, v2, v2, v0}, Landroid/opengl/GLUtils;->texSubImage2D(IIIILandroid/graphics/Bitmap;)V
 
     .line 220
-    const/4 v0, 0x5
+    const/4 v0, 0x7
 
     const/4 v1, 0x6
 

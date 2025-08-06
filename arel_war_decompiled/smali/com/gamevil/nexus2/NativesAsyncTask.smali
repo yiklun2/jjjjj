@@ -96,7 +96,7 @@
     invoke-static {v0, v1}, Landroid/os/SystemClock;->sleep(J)V
 
     .line 50
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     invoke-static {v0}, Ljava/lang/Integer;->valueOf(I)Ljava/lang/Integer;
 
@@ -124,7 +124,7 @@
 
     .prologue
     .line 71
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     iput-boolean v0, p0, Lcom/gamevil/nexus2/NativesAsyncTask;->m_bCancelled:Z
 

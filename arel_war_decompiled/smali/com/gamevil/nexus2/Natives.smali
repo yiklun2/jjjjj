@@ -59,7 +59,7 @@
     sput-object v0, Lcom/gamevil/nexus2/Natives;->gameActivityClass:Ljava/lang/Class;
 
     .line 140
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     sput v0, Lcom/gamevil/nexus2/Natives;->isHelpPageEng:I
 
@@ -1831,7 +1831,7 @@
     .locals 3
 
     .prologue
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     .line 1793
     sget-object v1, Ljava/lang/System;->out:Ljava/io/PrintStream;
@@ -2010,7 +2010,7 @@
     if-eqz v4, :cond_2
 
     .line 691
-    const/4 v0, 0x1
+    const/4 v0, 0x7
 
     .line 698
     :goto_1
