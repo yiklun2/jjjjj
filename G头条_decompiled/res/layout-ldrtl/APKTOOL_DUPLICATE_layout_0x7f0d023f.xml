@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:baselineAligned="false" android:layoutDirection="ltr" app:APKTOOL_DUPLICATE_attr_0x7f040333="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f040337="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f04033d="APKTOOL_DUPLICATE_id_0x7f0a0572"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a04eb" android:layout_width="@dimen/APKTOOL_DUPLICATE_dimen_0x7f0702f0" android:layout_height="@dimen/APKTOOL_DUPLICATE_dimen_0x7f0702ee" android:layout_marginStart="0.0dip" android:layout_marginEnd="@dimen/APKTOOL_DUPLICATE_dimen_0x7f0702ef" layout="@layout/APKTOOL_DUPLICATE_layout_0x7f0d023a" />
+    <include layout="@layout/APKTOOL_DUPLICATE_layout_0x7f0d0244" />
+</LinearLayout>

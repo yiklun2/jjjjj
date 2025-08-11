@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="arg">
+        <item quantity="other">快进 %d 秒</item>
+        <item quantity="one">快进 %d 秒</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f100001">
+        <item quantity="other">快退 %d 秒</item>
+        <item quantity="one">快退 %d 秒</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f100002">
+        <item quantity="other">%d 条新通知</item>
+        <item quantity="one">%d 条新通知</item>
+    </plurals>
+</resources>

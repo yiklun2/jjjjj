@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f08013e" android:padding="6.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a029c" android:layout_width="50.0dip" android:layout_height="50.0dip" android:layout_centerVertical="true" />
+    <TextView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0aee" android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f080141" android:visibility="invisible" android:layout_width="12.0dip" android:layout_height="12.0dip" android:layout_margin="4.0dip" android:layout_alignEnd="@id/APKTOOL_DUPLICATE_id_0x7f0a029c" />
+    <com.luck.picture.lib.widget.MediumBoldTextView android:textSize="16.0sp" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f0603ab" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0ae5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="@string/APKTOOL_DUPLICATE_string_0x7f120231" android:layout_marginStart="10.0dip" android:layout_toEndOf="@id/APKTOOL_DUPLICATE_id_0x7f0a029c" />
+</RelativeLayout>

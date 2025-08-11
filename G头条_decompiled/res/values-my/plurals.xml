@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="arg">
+        <item quantity="other">ရှေ့သို့ %d စက္ကန့်ရစ်ရန်</item>
+        <item quantity="one">ရှေ့သို့ %d စက္ကန့်ရစ်ရန်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f100001">
+        <item quantity="other">နောက်သို့ %d စက္ကန့်ရစ်ရန်</item>
+        <item quantity="one">နောက်သို့ %d စက္ကန့်ရစ်ရန်</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f100002">
+        <item quantity="other">အကြောင်းကြားချက်အသစ် %d ခု</item>
+        <item quantity="one">အကြောင်းကြားချက်အသစ် %d ခု</item>
+    </plurals>
+</resources>

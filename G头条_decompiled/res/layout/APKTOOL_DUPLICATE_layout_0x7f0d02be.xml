@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f08022a" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="12.0dip" android:textStyle="bold" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06004c" android:paddingTop="12.0dip" android:paddingBottom="12.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="用户等级" android:layout_weight="1.0" android:paddingStart="14.0dip" />
+        <View android:background="@color/APKTOOL_DUPLICATE_color_0x7f060103" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+        <TextView android:textSize="12.0dip" android:textStyle="bold" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06004c" android:gravity="center" android:layout_gravity="center" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="上传大小/单部" android:layout_weight="1.5" />
+        <View android:background="@color/APKTOOL_DUPLICATE_color_0x7f060103" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+        <TextView android:textSize="12.0dip" android:textStyle="bold" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06004c" android:gravity="center" android:layout_gravity="center" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="每日上传数量" android:layout_weight="1.5" />
+        <View android:background="@color/APKTOOL_DUPLICATE_color_0x7f060103" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+        <TextView android:textSize="12.0dip" android:textStyle="bold" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06004c" android:gravity="center" android:layout_gravity="center" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="分成比例" android:layout_weight="1.0" />
+    </LinearLayout>
+    <LinearLayout android:background="@color/APKTOOL_DUPLICATE_color_0x7f06013f" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="12.0dip" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f060084" android:paddingTop="12.0dip" android:paddingBottom="12.0dip" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="游客用户" android:layout_weight="1.0" android:paddingStart="14.0dip" />
+        <View android:background="@color/APKTOOL_DUPLICATE_color_0x7f060103" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+        <TextView android:textSize="12.0dip" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f060084" android:gravity="center" android:layout_gravity="center" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="无法上传" android:layout_weight="1.5" />
+        <View android:background="@color/APKTOOL_DUPLICATE_color_0x7f060103" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+        <TextView android:textSize="12.0dip" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f060084" android:gravity="center" android:layout_gravity="center" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="0" android:layout_weight="1.5" />
+        <View android:background="@color/APKTOOL_DUPLICATE_color_0x7f060103" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+        <TextView android:textSize="12.0dip" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f060084" android:gravity="center" android:layout_gravity="center" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="0" android:layout_weight="1.0" />
+    </LinearLayout>
+    <LinearLayout android:background="@color/APKTOOL_DUPLICATE_color_0x7f06012b" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <androidx.constraintlayout.widget.ConstraintLayout android:orientation="vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a04c8" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <TextView android:textSize="12.0dip" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f060084" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0abd" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="普通会员" android:paddingStart="14.0dip" app:APKTOOL_DUPLICATE_attr_0x7f040339="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f04033d="APKTOOL_DUPLICATE_id_0x7f0a0572" />
+            <LinearLayout android:paddingBottom="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2.0dip" android:paddingStart="14.0dip" app:APKTOOL_DUPLICATE_attr_0x7f040339="@id/APKTOOL_DUPLICATE_id_0x7f0a0abd" app:APKTOOL_DUPLICATE_attr_0x7f04033c="@id/APKTOOL_DUPLICATE_id_0x7f0a0abd">
+                <TextView android:textSize="12.0dip" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f060116" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="获取" />
+                <ImageView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f00ec" android:layout_marginStart="6.0dip" />
+            </LinearLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <View android:background="@color/APKTOOL_DUPLICATE_color_0x7f060103" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+        <TextView android:textSize="12.0dip" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f060084" android:layout_gravity="center" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="GV：80mb\n小蓝片：20mb" android:layout_weight="1.5" android:paddingStart="12.0dip" />
+        <View android:background="@color/APKTOOL_DUPLICATE_color_0x7f060103" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+        <TextView android:textSize="12.0dip" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f060084" android:gravity="center" android:layout_gravity="center" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="1" android:layout_weight="1.5" />
+        <View android:background="@color/APKTOOL_DUPLICATE_color_0x7f060103" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+        <TextView android:textSize="12.0dip" android:textStyle="bold" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06004c" android:gravity="center" android:layout_gravity="center" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="15%起" android:layout_weight="1.0" />
+    </LinearLayout>
+    <LinearLayout android:background="@color/APKTOOL_DUPLICATE_color_0x7f06013f" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <androidx.constraintlayout.widget.ConstraintLayout android:orientation="vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a04c9" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <TextView android:textSize="12.0dip" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f060084" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0ab2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="V1会员" android:paddingStart="14.0dip" app:APKTOOL_DUPLICATE_attr_0x7f040339="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f04033d="APKTOOL_DUPLICATE_id_0x7f0a0572" />
+            <LinearLayout android:paddingBottom="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2.0dip" android:paddingStart="14.0dip" app:APKTOOL_DUPLICATE_attr_0x7f040339="@id/APKTOOL_DUPLICATE_id_0x7f0a0ab2" app:APKTOOL_DUPLICATE_attr_0x7f04033c="@id/APKTOOL_DUPLICATE_id_0x7f0a0ab2">
+                <TextView android:textSize="12.0dip" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f060116" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="获取" />
+                <ImageView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f00ec" android:layout_marginStart="6.0dip" />
+            </LinearLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <View android:background="@color/APKTOOL_DUPLICATE_color_0x7f060103" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+        <TextView android:textSize="12.0dip" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f060084" android:layout_gravity="center" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="GV：100mb\n小蓝片：30mb" android:layout_weight="1.5" android:paddingStart="12.0dip" />
+        <View android:background="@color/APKTOOL_DUPLICATE_color_0x7f060103" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+        <TextView android:textSize="12.0dip" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f060084" android:gravity="center" android:layout_gravity="center" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="5" android:layout_weight="1.5" />
+        <View android:background="@color/APKTOOL_DUPLICATE_color_0x7f060103" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+        <TextView android:textSize="12.0dip" android:textStyle="bold" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06004c" android:gravity="center" android:layout_gravity="center" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="30%起" android:layout_weight="1.0" />
+    </LinearLayout>
+    <LinearLayout android:background="@color/APKTOOL_DUPLICATE_color_0x7f06012b" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <androidx.constraintlayout.widget.ConstraintLayout android:orientation="vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a04cc" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <TextView android:textSize="12.0dip" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f060084" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0aba" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="V2会员" android:paddingStart="14.0dip" app:APKTOOL_DUPLICATE_attr_0x7f040339="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f04033d="APKTOOL_DUPLICATE_id_0x7f0a0572" />
+            <LinearLayout android:paddingBottom="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2.0dip" android:paddingStart="14.0dip" app:APKTOOL_DUPLICATE_attr_0x7f040339="@id/APKTOOL_DUPLICATE_id_0x7f0a0aba" app:APKTOOL_DUPLICATE_attr_0x7f04033c="@id/APKTOOL_DUPLICATE_id_0x7f0a0aba">
+                <TextView android:textSize="12.0dip" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f060116" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="获取" />
+                <ImageView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f00ec" android:layout_marginStart="6.0dip" />
+            </LinearLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <View android:background="@color/APKTOOL_DUPLICATE_color_0x7f060103" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+        <TextView android:textSize="12.0dip" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f060084" android:layout_gravity="center" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="GV：150mb\n小蓝片：50mb" android:layout_weight="1.5" android:paddingStart="12.0dip" />
+        <View android:background="@color/APKTOOL_DUPLICATE_color_0x7f060103" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+        <TextView android:textSize="12.0dip" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f060084" android:gravity="center" android:layout_gravity="center" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="10" android:layout_weight="1.5" />
+        <View android:background="@color/APKTOOL_DUPLICATE_color_0x7f060103" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+        <TextView android:textSize="12.0dip" android:textStyle="bold" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06004c" android:gravity="center" android:layout_gravity="center" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="35%起" android:layout_weight="1.0" />
+    </LinearLayout>
+    <LinearLayout android:background="@color/APKTOOL_DUPLICATE_color_0x7f06013f" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <androidx.constraintlayout.widget.ConstraintLayout android:orientation="vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a04ca" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <TextView android:textSize="12.0dip" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f060084" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0ab6" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="V3会员" android:paddingStart="14.0dip" app:APKTOOL_DUPLICATE_attr_0x7f040339="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f04033d="APKTOOL_DUPLICATE_id_0x7f0a0572" />
+            <LinearLayout android:paddingBottom="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2.0dip" android:paddingStart="14.0dip" app:APKTOOL_DUPLICATE_attr_0x7f040339="@id/APKTOOL_DUPLICATE_id_0x7f0a0ab6" app:APKTOOL_DUPLICATE_attr_0x7f04033c="@id/APKTOOL_DUPLICATE_id_0x7f0a0ab6">
+                <TextView android:textSize="12.0dip" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f060116" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="获取" />
+                <ImageView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f00ec" android:layout_marginStart="6.0dip" />
+            </LinearLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <View android:background="@color/APKTOOL_DUPLICATE_color_0x7f060103" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+        <TextView android:textSize="12.0dip" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f060084" android:layout_gravity="center" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="GV：300mb\n小蓝片：80mb" android:layout_weight="1.5" android:paddingStart="12.0dip" />
+        <View android:background="@color/APKTOOL_DUPLICATE_color_0x7f060103" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+        <TextView android:textSize="12.0dip" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f060084" android:gravity="center" android:layout_gravity="center" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="20" android:layout_weight="1.5" />
+        <View android:background="@color/APKTOOL_DUPLICATE_color_0x7f060103" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+        <TextView android:textSize="12.0dip" android:textStyle="bold" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06004c" android:gravity="center" android:layout_gravity="center" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="40%起" android:layout_weight="1.0" />
+    </LinearLayout>
+    <LinearLayout android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f080197" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <androidx.constraintlayout.widget.ConstraintLayout android:orientation="vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a04cb" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <TextView android:textSize="12.0dip" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06017b" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0ab7" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="V3+官方签约" android:paddingStart="14.0dip" app:APKTOOL_DUPLICATE_attr_0x7f040339="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f04033d="APKTOOL_DUPLICATE_id_0x7f0a0572" />
+            <LinearLayout android:paddingBottom="5.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2.0dip" android:paddingStart="14.0dip" app:APKTOOL_DUPLICATE_attr_0x7f040339="@id/APKTOOL_DUPLICATE_id_0x7f0a0ab7" app:APKTOOL_DUPLICATE_attr_0x7f04033c="@id/APKTOOL_DUPLICATE_id_0x7f0a0ab7">
+                <TextView android:textSize="12.0dip" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06017b" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="获取" />
+                <ImageView android:layout_gravity="center" android:layout_width="13.0dip" android:layout_height="13.0dip" android:src="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f0026" android:layout_marginStart="6.0dip" />
+            </LinearLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <View android:background="@color/APKTOOL_DUPLICATE_color_0x7f060103" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+        <TextView android:textSize="12.0dip" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06017b" android:layout_gravity="center" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="GV：不受限制\n小蓝片：100mb" android:layout_weight="1.5" android:paddingStart="12.0dip" />
+        <View android:background="@color/APKTOOL_DUPLICATE_color_0x7f060103" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+        <TextView android:textSize="12.0dip" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06017b" android:gravity="center" android:layout_gravity="center" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="不受限制" android:layout_weight="1.5" />
+        <View android:background="@color/APKTOOL_DUPLICATE_color_0x7f060103" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+        <TextView android:textSize="12.0dip" android:textStyle="bold" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06017b" android:gravity="center" android:layout_gravity="center" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="50%起" android:layout_weight="1.0" />
+    </LinearLayout>
+</LinearLayout>

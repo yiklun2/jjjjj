@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="arg">
+        <item quantity="other">Premotavanje %d sekundi naprijed</item>
+        <item quantity="one">Premotavanje %d sekundu naprijed</item>
+        <item quantity="few">Premotavanje %d sekunde naprijed</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f100001">
+        <item quantity="other">Premotavanje %d sekundi nazad</item>
+        <item quantity="one">Premotavanje %d sekundu nazad</item>
+        <item quantity="few">Premotavanje %d sekunde nazad</item>
+    </plurals>
+    <plurals name="APKTOOL_DUPLICATE_plurals_0x7f100002">
+        <item quantity="other">%d novih obavještenja</item>
+        <item quantity="one">%d novo obavještenje</item>
+        <item quantity="few">%d nova obavještenja</item>
+    </plurals>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="arg">Navigate home</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120001">Navigate up</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120002">More options</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120003">Done</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120004">See all</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120005">Choose an app</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120006">OFF</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120007">ON</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120008">Alt+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120009">Ctrl+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12000a">delete</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12000b">enter</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12000c">Function+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12000d">Meta+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12000e">Shift+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12000f">space</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120010">Sym+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120011">Menu+</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120012">Search…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120013">Clear query</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120014">Search query</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120015">Search</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120016">Submit query</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120017">Voice search</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120018">Share with</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120019">Share with %s</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12001a">Collapse</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12028a">Search</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12031e">999+</string>
+</resources>

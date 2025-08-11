@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a028e" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:layout_gravity="bottom|center|right" android:orientation="horizontal" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a028d" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a028c" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f02be" android:scaleType="fitXY" />
+        <TextView android:textSize="14.0sp" android:textColor="#ff333333" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a028f" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="展开" />
+        <TextView android:textSize="14.0sp" android:textColor="#ff333333" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a028b" android:visibility="invisible" android:layout_width="0.5dip" android:layout_height="wrap_content" android:text="" />
+    </LinearLayout>
+    <TextView android:textSize="14.0sp" android:textColor="#ff333333" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a028a" android:layout_width="fill_parent" android:layout_height="wrap_content" android:lines="2" />
+</FrameLayout>
