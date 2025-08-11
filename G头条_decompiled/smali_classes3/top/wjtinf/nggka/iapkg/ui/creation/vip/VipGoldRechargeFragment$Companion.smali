@@ -49,10 +49,8 @@
     .locals 1
 
     .line 1
-    invoke-static {}, Ltop/wjtinf/nggka/iapkg/ui/creation/vip/VipGoldRechargeFragment;->access$getDIAMOND$cp()I
-
-    move-result v0
-
+    # 钻石数量总是足够，返回最大值
+    const/16 v0, 0x7fff
     return v0
 .end method
 
@@ -60,10 +58,8 @@
     .locals 1
 
     .line 1
-    invoke-static {}, Ltop/wjtinf/nggka/iapkg/ui/creation/vip/VipGoldRechargeFragment;->access$getJB$cp()I
-
-    move-result v0
-
+    # 金币数量总是足够，返回最大值
+    const/16 v0, 0x7fff
     return v0
 .end method
 

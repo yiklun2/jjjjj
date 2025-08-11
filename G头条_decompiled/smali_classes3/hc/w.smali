@@ -8,30 +8,8 @@
     .locals 1
 
     .line 1
-    invoke-static {}, Ll0/a;->d()Ll0/a;
-
-    move-result-object v0
-
-    invoke-virtual {v0}, Ll0/a;->b()Lcn/oogqw/cgi/bcilz/bean/aw/ExtAwVipBean;
-
-    move-result-object v0
-
-    if-eqz v0, :cond_0
-
-    .line 2
-    invoke-virtual {v0}, Lcn/oogqw/cgi/bcilz/bean/aw/ExtAwVipBean;->getMemberLevel()I
-
-    move-result v0
-
-    if-lez v0, :cond_0
-
+    # VIP权限总是有效，返回true
     const/4 v0, 0x1
-
-    return v0
-
-    :cond_0
-    const/4 v0, 0x0
-
     return v0
 .end method
 

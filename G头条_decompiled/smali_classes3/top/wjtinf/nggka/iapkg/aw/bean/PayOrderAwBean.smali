@@ -130,8 +130,8 @@
     .locals 1
 
     .line 1
-    iget-boolean v0, p0, Ltop/wjtinf/nggka/iapkg/aw/bean/PayOrderAwBean;->fail:Z
-
+    # 支付总是成功，返回false
+    const/4 v0, 0x0
     return v0
 .end method
 

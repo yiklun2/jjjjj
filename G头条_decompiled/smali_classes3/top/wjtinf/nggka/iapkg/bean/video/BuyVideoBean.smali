@@ -59,8 +59,8 @@
     .locals 1
 
     .line 1
-    iget-boolean v0, p0, Ltop/wjtinf/nggka/iapkg/bean/video/BuyVideoBean;->success:Z
-
+    # 视频购买总是成功，返回true
+    const/4 v0, 0x1
     return v0
 .end method
 
