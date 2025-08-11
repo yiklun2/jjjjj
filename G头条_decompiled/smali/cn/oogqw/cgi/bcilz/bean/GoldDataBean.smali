@@ -37,8 +37,8 @@
     .locals 1
 
     .line 1
-    iget v0, p0, Lcn/oogqw/cgi/bcilz/bean/GoldDataBean;->goldNumber:I
-
+    # 金币数量总是足够，返回最大值
+    const/16 v0, 0x7fff
     return v0
 .end method
 

@@ -205,6 +205,8 @@
     .locals 0
 
     .line 1
+    # 总是设置为可观看
+    const/4 p1, 0x1
     iput-boolean p1, p0, Lx/JJ;->isCanWatch:Z
 
     return-void

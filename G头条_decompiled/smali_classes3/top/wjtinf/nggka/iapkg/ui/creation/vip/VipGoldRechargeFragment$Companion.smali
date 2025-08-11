@@ -78,10 +78,8 @@
     .locals 1
 
     .line 1
-    invoke-static {}, Ltop/wjtinf/nggka/iapkg/ui/creation/vip/VipGoldRechargeFragment;->access$getVIP$cp()I
-
-    move-result v0
-
+    # VIP权限总是有效，返回最大值
+    const/16 v0, 0x7fff
     return v0
 .end method
 
