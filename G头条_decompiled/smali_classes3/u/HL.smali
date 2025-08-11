@@ -172,57 +172,10 @@
 .end method
 
 .method private final showPayPop()V
-    .locals 4
+    .locals 0
 
     .line 1
-    new-instance v0, Lcom/lxj/xpopup/XPopup$Builder;
-
-    iget-object v1, p0, Lcn/oogqw/cgi/bcilz/fragmentation/SupportFragment;->_mActivity:Lcn/oogqw/cgi/bcilz/fragmentation/SupportActivity;
-
-    invoke-direct {v0, v1}, Lcom/lxj/xpopup/XPopup$Builder;-><init>(Landroid/content/Context;)V
-
-    sget-object v1, Ljava/lang/Boolean;->FALSE:Ljava/lang/Boolean;
-
-    invoke-virtual {v0, v1}, Lcom/lxj/xpopup/XPopup$Builder;->g(Ljava/lang/Boolean;)Lcom/lxj/xpopup/XPopup$Builder;
-
-    move-result-object v0
-
-    sget-object v2, Ljava/lang/Boolean;->TRUE:Ljava/lang/Boolean;
-
-    invoke-virtual {v0, v2}, Lcom/lxj/xpopup/XPopup$Builder;->f(Ljava/lang/Boolean;)Lcom/lxj/xpopup/XPopup$Builder;
-
-    move-result-object v0
-
-    invoke-virtual {v0, v1}, Lcom/lxj/xpopup/XPopup$Builder;->j(Ljava/lang/Boolean;)Lcom/lxj/xpopup/XPopup$Builder;
-
-    move-result-object v0
-
-    new-instance v1, Ltop/wjtinf/nggka/iapkg/dialog/PayOrderLoadingPopup;
-
-    iget-object v2, p0, Lcn/oogqw/cgi/bcilz/fragmentation/SupportFragment;->_mActivity:Lcn/oogqw/cgi/bcilz/fragmentation/SupportActivity;
-
-    const-string v3, "_mActivity"
-
-    invoke-static {v2, v3}, Lkotlin/jvm/internal/Intrinsics;->checkNotNullExpressionValue(Ljava/lang/Object;Ljava/lang/String;)V
-
-    invoke-direct {v1, v2}, Ltop/wjtinf/nggka/iapkg/dialog/PayOrderLoadingPopup;-><init>(Landroid/content/Context;)V
-
-    invoke-virtual {v0, v1}, Lcom/lxj/xpopup/XPopup$Builder;->b(Lcom/lxj/xpopup/core/BasePopupView;)Lcom/lxj/xpopup/core/BasePopupView;
-
-    move-result-object v0
-
-    invoke-virtual {v0}, Lcom/lxj/xpopup/core/BasePopupView;->show()Lcom/lxj/xpopup/core/BasePopupView;
-
-    move-result-object v0
-
-    const-string v1, "null cannot be cast to non-null type top.wjtinf.nggka.iapkg.dialog.PayOrderLoadingPopup"
-
-    invoke-static {v0, v1}, Ljava/util/Objects;->requireNonNull(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;
-
-    check-cast v0, Ltop/wjtinf/nggka/iapkg/dialog/PayOrderLoadingPopup;
-
-    iput-object v0, p0, Lu/HL;->mPayOrderLoadingPopup:Ltop/wjtinf/nggka/iapkg/dialog/PayOrderLoadingPopup;
-
+    # 支付弹窗已禁用，直接返回
     return-void
 .end method
 
