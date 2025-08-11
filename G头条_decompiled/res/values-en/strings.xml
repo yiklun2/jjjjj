@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12003a">Click to load more</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12003b">No more data</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12003c">load more failed</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12003d">Loading...</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12021a">Cancel</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12021b" />
+    <string name="APKTOOL_DUPLICATE_string_0x7f12021c" />
+    <string name="APKTOOL_DUPLICATE_string_0x7f12021d" />
+    <string name="APKTOOL_DUPLICATE_string_0x7f12021e" />
+    <string name="APKTOOL_DUPLICATE_string_0x7f12021f" />
+    <string name="APKTOOL_DUPLICATE_string_0x7f120220">Confirm</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120221" />
+</resources>

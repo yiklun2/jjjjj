@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:background="@color/APKTOOL_DUPLICATE_color_0x7f060111" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.scwang.smart.refresh.layout.SmartRefreshLayout android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a06ba" android:paddingTop="7.0dip" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginTop="7.0dip" app:APKTOOL_DUPLICATE_attr_0x7f04031f="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f04033d="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f0404fe="true">
+        <androidx.recyclerview.widget.RecyclerView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a05f5" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="wrap_content" app:APKTOOL_DUPLICATE_attr_0x7f04033c="@id/APKTOOL_DUPLICATE_id_0x7f0a0991" />
+    </com.scwang.smart.refresh.layout.SmartRefreshLayout>
+    <a.D android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0b9d" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ImageView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a032f" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="40.0dip" android:src="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f0102" android:layout_marginEnd="10.0dip" app:APKTOOL_DUPLICATE_attr_0x7f04031f="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f040325="APKTOOL_DUPLICATE_id_0x7f0a0572" />
+</androidx.constraintlayout.widget.ConstraintLayout>

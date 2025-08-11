@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a01d2" android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f0802a5" android:layout_width="fill_parent" android:layout_height="200.0dip" app:APKTOOL_DUPLICATE_attr_0x7f040339="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f04033d="APKTOOL_DUPLICATE_id_0x7f0a0572">
+        <com.github.lzyzsd.jsbridge.BridgeWebView android:layout_gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0b47" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a04ad" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <a.O android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a04d7" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="加载中" />
+        </LinearLayout>
+    </FrameLayout>
+    <TextView android:textSize="14.0dip" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06017b" android:gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a07d5" android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f0801e5" android:layout_width="0.0dip" android:layout_height="40.0dip" android:layout_marginTop="20.0dip" android:text="关闭" app:APKTOOL_DUPLICATE_attr_0x7f040326="@id/APKTOOL_DUPLICATE_id_0x7f0a09f2" app:APKTOOL_DUPLICATE_attr_0x7f040339="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f04033c="@id/APKTOOL_DUPLICATE_id_0x7f0a01d2" />
+    <TextView android:textSize="14.0dip" android:textStyle="bold" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f060084" android:gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a09f2" android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f0801c6" android:layout_width="0.0dip" android:layout_height="40.0dip" android:text="刷新" android:layout_marginStart="10.0dip" app:APKTOOL_DUPLICATE_attr_0x7f04031f="@id/APKTOOL_DUPLICATE_id_0x7f0a07d5" app:APKTOOL_DUPLICATE_attr_0x7f040325="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f040338="@id/APKTOOL_DUPLICATE_id_0x7f0a07d5" app:APKTOOL_DUPLICATE_attr_0x7f04033d="@id/APKTOOL_DUPLICATE_id_0x7f0a07d5" />
+</androidx.constraintlayout.widget.ConstraintLayout>

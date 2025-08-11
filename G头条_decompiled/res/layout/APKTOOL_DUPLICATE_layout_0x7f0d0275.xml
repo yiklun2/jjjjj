@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:layout_width="fill_parent" android:layout_height="@dimen/APKTOOL_DUPLICATE_dimen_0x7f0703e0" layout="@layout/APKTOOL_DUPLICATE_layout_0x7f0d0137" />
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0747" android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="fill_parent" android:minHeight="150.0dip">
+        <com.contrarywind.view.WheelView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0bab" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="0.96" />
+        <com.contrarywind.view.WheelView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0509" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        <com.contrarywind.view.WheelView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a01f9" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        <com.contrarywind.view.WheelView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a02eb" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        <com.contrarywind.view.WheelView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a04ff" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        <com.contrarywind.view.WheelView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a066e" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="APKTOOL_DUPLICATE_style_0x7f130051" parent="@style/APKTOOL_DUPLICATE_style_0x7f1300b0" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f130058" parent="@style/APKTOOL_DUPLICATE_style_0x7f1300b1" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f1300f5" parent="@style/APKTOOL_DUPLICATE_style_0x7f1300b2" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f13035a" parent="@android:style/Widget">
+        <item name="android:background">?APKTOOL_DUPLICATE_attr_0x7f04013a</item>
+        <item name="android:stateListAnimator">@animator/arg</item>
+        <item name="android:touchscreenBlocksFocus">true</item>
+        <item name="android:keyboardNavigationCluster">true</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f1300b0" parent="@style/APKTOOL_DUPLICATE_style_0x7f1300aa">
+        <item name="APKTOOL_DUPLICATE_attr_0x7f040129">?android:colorError</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f1300b1" parent="@style/APKTOOL_DUPLICATE_style_0x7f1300ab">
+        <item name="APKTOOL_DUPLICATE_attr_0x7f040129">?android:colorError</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f1300b2" parent="@style/APKTOOL_DUPLICATE_style_0x7f1300bc">
+        <item name="android:touchscreenBlocksFocus">true</item>
+        <item name="android:keyboardNavigationCluster">true</item>
+    </style>
+</resources>

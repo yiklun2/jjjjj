@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:background="@color/APKTOOL_DUPLICATE_color_0x7f060061" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.scwang.smart.refresh.layout.SmartRefreshLayout android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a06ac" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <androidx.recyclerview.widget.RecyclerView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a05ce" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginStart="20.0dip" android:layout_marginEnd="20.0dip" />
+    </com.scwang.smart.refresh.layout.SmartRefreshLayout>
+    <a.D android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0b9d" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <TextView android:textSize="14.0dip" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06017b" android:gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a078a" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="此号违反平台公约，已被封号" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,58 @@
+.class public Ltop/wjtinf/nggka/iapkg/bean/home/BloodEarnListBean$DayAfterBean$DataBean$ConsumerBean$IncomeBean;
+.super Ljava/lang/Object;
+.source "BloodEarnListBean.java"
+
+# interfaces
+.implements Ljava/io/Serializable;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Ltop/wjtinf/nggka/iapkg/bean/home/BloodEarnListBean$DayAfterBean$DataBean$ConsumerBean;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x9
+    name = "IncomeBean"
+.end annotation
+
+.annotation system Ldalvik/annotation/MemberClasses;
+    value = {
+        Ltop/wjtinf/nggka/iapkg/bean/home/BloodEarnListBean$DayAfterBean$DataBean$ConsumerBean$IncomeBean$IncomeAfterDayBean;
+    }
+.end annotation
+
+
+# instance fields
+.field private incomeAfterDay:Ltop/wjtinf/nggka/iapkg/bean/home/BloodEarnListBean$DayAfterBean$DataBean$ConsumerBean$IncomeBean$IncomeAfterDayBean;
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 0
+
+    .line 1
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public getIncomeAfterDay()Ltop/wjtinf/nggka/iapkg/bean/home/BloodEarnListBean$DayAfterBean$DataBean$ConsumerBean$IncomeBean$IncomeAfterDayBean;
+    .locals 1
+
+    .line 1
+    iget-object v0, p0, Ltop/wjtinf/nggka/iapkg/bean/home/BloodEarnListBean$DayAfterBean$DataBean$ConsumerBean$IncomeBean;->incomeAfterDay:Ltop/wjtinf/nggka/iapkg/bean/home/BloodEarnListBean$DayAfterBean$DataBean$ConsumerBean$IncomeBean$IncomeAfterDayBean;
+
+    return-object v0
+.end method
+
+.method public setIncomeAfterDay(Ltop/wjtinf/nggka/iapkg/bean/home/BloodEarnListBean$DayAfterBean$DataBean$ConsumerBean$IncomeBean$IncomeAfterDayBean;)V
+    .locals 0
+
+    .line 1
+    iput-object p1, p0, Ltop/wjtinf/nggka/iapkg/bean/home/BloodEarnListBean$DayAfterBean$DataBean$ConsumerBean$IncomeBean;->incomeAfterDay:Ltop/wjtinf/nggka/iapkg/bean/home/BloodEarnListBean$DayAfterBean$DataBean$ConsumerBean$IncomeBean$IncomeAfterDayBean;
+
+    return-void
+.end method

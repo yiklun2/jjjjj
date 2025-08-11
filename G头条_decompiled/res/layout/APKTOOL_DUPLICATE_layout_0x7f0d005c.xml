@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:orientation="vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a02c9" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <com.haibin.calendarview.MonthViewPager android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0b70" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="41.0dip" />
+        <com.haibin.calendarview.WeekViewPager android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0b71" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="50.0dip" android:layout_marginTop="41.0dip" />
+        <View android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0489" android:background="#ffcfcfcf" android:layout_width="fill_parent" android:layout_height="1.0px" android:layout_marginLeft="16.0dip" android:layout_marginTop="40.0dip" android:layout_marginRight="16.0dip" />
+    </FrameLayout>
+    <com.haibin.calendarview.YearViewPager android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a066f" android:background="#ffffffff" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</merge>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:background="@color/APKTOOL_DUPLICATE_color_0x7f060028" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <a.E android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a074b" android:layout_width="fill_parent" android:layout_height="wrap_content" app:APKTOOL_DUPLICATE_attr_0x7f04033d="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f0405c8="USDT充值教程" />
+    <WebView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0b73" android:background="@color/APKTOOL_DUPLICATE_color_0x7f060028" android:layout_width="fill_parent" android:layout_height="0.0dip" app:APKTOOL_DUPLICATE_attr_0x7f04031f="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f04033c="@id/APKTOOL_DUPLICATE_id_0x7f0a058d" />
+    <ProgressBar android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a058d" android:layout_width="fill_parent" android:layout_height="2.0dip" android:max="100" android:indeterminateOnly="false" android:progressDrawable="@drawable/APKTOOL_DUPLICATE_drawable_0x7f0801d6" app:APKTOOL_DUPLICATE_attr_0x7f04033c="@id/APKTOOL_DUPLICATE_id_0x7f0a074b" style="?android:progressBarStyleHorizontal" />
+</androidx.constraintlayout.widget.ConstraintLayout>
