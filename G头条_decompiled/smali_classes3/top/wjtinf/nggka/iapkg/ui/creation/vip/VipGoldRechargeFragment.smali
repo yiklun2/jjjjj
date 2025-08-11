@@ -89,12 +89,12 @@
     .line 2
     sput v0, Ltop/wjtinf/nggka/iapkg/ui/creation/vip/VipGoldRechargeFragment;->CREATERCARD:I
 
-    const/4 v0, 0x3
+    const/16 v0, 0x7fff
 
     .line 3
     sput v0, Ltop/wjtinf/nggka/iapkg/ui/creation/vip/VipGoldRechargeFragment;->JB:I
 
-    const/4 v0, 0x4
+    const/16 v0, 0x7fff
 
     .line 4
     sput v0, Ltop/wjtinf/nggka/iapkg/ui/creation/vip/VipGoldRechargeFragment;->DIAMOND:I
