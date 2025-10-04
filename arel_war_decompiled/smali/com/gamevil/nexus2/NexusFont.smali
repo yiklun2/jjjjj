@@ -642,7 +642,7 @@
     .restart local v16    # "xx":F
     .restart local v17    # "yy":F
     :cond_4
-    sub-int v18, v6, v11
+    add-int v18, v6, v11
 
     add-int v18, v18, v4
 
@@ -651,7 +651,7 @@
     if-gt v0, v5, :cond_0
 
     .line 415
-    sub-int v18, v6, v11
+    add-int v18, v6, v11
 
     add-int v4, v4, v18
 
@@ -1324,14 +1324,14 @@
     .restart local v4    # "end":I
     .restart local v8    # "start":I
     :cond_3
-    sub-int v14, v4, v8
+    add-int v14, v4, v8
 
     add-int/2addr v14, v2
 
     if-gt v14, v3, :cond_0
 
     .line 530
-    sub-int v14, v4, v8
+    add-int v14, v4, v8
 
     add-int/2addr v2, v14
 

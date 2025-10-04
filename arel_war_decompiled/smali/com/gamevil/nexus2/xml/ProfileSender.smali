@@ -722,7 +722,7 @@
     or-int v8, v11, v12
 
     .line 1189
-    sub-int v11, v8, v0
+    add-int v11, v8, v0
 
     new-array v4, v11, [B
 
@@ -741,7 +741,7 @@
 
     const/4 v12, 0x0
 
-    sub-int v13, v8, v0
+    add-int v13, v8, v0
 
     invoke-virtual {v11, v4, v12, v13}, Ljava/io/DataInputStream;->read([BII)I
 

@@ -517,7 +517,7 @@
     if-lt v11, v2, :cond_5
 
     .line 172
-    sub-int v6, v2, v9
+    add-int v6, v2, v9
 
     .line 173
     const/4 v4, 0x1
