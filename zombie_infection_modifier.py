@@ -5,7 +5,6 @@ Modifies the JAR file to add cheats and enhancements:
 - Infinite money/gold
 - Infinite ammunition (no reload needed)
 - Increased weapon fire rates
-- Bypass door locks and missions
 - 4x character health
 - 2x movement speed
 """
@@ -60,7 +59,6 @@ class ZombieInfectionModifier:
         self.modify_currency_values(class_data)
         self.modify_ammunition_system(class_data)
         self.modify_weapon_speeds(class_data)
-        self.modify_door_system(class_data)
         self.modify_health_values(class_data)
         self.modify_movement_speed(class_data)
         
@@ -108,8 +106,18 @@ class ZombieInfectionModifier:
         """Modify ammunition system for infinite bullets"""
         print("Applying infinite ammunition modifications...")
         
-        # Don't modify bytecode patterns - too aggressive
-        # Only modify specific ammunition values
+        # Use value-based modification for safety. This looks for common ammo
+        # counts (e.g., 15 for pistol, 30 for rifle) and replaces them with a
+        # large number. This is safer than modifying the decrement instruction.
+        self.modify_specific_values(class_data, [
+            (15, 9999),      # Common pistol clip size
+            (20, 9999),
+            (25, 9999),
+            (30, 9999),      # Common rifle clip size
+            (50, 9999),
+            (100, 9999),     # Common for machine guns
+            (200, 9999),
+        ])
         
         self.modifications_applied.append("Infinite ammunition")
     
@@ -126,15 +134,6 @@ class ZombieInfectionModifier:
         ])
         
         self.modifications_applied.append("Increased weapon fire rates")
-    
-    def modify_door_system(self, class_data):
-        """Modify door/lock system to bypass missions"""
-        print("Applying door bypass modifications...")
-        
-        # Don't modify bytecode patterns - causes corruption
-        # Skip door system modifications to avoid crashes
-        
-        self.modifications_applied.append("Door/lock bypass")
     
     def modify_health_values(self, class_data):
         """Modify health values (4x increase)"""
