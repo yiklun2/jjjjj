@@ -912,7 +912,7 @@
     if-lt v9, v1, :cond_5
 
     .line 427
-    sub-int v5, v1, v7
+    add-int v5, v1, v7
 
     .line 428
     const/4 v3, 0x1

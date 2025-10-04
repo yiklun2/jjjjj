@@ -610,7 +610,7 @@
     .local v7, "len":I
     array-length v11, p0
 
-    sub-int v6, v11, v7
+    add-int v6, v11, v7
 
     .line 79
     .local v6, "leftover":I
