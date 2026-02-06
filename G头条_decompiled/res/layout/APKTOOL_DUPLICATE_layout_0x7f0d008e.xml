@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:background="@color/APKTOOL_DUPLICATE_color_0x7f060178" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.recyclerview.widget.RecyclerView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a05c7" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="26.0dip" app:APKTOOL_DUPLICATE_attr_0x7f04033d="APKTOOL_DUPLICATE_id_0x7f0a0572" />
+    <com.scwang.smart.refresh.layout.SmartRefreshLayout android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a06c4" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginTop="14.0dip" app:APKTOOL_DUPLICATE_attr_0x7f04031f="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f04033c="@id/APKTOOL_DUPLICATE_id_0x7f0a05c7" app:APKTOOL_DUPLICATE_attr_0x7f0404fa="false">
+        <androidx.recyclerview.widget.RecyclerView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a05fe" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginStart="20.0dip" android:layout_marginEnd="20.0dip" />
+    </com.scwang.smart.refresh.layout.SmartRefreshLayout>
+    <a.K android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0b9d" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="0.0dip" app:APKTOOL_DUPLICATE_attr_0x7f04031f="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f04033d="APKTOOL_DUPLICATE_id_0x7f0a0572" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.luck.picture.lib.widget.SquareRelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a03f3" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" />
+    <com.luck.picture.lib.widget.MediumBoldTextView android:textSize="12.0sp" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f0603d0" android:gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a07b4" android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f08011c" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="8.0dip" android:layout_alignParentEnd="true" />
+    <View android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a009d" android:background="@color/APKTOOL_DUPLICATE_color_0x7f0603cd" android:layout_width="45.0dip" android:layout_height="45.0dip" android:layout_alignParentEnd="true" />
+    <com.luck.picture.lib.widget.MediumBoldTextView android:textSize="11.0sp" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f0603d0" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0ae9" android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f080122" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/APKTOOL_DUPLICATE_string_0x7f120244" android:layout_alignParentBottom="true" android:layout_alignParentEnd="true" />
+    <ImageView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0368" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="3.0dip" android:src="@drawable/APKTOOL_DUPLICATE_drawable_0x7f08012d" android:layout_alignParentBottom="true" />
+</com.luck.picture.lib.widget.SquareRelativeLayout>

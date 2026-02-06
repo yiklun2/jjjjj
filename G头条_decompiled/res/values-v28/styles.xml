@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="APKTOOL_DUPLICATE_style_0x7f130051" parent="@style/APKTOOL_DUPLICATE_style_0x7f1300b3" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f130058" parent="@style/APKTOOL_DUPLICATE_style_0x7f1300b4" />
+    <style name="APKTOOL_DUPLICATE_style_0x7f13009c" parent="@style/APKTOOL_DUPLICATE_style_0x7f1302b2">
+        <item name="android:backgroundDimAmount">0.32</item>
+        <item name="android:checkedTextViewStyle">@style/APKTOOL_DUPLICATE_style_0x7f13040e</item>
+        <item name="android:dialogCornerRadius">@null</item>
+        <item name="APKTOOL_DUPLICATE_attr_0x7f040030">@style/APKTOOL_DUPLICATE_style_0x7f13014b</item>
+        <item name="APKTOOL_DUPLICATE_attr_0x7f04009f">@style/APKTOOL_DUPLICATE_style_0x7f130406</item>
+        <item name="APKTOOL_DUPLICATE_attr_0x7f0400a0">@style/APKTOOL_DUPLICATE_style_0x7f130406</item>
+        <item name="APKTOOL_DUPLICATE_attr_0x7f0400a1">@style/APKTOOL_DUPLICATE_style_0x7f130407</item>
+        <item name="APKTOOL_DUPLICATE_attr_0x7f0400a2">@style/APKTOOL_DUPLICATE_style_0x7f130406</item>
+        <item name="APKTOOL_DUPLICATE_attr_0x7f04038b">@style/APKTOOL_DUPLICATE_style_0x7f13014c</item>
+        <item name="APKTOOL_DUPLICATE_attr_0x7f04038c">@integer/APKTOOL_DUPLICATE_integer_0x7f0b002d</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f130367" parent="@style/APKTOOL_DUPLICATE_style_0x7f1303f3">
+        <item name="android:outlineSpotShadowColor">@android:color/transparent</item>
+        <item name="android:outlineAmbientShadowColor">@android:color/transparent</item>
+        <item name="APKTOOL_DUPLICATE_attr_0x7f04035a">true</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f1303eb" parent="@style/APKTOOL_DUPLICATE_style_0x7f1303ea">
+        <item name="android:background">?APKTOOL_DUPLICATE_attr_0x7f040143</item>
+        <item name="android:outlineSpotShadowColor">@android:color/transparent</item>
+        <item name="android:outlineAmbientShadowColor">@android:color/transparent</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f1300b3" parent="@style/APKTOOL_DUPLICATE_style_0x7f1300b0">
+        <item name="APKTOOL_DUPLICATE_attr_0x7f04019a">?android:dialogCornerRadius</item>
+    </style>
+    <style name="APKTOOL_DUPLICATE_style_0x7f1300b4" parent="@style/APKTOOL_DUPLICATE_style_0x7f1300b1">
+        <item name="APKTOOL_DUPLICATE_attr_0x7f04019a">?android:dialogCornerRadius</item>
+    </style>
+</resources>

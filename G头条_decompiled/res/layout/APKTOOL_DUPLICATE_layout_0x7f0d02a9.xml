@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0af8" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0af6" android:background="@color/APKTOOL_DUPLICATE_color_0x7f0603ff" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="-12.0dip" android:layout_above="@id/APKTOOL_DUPLICATE_id_0x7f0a01e8">
+        <ImageView android:layout_gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a02fc" android:layout_width="@dimen/APKTOOL_DUPLICATE_dimen_0x7f070418" android:layout_height="@dimen/APKTOOL_DUPLICATE_dimen_0x7f070418" app:APKTOOL_DUPLICATE_attr_0x7f0404e5="@drawable/APKTOOL_DUPLICATE_drawable_0x7f0802c3" />
+        <com.yalantis.ucrop.view.UCropView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0af5" android:layout_width="fill_parent" android:layout_height="fill_parent" android:alpha="0.0" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a01e8" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" />
+</RelativeLayout>

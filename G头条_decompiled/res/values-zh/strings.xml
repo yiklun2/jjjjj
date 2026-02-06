@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12006d">CalendarView</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1200be">五</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f1201a1">一</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120286">六</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12030d" formatted="false">"%s 虚假区域
+代表运行时拖动的高度【%.1fdp】 
+而不会显示任何东西"</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12030e">SmartRefreshLayout中没有找到内容视图。您是否忘记在xml布局文件中添加？</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12030f">加载失败</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120310">加载完成</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120311">正在加载…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120312">没有更多数据了</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120313">上拉加载更多</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120314">等待头部刷新完成…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120315">释放立即加载</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120316">刷新失败</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120317">刷新完成</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120318">等待底部加载完成…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120319">下拉可以刷新</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12031a">正在刷新…</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12031b">释放立即刷新</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12031c">释放进入二楼</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f12031d">上次更新 M-d HH:mm</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120333">日</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120334">四</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120338">二</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120373">三</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120384">取消</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120385">图片不存在</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120386">确定</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120387">保存</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120388">图片保存失败</string>
+    <string name="APKTOOL_DUPLICATE_string_0x7f120389">已保存到相册</string>
+</resources>

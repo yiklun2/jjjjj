@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" app:APKTOOL_DUPLICATE_attr_0x7f04031f="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f040325="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f040339="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f04033d="APKTOOL_DUPLICATE_id_0x7f0a0572">
+        <ImageView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a03eb" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f004c" />
+        <TextView android:textSize="12.0dip" android:textStyle="bold" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f0600d8" android:gravity="center" android:layout_gravity="center_horizontal" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0784" android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f08024d" android:layout_width="wrap_content" android:layout_height="30.0dip" android:layout_marginTop="14.0dip" android:text="去充值" android:paddingStart="21.0dip" android:paddingEnd="21.0dip" app:APKTOOL_DUPLICATE_attr_0x7f040325="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f040339="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f04033c="@id/APKTOOL_DUPLICATE_id_0x7f0a03d9" />
+        <ImageView android:layout_gravity="center_horizontal" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0344" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="14.0dip" android:src="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f01f2" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

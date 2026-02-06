@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0af7" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.appcompat.widget.Toolbar android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0754" android:background="@color/APKTOOL_DUPLICATE_color_0x7f06040b" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?APKTOOL_DUPLICATE_attr_0x7f04000a">
+        <TextView android:textSize="18.0sp" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06040c" android:layout_gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0755" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/APKTOOL_DUPLICATE_string_0x7f12033d" style="@style/APKTOOL_DUPLICATE_style_0x7f130243" />
+    </androidx.appcompat.widget.Toolbar>
+    <FrameLayout android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a02c8" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/APKTOOL_DUPLICATE_id_0x7f0a0631" android:layout_below="@id/APKTOOL_DUPLICATE_id_0x7f0a0754" />
+    <androidx.recyclerview.widget.RecyclerView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0631" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" />
+</RelativeLayout>

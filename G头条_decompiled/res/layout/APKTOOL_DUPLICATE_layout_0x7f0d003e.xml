@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:background="@color/APKTOOL_DUPLICATE_color_0x7f060028" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.recyclerview.widget.RecyclerView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0606" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="24.0dip" android:layout_marginTop="10.0dip" app:APKTOOL_DUPLICATE_attr_0x7f04033d="APKTOOL_DUPLICATE_id_0x7f0a0572" />
+    <com.scwang.smart.refresh.layout.SmartRefreshLayout android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a06cc" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginTop="6.0dip" app:APKTOOL_DUPLICATE_attr_0x7f04031f="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f04033c="@id/APKTOOL_DUPLICATE_id_0x7f0a0606">
+        <androidx.recyclerview.widget.RecyclerView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a05ba" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </com.scwang.smart.refresh.layout.SmartRefreshLayout>
+    <a.D android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0b9d" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="0.0dip" app:APKTOOL_DUPLICATE_attr_0x7f04031f="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f04033c="@id/APKTOOL_DUPLICATE_id_0x7f0a0606" />
+    <ImageView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a032f" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="40.0dip" android:src="@mipmap/APKTOOL_DUPLICATE_mipmap_0x7f0f0102" android:layout_marginEnd="10.0dip" app:APKTOOL_DUPLICATE_attr_0x7f04031f="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f040325="APKTOOL_DUPLICATE_id_0x7f0a0572" />
+</androidx.constraintlayout.widget.ConstraintLayout>

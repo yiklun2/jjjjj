@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:gravity="center" android:id="@android:id/secondaryProgress" android:left="15.0dip" android:top="15.0dip" android:right="15.0dip" android:bottom="15.0dip">
+        <shape android:shape="oval">
+            <size android:height="20.0dip" android:width="20.0dip" />
+            <solid android:color="#ffffffff" />
+        </shape>
+    </item>
+    <item android:gravity="center" android:id="@android:id/background">
+        <shape android:shape="oval">
+            <size android:height="30.0dip" android:width="30.0dip" />
+            <solid android:color="#96ffffff" />
+        </shape>
+    </item>
+</layer-list>

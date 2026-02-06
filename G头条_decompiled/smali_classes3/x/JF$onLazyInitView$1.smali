@@ -1,0 +1,48 @@
+.class public final Lx/JF$onLazyInitView$1;
+.super Lm0/a;
+.source "JF.kt"
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Lx/JF;->onLazyInitView(Landroid/os/Bundle;)V
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x19
+    name = null
+.end annotation
+
+
+# instance fields
+.field public final synthetic this$0:Lx/JF;
+
+
+# direct methods
+.method public constructor <init>(Lx/JF;)V
+    .locals 0
+
+    iput-object p1, p0, Lx/JF$onLazyInitView$1;->this$0:Lx/JF;
+
+    .line 1
+    invoke-direct {p0}, Lm0/a;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public onSingleClick(Landroid/view/View;)V
+    .locals 0
+    .param p1    # Landroid/view/View;
+        .annotation build Lorg/jetbrains/annotations/Nullable;
+        .end annotation
+    .end param
+
+    .line 1
+    iget-object p1, p0, Lx/JF$onLazyInitView$1;->this$0:Lx/JF;
+
+    invoke-static {p1}, Lx/JF;->access$showAwOfficePopup(Lx/JF;)V
+
+    return-void
+.end method

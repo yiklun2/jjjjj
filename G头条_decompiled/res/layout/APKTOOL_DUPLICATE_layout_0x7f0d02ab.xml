@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a073b" style="@style/APKTOOL_DUPLICATE_style_0x7f13047d" />
+    <com.yalantis.ucrop.view.widget.HorizontalProgressWheelView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0648" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_toLeftOf="@id/APKTOOL_DUPLICATE_id_0x7f0a0b9a" android:layout_toRightOf="@id/APKTOOL_DUPLICATE_id_0x7f0a0b99" android:layout_below="@id/APKTOOL_DUPLICATE_id_0x7f0a073b" android:layout_toStartOf="@id/APKTOOL_DUPLICATE_id_0x7f0a0b9a" android:layout_toEndOf="@id/APKTOOL_DUPLICATE_id_0x7f0a0b99" />
+    <FrameLayout android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0b99" android:background="?APKTOOL_DUPLICATE_attr_0x7f0404a6" android:layout_centerVertical="true" style="@style/APKTOOL_DUPLICATE_style_0x7f13047f">
+        <ImageView app:APKTOOL_DUPLICATE_attr_0x7f0404e5="@drawable/APKTOOL_DUPLICATE_drawable_0x7f0802bb" style="@style/APKTOOL_DUPLICATE_style_0x7f13047a" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0b9a" android:background="?APKTOOL_DUPLICATE_attr_0x7f0404a6" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" style="@style/APKTOOL_DUPLICATE_style_0x7f13047f">
+        <ImageView android:src="@drawable/APKTOOL_DUPLICATE_drawable_0x7f0802b5" android:tint="@color/APKTOOL_DUPLICATE_color_0x7f060411" style="@style/APKTOOL_DUPLICATE_style_0x7f13047a" />
+    </FrameLayout>
+</RelativeLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f0801e5" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:textSize="14.0dip" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06007d" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:text="如遇网络加载慢/加载失败，请尝试切换线路" android:layout_marginStart="20.0dip" android:layout_marginEnd="20.0dip" />
+    <TextView android:textSize="16.0dip" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06017b" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:text="在【我的】- 【切换线路】中进行设置" android:layout_marginStart="20.0dip" android:layout_marginEnd="20.0dip" />
+    <View android:background="@color/APKTOOL_DUPLICATE_color_0x7f0600fe" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginTop="12.5dip" />
+    <TextView android:textSize="16.0dip" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f060101" android:gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a08c8" android:layout_width="fill_parent" android:layout_height="50.0dip" android:text="我知道了" />
+</LinearLayout>

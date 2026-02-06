@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.github.gzuliyujiang.wheelview.widget.WheelView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0b7e" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" style="@style/APKTOOL_DUPLICATE_style_0x7f13030e" />
+        <TextView android:layout_gravity="center_vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0b7d" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" />
+        <com.github.gzuliyujiang.wheelview.widget.WheelView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0b81" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" style="@style/APKTOOL_DUPLICATE_style_0x7f13030e" />
+        <TextView android:layout_gravity="center_vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0b80" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" />
+        <com.github.gzuliyujiang.wheelview.widget.WheelView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0b83" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" style="@style/APKTOOL_DUPLICATE_style_0x7f13030e" />
+        <TextView android:layout_gravity="center_vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0b82" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" />
+    </LinearLayout>
+    <ProgressBar android:layout_gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0b7f" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@android:style/Widget.ProgressBar" />
+</FrameLayout>

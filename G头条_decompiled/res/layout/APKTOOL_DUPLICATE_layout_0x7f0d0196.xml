@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a03b1" android:layout_width="72.0dip" android:layout_height="72.0dip" android:src="@color/APKTOOL_DUPLICATE_color_0x7f060135" app:APKTOOL_DUPLICATE_attr_0x7f040339="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f04033d="APKTOOL_DUPLICATE_id_0x7f0a0572" />
+    <TextView android:textSize="12.0dip" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f060084" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0a57" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" app:APKTOOL_DUPLICATE_attr_0x7f040325="@id/APKTOOL_DUPLICATE_id_0x7f0a03b1" app:APKTOOL_DUPLICATE_attr_0x7f040339="@id/APKTOOL_DUPLICATE_id_0x7f0a03b1" app:APKTOOL_DUPLICATE_attr_0x7f04033c="@id/APKTOOL_DUPLICATE_id_0x7f0a03b1" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:background="#cc000000" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:paddingTop="4.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageButton android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0277" style="@style/APKTOOL_DUPLICATE_style_0x7f130126" />
+        <ImageButton android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a027b" style="@style/APKTOOL_DUPLICATE_style_0x7f130127" />
+        <ImageButton android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a027f" style="@style/APKTOOL_DUPLICATE_style_0x7f130121" />
+        <ImageButton android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a027a" style="@style/APKTOOL_DUPLICATE_style_0x7f130121" />
+        <ImageButton android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0273" style="@style/APKTOOL_DUPLICATE_style_0x7f130125" />
+        <ImageButton android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0272" style="@style/APKTOOL_DUPLICATE_style_0x7f130124" />
+        <ImageButton android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0267" style="@style/APKTOOL_DUPLICATE_style_0x7f130122" />
+        <ImageButton android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a026e" style="@style/APKTOOL_DUPLICATE_style_0x7f130123" />
+        <ImageButton android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0287" style="@style/APKTOOL_DUPLICATE_style_0x7f130128" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.0dip">
+        <TextView android:textSize="14.0sp" android:textStyle="bold" android:textColor="#ffbebebe" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0276" android:paddingLeft="4.0dip" android:paddingRight="4.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="false" />
+        <View android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0279" android:layout_width="0.0dip" android:layout_height="26.0dip" android:layout_weight="1.0" />
+        <TextView android:textSize="14.0sp" android:textStyle="bold" android:textColor="#ffbebebe" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0263" android:paddingLeft="4.0dip" android:paddingRight="4.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="false" />
+    </LinearLayout>
+</LinearLayout>

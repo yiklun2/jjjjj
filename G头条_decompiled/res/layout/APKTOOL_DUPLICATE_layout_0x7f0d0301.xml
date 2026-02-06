@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/APKTOOL_DUPLICATE_dimen_0x7f0700c7" android:layout_marginRight="@dimen/APKTOOL_DUPLICATE_dimen_0x7f0700c7"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f080291" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:textSize="@dimen/APKTOOL_DUPLICATE_dimen_0x7f0703eb" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f060084" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a00a3" android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f080158" android:layout_width="fill_parent" android:layout_height="@dimen/APKTOOL_DUPLICATE_dimen_0x7f0701cd" android:text="@string/APKTOOL_DUPLICATE_string_0x7f12028c" />
+        <include layout="@layout/APKTOOL_DUPLICATE_layout_0x7f0d0136" />
+        <Button android:textSize="@dimen/APKTOOL_DUPLICATE_dimen_0x7f0703eb" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f060084" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a00a1" android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f080157" android:layout_width="fill_parent" android:layout_height="43.0dip" android:text="@string/APKTOOL_DUPLICATE_string_0x7f12028d" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f080291" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/APKTOOL_DUPLICATE_dimen_0x7f0701ef" android:layout_marginBottom="@dimen/APKTOOL_DUPLICATE_dimen_0x7f0701d6">
+        <Button android:textSize="@dimen/APKTOOL_DUPLICATE_dimen_0x7f0703eb" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f060084" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a00a4" android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f080156" android:layout_width="fill_parent" android:layout_height="@dimen/APKTOOL_DUPLICATE_dimen_0x7f0701cd" android:text="@string/APKTOOL_DUPLICATE_string_0x7f12028b" />
+    </LinearLayout>
+</LinearLayout>

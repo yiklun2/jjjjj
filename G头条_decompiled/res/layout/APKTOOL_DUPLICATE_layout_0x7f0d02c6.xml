@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.github.gzuliyujiang.wheelview.widget.NumberWheelView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0b7c" android:visibility="visible" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.2" style="@style/APKTOOL_DUPLICATE_style_0x7f13030e" />
+    <TextView android:layout_gravity="center_vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0b7b" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" />
+    <com.github.gzuliyujiang.wheelview.widget.NumberWheelView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0b79" android:visibility="visible" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" style="@style/APKTOOL_DUPLICATE_style_0x7f13030e" />
+    <TextView android:layout_gravity="center_vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0b78" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" />
+    <com.github.gzuliyujiang.wheelview.widget.NumberWheelView android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0b77" android:visibility="visible" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" style="@style/APKTOOL_DUPLICATE_style_0x7f13030e" />
+    <TextView android:layout_gravity="center_vertical" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0b76" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" />
+</LinearLayout>

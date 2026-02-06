@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:background="@drawable/APKTOOL_DUPLICATE_drawable_0x7f0801d7" android:layout_width="wrap_content" android:layout_height="28.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:textSize="12.0dip" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f060173" android:gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0a46" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="\# 这是我们推荐话题" android:paddingStart="16.0dip" android:paddingEnd="16.0dip" app:APKTOOL_DUPLICATE_attr_0x7f04031f="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f040339="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f04033d="APKTOOL_DUPLICATE_id_0x7f0a0572" />
+</androidx.constraintlayout.widget.ConstraintLayout>

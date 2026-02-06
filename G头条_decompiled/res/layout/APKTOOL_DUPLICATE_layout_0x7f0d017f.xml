@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout android:layout_width="50.0dip" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:textSize="12.0dip" android:textColor="@color/APKTOOL_DUPLICATE_color_0x7f06017b" android:gravity="center" android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0768" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" android:text="演员姓名" android:singleLine="true" app:APKTOOL_DUPLICATE_attr_0x7f040325="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f040339="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f04033c="@id/APKTOOL_DUPLICATE_id_0x7f0a0390" />
+    <c.F android:id="@id/APKTOOL_DUPLICATE_id_0x7f0a0390" android:layout_width="40.0dip" android:layout_height="40.0dip" android:src="@color/APKTOOL_DUPLICATE_color_0x7f060135" android:scaleType="centerCrop" app:APKTOOL_DUPLICATE_attr_0x7f040325="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f040339="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f04033d="APKTOOL_DUPLICATE_id_0x7f0a0572" app:APKTOOL_DUPLICATE_attr_0x7f040477="true" />
+</androidx.constraintlayout.widget.ConstraintLayout>
